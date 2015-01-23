@@ -31,6 +31,7 @@ class RedditParser:
 						assert isinstance(submission, praw.objects.Submission)
 						sys.stdout.write("replacing moreComment items\r")
 						submission.replace_more_comments(limit=16, threshold=10)
+						sys.stdout.write("                           \r")
 						for comment in submission.comments:
 							assert isinstance(comment, praw.objects.Comment), type(comment)
 							if abs(comment.score) < 3:

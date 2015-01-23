@@ -1,5 +1,7 @@
 from redditParser import RedditParser
-from manipulator import Manipulator
+
+from datetime import datetime as DateTime
+from manipulator import *
 
 mostSubscribed = [
 	"funny", "pics", "askreddit", "todayilearned", "worldnews", "science", "iama", "blog", "videos", "gaming"]
@@ -17,17 +19,22 @@ others = [
 
 
 def main():
+	startTime = DateTime.now()
+	subredditList = list(set(mostSubscribed + defaults + others))  # remove dupes
+
+	print()
+	print("started at " + str(startTime))
 	print("Analysing the top ", len(mostSubscribed), " subreddits")
 	print("Analysing ", len(defaults), " defaults")
 	print("Analysing ", len(others), " others")
-	print("Analysing ", len(mostSubscribed) + len(defaults) + len(others), " total")
+	print("Analysing ", len(subredditList), " total")
+	print()
 
-	#redditParser = RedditParser(mostSubscribed + defaults + others)
+	redditParser = RedditParser(subredditList)
 
-	Manipulator.fileSorter("data/funny")
+	processFileList(subredditList)
 
-# for subReddit in :  # print(redditParser.getComments(subReddit))
-
+	print("Finished, took " + str(DateTime.now() - startTime))
 
 if __name__ == "__main__":
 	main()
