@@ -1,0 +1,540 @@
+|-| cntt2s0 || 6 || My house is very cold and expensive to heat. This is the first step towards a warm home and lower energy bills. Sealing leaks and blowing insulation into the attic is next.  Then I will insulate the floors.  |-| 
+|-| cnttqj9 || 14 || First thing I recommend to my friends when they buy a place. Insulate everything. For $650 (I paid cash making it cheaper) I got blown in insulation 16 inches deep in my attic on top of the existing 2 inch insulation. 
+
+It has saved me a tank of oil a year meaning it paid for itself in a year and a half. 
+
+Great investment.  |-| 
+|-| cntu9mb || 3 || Why does it look like your 2x10 are on their side? Who builds a floor like that? |-| 
+|-| cntv8kq || 9 || Wrap all your pipes with foam surrounds. You are losing tons of heat on your hot water lines. |-| 
+|-| cntwo7n || 4 || Looks like a transformer for a doorbell.
+
+Alternatively, it could be a 24V HVAC  power supply. |-| 
+|-| cntwppi || 10 || Doorbell transformer. |-| 
+|-| cntx1km || 4 || Try putting some thicker tape over the plastic and on the bottom of the window.  Likely happening from the draft from the window, plastic moving in and out will eventually pull up one spot or the other |-| 
+|-| cntxqyv || 4 || Instead of taping on the horizontal portion of the sill, tape on the vertical face.
+
+And don't shrink the film so much; leaving a bit of play will go a long way to lessening the pressure exerted on the film and it will keep longer.  I've had windows wrapped for two winters now without air leaks. |-| 
+|-| cnty8f7 || 3 || Turn off the other two places that still work. If the well keeps running, the pipes to you burst somewhere underground. If the well stops, then the pipe to you is frozen and blocked. Turn the water back on and deal with which ever problem you've got. |-| 
+|-| cntyksi || 10 || The 6V battery provides power for the circuit. The symbol is oriented so that the negative terminal (down) goes to "ground" and the positive (up) goes through a photoresistor, which is the part labeled "LDR" (light-dependent resistor).
+
+The photoresistor allows a variable current to pass based on the light exposure it gets.
+
+The round thing in the middle with "B", "C" and "E" labels is an NPN bipolar junction transistor, or just "transistor" or "BJT." In this circuit, it amplifies the current from the photoresistor it gets on "B" (base), which you can think of as the transistor's "control input", and allows more or less current to pass through between "C" (collector) and "E" (emitter). When the photoresistor (LDR) puts enough current through B, the transistor will allow enough current between C and E for the motor to begin spinning. Basically, you are using a small current, produced by the photoresistor, to control a relatively large current required by the motor to operate. It's an electronic switch, or really, an electronic speed control.
+
+The diode protects the transistor from back EMF when the motor slows down. The motor spinning has some inertia, and when you take the voltage away from the motor or reduce its available current, it continues to spin a bit before it slows to the right speed or stops. This actually turns the motor into a generator, making an excess voltage that actually flows in reverse in the circuit, and that could potentially damage the transistor. The diode selectively (by its orientation) shorts this reverse voltage, so it just passes into oblivion (not really, it becomes a small amount of heat, but practically speaking, it's gone).
+
+The diagram is a little incomplete. The 6V terminal over the top of the motor symbol should just be a wire connection to the positive terminal of the 6V battery, where LDR and the battery are connected. That may not necessarily be true if, for example, you were trying to control a 24V motor from this circuit, which you could do.
+
+The ground symbols mean implicitly that the negative terminal of the battery is connected to E on the transistor. For this circuit as drawn, with everything powered from the same 6V battery, you could just consider this a wire from the negative terminal of the battery to E on the transistor.
+
+Edit: spelling |-| 
+|-| cnu4f7c || 8 || How is it holding up?
+
+Also, not for nothing, but it looks like that room has water damage resulting in some possible mold? I hope you are taking care of that! |-| 
+|-| cnu4hcp || 3 || That was an awesone build man. |-| 
+|-| cnu518o || -5 || Why would you bother?  Wifi speeds are as fast as your internet connection. |-| 
+|-| cnu5ax4 || -7 || WiFi is the answer to all of your questions. |-| 
+|-| cnu5nu9 || 3 || From what I can tell in pictures 6-8, it looks like the threaded insert has come out of the back of the seat. The black screw you have should screw into the brass insert, which is normally stuck in the chairback, but it is currently on the screw.  The insert is the part that creates the tension and allows the back to stay upright.
+
+If that is the real problem, then you can just glue the inserts back into the back and then screw everything back together. I would recommend something like gorilla glue and be sure not to get it in the threaded portion, as that will make it hard to get the crews back in.  |-| 
+|-| cnu5w86 || 8 || Oh wow, a paper floor. Interesting. Are you flipping this house? |-| 
+|-| cnu6p1w || -6 || This is just plain ugly, like horrific looking. I can't imagine something that say louder "I'm a lefty liberal boho concerned about the environment but I don't know shit so I still use poly varnish (yes water based doesn't mean it's just water)". |-| 
+|-| cnu6xzv || 25 || [DIWHY](http://www.reddit.com/r/diwhy) |-| 
+|-| cnu7130 || 15 || Surely there are other low-cost, eco-friendly options that doesn't look like you just slapped paperbags on your floor. The cheapest laminate floor option is $0.59/sqft at the home depot and it looks much better than paper bags. |-| 
+|-| cnu8prc || 3 || Looks great. I had never thought about adding the tap insert between the lid and freezer base - very clever and eliminates unnecessary holes.  |-| 
+|-| cnu8t8t || 7 || I like this question - ignore those who keep saying wireless is just as good - it isn't.  
+I wired my last home for Gigabit when I moved into it in 2003, and it was awesome the entire time I lived there.  I went all out when I did it, had a punchdown block in the basement and 24 drops in the house (half of which were in the basement for LAN parties - I did say it was 2003!).  
+If you pick up a box of Cat 5E cable, you would surely be able to do your entire trailer - I was fortunate enough to have multiple leftover boxes from a job site that were too short for commercial wiring, but plenty long enough for a house (where the max run is typically well under 100') which allowed my to run multiple cables at the same time.  
+I do recommend modular wall plates - you can get them from graybar - that will let you put up to 4-6 of varies types of cables coming out of any location.  I had one I terminated at my desk are that had 3 RJ-45 for network, 2 coax for cable, and 1 for telephone (that remained unused for 10 years).  It gives a much cleaner look and is only a little bit more money and effort.  
+
+You shouldn't have to worry about cable length in a residential trailer - no worry about speed drop.  
+
+Then at the head end (where everything comes together), tie it all into a small gigabit switch - obviously you need one port for each jack in the house, so plan accordingly. |-| 
+|-| cnuafp2 || 20 || Put a bird on it! |-| 
+|-| cnub7ex || 14 || Out of curiosity, why didn't you just stain and seal the concrete? |-| 
+|-| cnublq6 || 3 || Wow, these are very nice. Better than the zebra print I expected (I had no idea zebrawood was a thing). |-| 
+|-| cnuck6r || 4 || Looks really good. 
+
+With that being said, I would go the extra mile and enclose the LEDs so that the only light coming through would be through the holes. Doesn't seem like much more work at this point.
+
+But again, it looks good as is and my suggestion is merely a preference. |-| 
+|-| cnufl9t || 6 || As a 53 year old, balding, software developing, mostly conservative (but socially liberal) father of three I thing it's awesome! I would have to see it in person to pass final on it. The color and texture looks great!  |-| 
+|-| cnug0c4 || 3 || Very nice. |-| 
+|-| cnuhian || 3 || Not what I would have chosen but it looks better than some stained concrete jobs I've seen.  Overall impression: neat. |-| 
+|-| cnui15a || 3 || Very brave of you to drill those holes. Respect.  |-| 
+|-| cnuih1l || -5 || Very nice.  Thank you for not putting the final picture first. |-| 
+|-| cnunavi || 6 || ITT: judgmental people.
+
+BTW ... DID YOU SEAL IT?? |-| 
+|-| cnunt6u || 3 || It looks nice, but I don't think it would pass inspection and glue and paper is a perfect breeding ground for mold. Mold can kill you. |-| 
+|-| cnupz47 || 16 || Nice job! Now make sure you attach it to the wall. And congrats on the baby! |-| 
+|-| cnuqua9 || -6 || I read "found a crossdresser on craigslist" |-| 
+|-| cnuucu5 || 3 || The paint job turned out great! What type of paint did you use? |-| 
+|-| cnuuwo2 || 33 || So, not to question you op, but were I you I would have simply sanded a bit better, put a few coats of poly on it to make it shine and left it. That's some NICE mid-century wood. 
+
+Also, it's a changing table. Sadly, good poly is more resistant and easier to clean than paint.  |-| 
+|-| cnuv0uw || 11 || Looks great. It really wasn't necessary to sand down to bare wood if you were painting, though. A proper water based primer (hint: not sold at home depot) would stick to the cabinet with a light sanding, or not sanding at all.
+
+Edit: proper cleaning is still necessary though. I usually wipe with varsol, light sand, and vacuum or wipe with a tack cloth.  |-| 
+|-| cnuv4yg || 47 || It looks nice, good color. I'm always bummed to see beautiful grain covered in paint, though. Also, what did you do with the "gross" brass handles? They're much like the ones that were on my childhood dresser that I no longer have, and I like them a lot. |-| 
+|-| cnuv87c || 16 || Sad to see that beautiful wood painted.  |-| 
+|-| cnuvcbx || 16 || Noooo why'd you do all that sanding if you were just gonna paint it. Should have just poly'd it |-| 
+|-| cnuve7e || 3 || I'm worried about it being a changing table. Although babies should never be left unattended, the lip on changing tables, still really helps when you have an active baby.  FYI my autocorrect kept putting "hanging table." Oh, autocorrect! |-| 
+|-| cnuvmc4 || 7 || Well...good job, good effort, it was brown now it's blue.  It's not better looking it's just different than before. If the old handles were brass, consider putting them back on craigslist, you may get the price of the dresser and then all you spent was the time and materials. Also it seems like it would be uncomfortable for the baby as a changing table and unsafe as it is.  If the top drawer was taken out and set on the top there would be a lip to hold the baby from rolling off. You could paint the inside of the carcass where the drawer was to match the rest of the dresser or a contrasting color and use that space to hold diapers and wipes. Then when you don't need a changing table any longer put the drawer back in. Just a suggestion.   |-| 
+|-| cnuvp5a || 8 || Nice work, though a shame you covered up that beautiful wood after taking the effort to do such a thorough job sanding it. Though as someone else said, you want to put a lip on the top of that to ensure your baby doesn't roll off. Once they become active, you literally cannot let your eyes off them for a split second. That's all it takes for them to decide the first time to roll over is on that changing table while you turn around to grab something. I have a 9 month old and yesterday she was sitting in a bumbo chair on the floor, reached just a little too far for a toy while I was paying more attention to making dinner, and she fell face first onto the floor. Thankfully she didn't hurt herself, just the shock of falling out of her seat, but that would have been a nasty fall from a changing table height. |-| 
+|-| cnuw1ce || 9 || I'm sad that you painted and did not stain.  |-| 
+|-| cnv06yn || 3 || Did you delete this and resubmit it? |-| 
+|-| cnv1pqa || 4 || Post pics of your debris.
+
+Or just Google "frass" and look at the pics. |-| 
+|-| cnv2ajf || 5 || Great job! Looks awesome! Where's the E on the crest though? 
+
+Your daughter is super lucky! |-| 
+|-| cnv2kz8 || 43 || Wow.
+
+Super work dad.
+
+And super dadding too!
+
+ |-| 
+|-| cnv2yue || 5 || I'm sure people more knowledgeable than I am will chip in. My experience is that the lacquer will seal the wood and create a film on top. Oil needs to soak into the wood fibers. Therefore, you need to do it in reverse order: oil first, then lacquer over top of that once the oil has cured. |-| 
+|-| cnv3mi8 || 4 || Very nicely done! 
+
+Did you track how much all of this cost you? I'd be really interested to hear the final total. Love that glass tile you put as a backsplash! |-| 
+|-| cnv3qgh || 5 || Now that you have lived in it for awhile is there anything you would choose to do differently? |-| 
+|-| cnv499l || 4 || I'm going to be remodelling my kitchen this year. While I don't need to replace cabinets it's going to be quite the job. What are some of the things you ran into that you wish you would of known about before starting?  |-| 
+|-| cnv4bm2 || -4 || Great job, you're a great parent.  
+
+It's too bad after 3-4 years tops she will no long want a princess bed and you will be forced to sell it on craigslist to some creeper for $50. |-| 
+|-| cnv4fyu || 42 || Hopefully you don't get a message in a few years saying your daughter is in another castle. |-| 
+|-| cnv4ge3 || 165 || You jerk. Did you think about those of us that no matter how hard we try wood work is always crap? no? 
+
+seriously, looks like a good job. Once, I tried to build a bird house with my kids, and now the area is off limits because of the radiation.
+
+:)
+
+ |-| 
+|-| cnv4tx3 || 3 || Post a pic, but probably yes. |-| 
+|-| cnv4xv3 || -13 || You know that's illegal, right? |-| 
+|-| cnv5qx9 || 4 || Very detailed.  Enjoyed all the detailed pictures.
+ |-| 
+|-| cnv5xwy || 4 || Thanks for sharing.  Are you satisfied with the IKEA cabinets?  Were they pretty easy to install other than the uneven floors? |-| 
+|-| cnv62t9 || 9 || I can't say I've ever seen a fireplace and thought "wow, that looks good" before. Good job |-| 
+|-| cnv72c5 || 49 || Those doll heads without bodies creep me out. |-| 
+|-| cnv7f2z || 6 || Welp... I know what  I'm doing with the next 4 weekends. |-| 
+|-| cnv7kuf || 3 || I winced when I saw that you used maple veneer plywood - then painted it. Might as well have used MDF. |-| 
+|-| cnv7rbf || 53 || Thank you so much for taking the time to level out your headlights. I see so many fucking idiots driving around who can't be assed to level out the beams after replacing a bulb.  |-| 
+|-| cnv8gom || 5 || Really nice job. I am about to tackle a kitchen remodel and the closest Ikea is about 300 miles away, which is a major bummer. Are those hardwood floors or laminate? We are thinking of putting laminate in but I'm worried it won't hold up.  |-| 
+|-| cnv8obm || 24 || This is magnificent. My wife and I were also thinking about doing something like this. Do you have any specifics on the stone (color, where you purchased it, etc)?  |-| 
+|-| cnv8rzh || 5 || I like it! Is there a pattern for connecting the string to the nails? Or is it random?  |-| 
+|-| cnv8stx || 8 || U did a great job i love it! Hope ur SO did as well. How were u able to print each section of the dog on different papers? |-| 
+|-| cnv93md || 4 || That is a fantastic looking kitchen! Great Job.
+What program did you use for the design? |-| 
+|-| cnv9455 || 31 || You are my hero. I told my daughter once that if we have another baby (she's an only child), she would have to move to a downstairs bedroom. But since the room is smaller, we would build a princess castle bunk bed so she still had room to play. She was 3 then. Now she's 7, still remembers that vividly, and I'm nervous to have another kid because I can't build anything remotely like what you've done, lol. Seriously, though, great job...it looks awesome. |-| 
+|-| cnv99fk || 3 || I'm just some random asshole but if I was going to put a lot of weight on those shelves (more than 100-150lbs or so) or throw heavy stuff onto them (shock weight), I'd do a little reinforcement.  Ground supports will help keep things from pulling down and twisting from above.
+
+Looks nice though. |-| 
+|-| cnv9ce7 || 3 || You sir, are an awesome dad! |-| 
+|-| cnv9jsm || 14 || I really like the look of your headboard, especially after you lowered the lamps.
+
+My only question is, why did you choose pegboard as the base? |-| 
+|-| cnv9l8h || 4 || You should get some window shutters we recently got some and really love how they modernize our house |-| 
+|-| cnv9mlj || 14 || So, this is not a wood burning or even a gas fireplace, but just lights up with plastic flames to LOOK like a fireplace? Am I getting this right? |-| 
+|-| cnv9p05 || 6 || dad of the year, for all the years! |-| 
+|-| cnva7nw || 3 || It's absolutely gorgeous! |-| 
+|-| cnvajag || 4 || What is this?!? A stadium for ants?!? |-| 
+|-| cnvanye || 4 || Do you have an estimate of how much this project cost in total? Btw, very cool! |-| 
+|-| cnvcl11 || 6 || That's a heckuva dad there, I tell you hwat. |-| 
+|-| cnvcl2r || 4 || That looks AWESOME. My only question is where are things like the DVD player and cable box? You can't get up and go over to that closet anytime you want to pause your movie, right? |-| 
+|-| cnvcx0w || 11 || So much more room for activities! |-| 
+|-| cnvcxex || 4 || Those are the same faces I just ordered on my IKEA kitchen. |-| 
+|-| cnvdfc4 || 14 || a wild Homer appears.. |-| 
+|-| cnvdi2m || 3 || WOW!  Impressive. |-| 
+|-| cnvdm7m || 5 || /r/space would probably love this. |-| 
+|-| cnvdr09 || 10 || I've been going through a moon phase recently (pun absolutely intended), and thought it would be fun to make a wearable or totable that displayed the current state of the moon. There would be a bit of hardware involved, so a purse seemed like the perfect vehicle—you're already carrying a load of other things, so there's no harm in the addition of a small battery pack or a pile of LEDs. Not that I carry a purse myself, but it's more about the making than it is the having.
+
+I experimented with matrices of LEDs turning off and on in the right places to show the current phase, but it didn't have the precision I wanted—you could still see the individual pixels. What I realized would work, though, was a white EL panel and interchangeable masks for each phase.
+
+The purse is made from heavy-duty black marine vinyl. The fabric print of the moon was uploaded to and custom ordered from [Spoonflower](http://spoonflower.com). The masks were laser cut out of Delrin by [Ponoko](http://ponoko.com). The electronics came from [Adafruit](http://adafruit.com) and [SparkFun](http://sparkfun.com).
+
+The inverter that converts the two AA batteries into the high voltage the EL panel requires makes a high-pitched whine, but when it's closed into the purse you can't hear it unless you're listening, and even then you can't unless you're in a quiet room.
+
+ |-| 
+|-| cnve0nx || 12 || Thank you for doing it right!  So many hear just buy the electronic side of hids and put them in a halogen housing.  
+
+I wanna smash their headlights.  |-| 
+|-| cnve2qi || 17 || I usually think string art looks like crap. This, does not. I would put this on my wall.  |-| 
+|-| cnve34w || 10 || I want that bed and I'm ...not young. |-| 
+|-| cnved88 || 5 || [○_○]( http://i.imgur.com/vsMkwIi.png)
+
+Really tho..amazing work. Would love to have the ability and space to do something like this for my daughters. |-| 
+|-| cnveqwt || 5 || You might be able to find a store that has some smaller pieces that match the color and just replace a smaller section. Lowe's or Home Depot may have some.  |-| 
+|-| cnvetju || 3 || What projectors are they?  |-| 
+|-| cnvf63j || 12 || How easy is it to change the sheets on the bed? It looks awesome, and exactly what a kid would want, but I'm a boring 24 year old who thinks about stupid things like changing the sheets. |-| 
+|-| cnvfd32 || 8 || My concern is that the black reflectors would not project as much reflected light, but I take it that you do not need reflectors at all with HID bulbs?
+
+Does 'projectors' imply HID bulbs? |-| 
+|-| cnvfmmh || 5 || Dude, that's amazing. Nice job. |-| 
+|-| cnvfu7j || 3 || I'm in awe.
+
+I have filled my garage with tools but have no place to work. This is too great not to wasn't too duplicate... Although getting her to give up her canopy princess bed might be hard...
+
+When you cut the spires did you scroll saw, band saw, or some other? Just wondering as I figure those would be the most intensive set of nearly perfect cuts...
+ |-| 
+|-| cnvfy72 || 19 || So awesome!! And your children are so cute! 
+
+A question popped into my head when you mentioned your son... what's he going to get? Pirate ship? Submarine?? Or the enemy castle!! |-| 
+|-| cnvgdv4 || 82 || &gt; Never build something a fat man can't dance on.
+
+The world would have better quality of life if this quote was followed. |-| 
+|-| cnvgmuc || 44 || Was the title meant to be a double entendre? You got bored, so you bought some boards and made a bed? |-| 
+|-| cnvgnyh || -3 || Keep going and just make a rug! |-| 
+|-| cnvgpu1 || -9 || what the fuck is the matter with you? where the hell are you shopping that you spent $150 on paint alone? |-| 
+|-| cnvh249 || 4 || This is an awesome thing for a daddy to do for his daughter.  |-| 
+|-| cnvhmkd || -6 || I've seen this project before. Did you post it before? Or it will be a "I liked it so I posted to share, what is wrong it it" type of thing?
+
+Just curious cause I remember the dude gave a love of answers in the comments regarding how stuff was done. |-| 
+|-| cnvhux5 || 3 || no offense but you look like you live in a rape dungeon  |-| 
+|-| cnvi5gt || 3 || that is SO AWESOME |-| 
+|-| cnvia44 || 7 || The bed is really lovely, but I take it you're single? Only one nightstand..... |-| 
+|-| cnvict0 || 25 || Obligatory post about not using a single piece of wood under your bed so your mattress can breathe and not develop bacteria/mold. Make slats!
+
+EDIT: it's been 14 hours, RIP OP's mattress. |-| 
+|-| cnvie20 || 4 || Looks amazing! I especially love that tile. Is that from IKEA as well? |-| 
+|-| cnvijes || 3 || I love this! |-| 
+|-| cnvil1v || 3 || This is wonderful.   |-| 
+|-| cnvj05v || 6 || I like it! 
+I think if I were to do this, I would paint the peg board black or brown so that it would blend in a little better. |-| 
+|-| cnvjkab || 7 || A. You're the best dad ever
+B. Will you please adopt me and build me a treehouse? Pretty please?!?!?!!?! |-| 
+|-| cnvjonq || 9 || Well you've made your bed, now you have to lay in it.  |-| 
+|-| cnvjqvq || 34 || Can you adopt me?  I'm 25 and I still want a princess castle bed. |-| 
+|-| cnvjte8 || 32 || Nice work. One question, why the nails THEN the stain? Wouldn't it have been easier the other way around? |-| 
+|-| cnvl1hu || 12 || Looks great. Good job, as an aside, cement board should never have 4 corners meet (or any board for that matter) - it's the weakest union   |-| 
+|-| cnvldvb || 3 || I kept thinking the blue was painter's tape |-| 
+|-| cnvlgnt || 6 || I like the asymmetrical design. 
+
+What's with the cutout in the headboard? Just aesthetic? |-| 
+|-| cnvm86x || 8 || any chance you could post the plans for it?  Also is there room below for another bed?  I have two grandgirlys and a small bedroom. |-| 
+|-| cnvmial || 3 || I had a problem with my vinyl siding and did some research a few months ago. I never fixed my problem, but maybe this will help you.
+
+You can use a zip tool, link below, to pop siding on and off. You can pick up a replacement piece of siding at a big box store. I'd recommend Menards. They have some in stock and lots of samples you can take home to color match. I found the best match for my color there. You can also swap the spray painted piece with a piece from a less noticeable area.
+
+http://www.thisoldhouse.com/toh/video/0,,1630939,00.html |-| 
+|-| cnvmrf0 || -3 || MY WIFE AND I; OMFG |-| 
+|-| cnvn1sv || 8 || Wow, that is really beautiful.  Jim Henson always gives me the "anything is possible" warm and fuzzies.  My heart has just smiled, thank you. |-| 
+|-| cnvpv0z || 4 || Kinda hurts my eyes, is there a way to write so people can read it? |-| 
+|-| cnvpzbu || 20 || I'm not a car person. My rationale for why you were installing projectors on your car was that you were making a backyard drive in movie theater. I was disappointed when I got to the end.  |-| 
+|-| cnvqrnw || 3 || [He was horrified watching you guys try to get things level.](http://imgur.com/R2tumcx) |-| 
+|-| cnvr8z8 || 4 || Mucking with the treads wouldn't be recommended for safety and liability reasons.  A qualified carpenter may be able to provide a better answer once they review the support configuration.
+
+Can you build cabinetry under the staircase? 
+ |-| 
+|-| cnvrq4o || 14 || Nails, Nails, Nails, FINISHED. "120 yards of string, fuck you if you wanted to see the string process". :) |-| 
+|-| cnvsfmf || 3 || This is *amazing*! |-| 
+|-| cnvsmi0 || -7 || I hate when people re-post threads and take credit for something they didn't do. |-| 
+|-| cnvtcjj || 3 || What the hell is a Lukcy Basartd? |-| 
+|-| cnvtl6x || 3 || What happened to the E initial? Will it go on? |-| 
+|-| cnvtvdo || 7 || Does anyone else never read the word "Canal" as intended?  |-| 
+|-| cnvtydl || 4 || Holy shit you have amazing beers!!! |-| 
+|-| cnvtyx1 || -4 || Post on /r/shitty_car_mods |-| 
+|-| cnvv164 || 8 || Just wanted to say that's awesome, good job! |-| 
+|-| cnvveo0 || -6 || This is the tackiest thing I've ever seen. |-| 
+|-| cnvvuow || 29 || The aforementioned Seven Samurai Wall: https://imgur.com/a/pEc8r |-| 
+|-| cnvwu96 || 3 || What's that on the left wall?  |-| 
+|-| cnvx89w || -3 || Am I the only one wandering why they don't just have standup drink menus instead of squishing everything onto one chalkboard? |-| 
+|-| cnvycgp || 5 || Really nice project man, [eerily similar to an idea I had a while back](http://i.imgur.com/Q7oFpus.png) with my 23" touch screen and an IKEA Lack table!
+
+My idea never got further than a very crude sketchup though so it's great to see it implemented for real. |-| 
+|-| cnvyfyj || 6 || Builds DAC, uses Beats headphones. Wat? |-| 
+|-| cnvzeg5 || -5 || Drinks by Jenny, wtf? Do they come with kisses and divorce papers? |-| 
+|-| cnvzr4b || 4 || These are almost a requirement in the North..
+http://www.homedepot.com/p/Dyna-Glo-Pro-75-000-BTU-Forced-Air-Kerosene-Portable-Heater-KFA75H/202816129
+ |-| 
+|-| cnw04eb || 6 || Do you still have the Sketchup file? If so, is there anyway that you would be so kind as to post it? I really like this style and would like to build one myself.
+
+Thanks! |-| 
+|-| cnw1fs3 || 4 || Looks a lot more legible than before. Nice work. I only question the owners decision to waste so much precious space on a logo in the middle of the menu.
+
+
+TIL Chalk board markers |-| 
+|-| cnw1vjw || 11 || You don't have kids do you. |-| 
+|-| cnw20gm || 3 || Realistically it will help, but not much. I have a two car garage with two walls shared with living area, third wall framed and insulated and ceiling insulated.  I had my workshop in there and did the exact same thing to try to make it more comfortable in the winter.  First I secured the door in place to make it as air tight as possible.  Then I wrapped the garage door opening with a vapor barrier (house wrap) and hung batt insulation.  
+
+While it did reduce the drafts, without a constant source of heat the cement floor and cast iron of all of my tools constituted too much thermal mass to be able to warm up the space easily when I went out to use it each day.  I even tried maintaining a higher than normal temperature using a space heater but that was just an expensive struggle.  
+
+**TL;DR** Without a constant and properly sized heat source (read: expensive), the effect of insulated around the door won't be worth the time. |-| 
+|-| cnw212d || 15 || Cool idea but doesn't it get hot? |-| 
+|-| cnw23c8 || 3 || This is awesome! I think it could be great for tabletop gaming too.  |-| 
+|-| cnx64fs || 4 || Money not necessarily an option, how about [Festool](https://www.festoolusa.com/power-tools/cordless-drills/) |-| 
+|-| cnx7d6h || 4 || I am in the construction business and also had a glass block window over my tub in my condo.  First thing you need to accept is that the glass block is going to leak no matter what you do.  Glass block walls are a nightmare.  You need to manage the water that does infiltrate.  If possible, I would recommend trying to put metal or rubber flashing around the bottom stud and folded up around the jambs, pitch it outside.  The jambs and header should be wrapped also.  Be sure to overlap the flashing.  Another option is to remove some of the interior grout and use an epoxy grout.  As far as for your tile, put a crack membrane under the tile.  
+
+Even if you can only get the flashing to clear your studs, it can drain behind your siding.
+
+The amount of time and effort you are going to spend trying to get it water tight and repairing it in the future is going to approach the costs of a new window. |-| 
+|-| cnx8i9i || 5 || I favor covered storage to pegboards and french cleats.  Sawdust gets everywhere in a wood shop.  ikea cabinets are ridiculously cheap if the environment (humidity) permits. |-| 
+|-| cnxa6sz || 9 || You'll never get them back to the original finish at a reasonable price.  
+
+Consider rugs. |-| 
+|-| cnxa9rv || 7 || If they are a solid hardwood floor then you could restore them. I must warn you that it is alot of work to sand, stain, and restore a hardwood floor that has been painted over. 
+
+If you want the driftwood look and the option to return to the original floor than consider installing a driftwood snap and lock DIY laminate wood flooring on top of your current floor. If you can put legos together than you can install snap and lock wood laminate flooring. 
+
+If you ever change your mind just remove the snap and lock floor and presto your other untouched floor is right below it. Use an underlament between the floors so your snap and lock does not scratch your real wood.
+
+This gives you the option of changing your mind without all the sanding, dust, and hard work. I have used the cheaper $1 a square foot wood laminate flooring throughout my house and I love it. When looking at laminate flooring use the AC rating vice the price or thickness to determiner quality. You will notice that most of the cheap stuff has the same AC rating (AC 3.0) as the expensive stuff. 
+
+  |-| 
+|-| cnxaupa || 4 || Have you though of Hilti. They make great products. |-| 
+|-| cnxayux || 3 || I agree with you the corner of room one is your best option. It would give the best flow through, and from my perspective the cuts would be much easier. Going this route makes your bedroom door cuts easier and better looking. 
+
+Don't forget when you come through the door of bedroom one you must work from that point across the room. Minimize waste by using every scrap from a cut for starter pieces. 
+
+I find installing flooring fun and rewarding. Go for it and post pictures! 
+
+  |-| 
+|-| cnxbg6s || 3 || Cabinets mounted on a french cleat system so they can be trivially re-arranged as necessary.  Pegboard in the cabinets, if you really want pegboard, but anything exposed will gather sawdust, and in a barn, that likely means it will also gather moisture as the humidity and temperature changes, and that means rusty tools. |-| 
+|-| cnxct6s || 3 || It would be far, far cheaper and easier to buy new flooring and install it yourself.
+
+The majority of the flooring's cost comes from the finish they put on it. They do it in a factory, with bulk purchases and professionals/robots.
+
+Unless you are very experienced with wood finishes, I suggest you reconsider. You are looking a 1 hour per square foot minimum of manual labor, mostly sanding. You won't be able to refinish a 10x10 room with less than 120 hours of work, and it will take about a month worth of cure times.
+
+(to finish wood floors correctly, you are going to do many coats and sand after each one).
+
+Even after all that work, you are unlikely to match the original quality and look.
+ |-| 
+|-| cnxcuo2 || 12 || SSD |-| 
+|-| cnxd900 || 4 || I used black velvet for matting a projector. |-| 
+|-| cnxds4h || 5 || Check local theatrical supply stores for theatrical black paint, of black velour for curtains.   |-| 
+|-| cnxedbm || 7 || Wire gauge will tell you. 14 gauge is 15 amps 12 gauge is 20 amps. If you can see the romex jacketing the yellow stuff is the 12 gauge and the white stuff is 14  |-| 
+|-| cnxeih7 || 3 || Breaker and wire |-| 
+|-| cnxelxy || 7 || In addition to the other good advice you've gotten so far, I'll add that you should spend some time air sealing between the attic and the second floor. More energy is transferred by drafts than by radiation through the drywall, thus greater heat loss. Use a can of spray foam to seal up gaps around the tops of walls, plumbing vents, electrical and so on to keep air from moving from the second floor's condition space into the attic. Adding batts of insulation, even with facing, is not going to create an air-tight gap, which is what you want. It's obviously easier to air seal it before you blow in another 2 feet of fiberglass on top of what you have. |-| 
+|-| cnxgl14 || 6 || Start in the big main room, along the wall with the tile....this will minimize the amount of laminate you have to lay backwards as you enter your other rooms. 
+
+When I lay laminate below grade, I use 6mm poly as a vapour barrier and tape it up the walls just a bit so the baseboards will cover it. I use 3m Sheathing tape for this. 
+Concrete holds moisture, and that moisture can "wick" up through your laminate. This would be bad. Very bad.
+
+Quick tips:  1. Always start your rows in The shit. The shit refers to the toughest part for that particular row. Have a doorway you'll have to get through? Start your row there. Meet up with tile? Start your row there. Starting in the shit means you wont have to fight the tough parts as much. 
+ 
+2. Have a piece that you cannot get to lock in? Cut the locking mechanism off (not the whole thing, just shave it a little) with a sharp knife or chisel, and then use glue to hold it together. Tape that shit up (With painters tape!!) until the glue dries. Bam.
+
+Source: 15 years owning/operating a large flooring installation company. 
+
+
+Edit: (failed) Formatting and tape clarification.
+ |-| 
+|-| cnxhc72 || 5 || So working current is 1.5A per meter, working voltage is 12 volts... 
+
+Power (Watts) = Current (amps) x voltage
+
+Watts = 1.5A x 12VDC = 18watts per meter of strip...
+
+Any transformer/inverter over 90 watts (18 watts/meter x 5 meters) will work. It has to have an output of 12VDC though.
+
+
+Edit: I can't state for certain, but it [LOOKS](http://ecx.images-amazon.com/images/I/61o2ZVNWwxL._SL1200_.jpg) like if you cut the strip you'll have to solder wires between the R-G-B-12VDC points (labeled as such on above each orange dot). The dots are probably where the wire is supposed to be soldered). |-| 
+|-| cnxiavw || 3 || Do those 4 small rectangles represent windows? If so how big are they and how much light do they let in? You usually want natural light to go parallel with your flooring. Depending on the light it can make a big difference on how the seams in your floor look. Also you preferably want to go lengthwise in the biggest room. So my first suggestion would be to change the orientation of the way you're laying the flooring down.
+see step 2
+http://www.robinaflooring.com.my/installation/ |-| 
+|-| cnxjdwf || 3 || you know people thought putting sticks and shit on their walls was a good idea in the 70s for a moment as well.  |-| 
+|-| cnxk8rh || 11 || Goddamn! Baseboards LAST! After wall coverings, after flooring. Dead fucking last. |-| 
+|-| cnxkr6g || 3 || Try a magnetic bar for tools you grab a lot. It comes in handy. You can mount it anywhere  |-| 
+|-| cnxkwd2 || 6 || I'm a big fan of buying a shitload of milk crates and zip tying them together into a shelf. I've moved a lot of times and I love the idea of being able to bust the thing back down again, turn all the crates on their side and just like that i've got stackable moving boxes that tessellate in 3 dimensions.  |-| 
+|-| cnxl3o4 || 3 || If you notice one end being much dimmer or a yellowy-red color, try connecting the 12v at both ends of the strip to the power supply.  Those strips are pretty shitty copper with a lot of resistance, so there will be a huge voltage drop by the time the electricity gets to the end of the strip. |-| 
+|-| cnxl8e5 || -3 || OneDrive 
+15 GB free and $20 a year for 100GB.
+https://onedrive.live.com/about/en-us/plans/ |-| 
+|-| cnxlaez || 7 || I do hardwood flooring for a living and painting a floor is non-sense. |-| 
+|-| cnxlhcl || 4 || It's called a soffit. There's multiple materials you can use, and it depends on what your existing cabinets look like.  |-| 
+|-| cnxmxdv || 4 || Something like this?
+
+https://www.youtube.com/watch?v=SaG-NQ64540
+
+It seems that plexiglass and etching is the way to get stuff to light up though, so I'm not sure how easily you'd see something on the surface. You may have to sand it gently to make it slightly opaque and provide the necessary contrast. |-| 
+|-| cnxn0zc || 3 || Is your PA speaker something like [this](http://www.shopmalm.com/images/products/electronics/PHSP5.jpg)?    
+
+If so, you will require at least an [amplifier](http://www.bogen.com/products/telephonepaging/) to bump up whatever the signal is from the phone to the 70 or 100V required for this type of horn.   If the phone system does not have an analog PA out connection to go to the amp, you will need something intermediate to convert the digital signal to an analog signal for amplification.
+
+
+ 
+  |-| 
+|-| cnxn7z8 || 3 || If you just spent 4-8 a sqft to install engineered wood I wouldn't be thinking about ruining it, but it's your floor.
+
+Most cost effective engineered woods now come with a thin poly coat and thin veneer over a cheaper substrate.  If you end up sanding I would be very careful, because the wood veneer may be paper thin.  Once the poly is gone the paint should adhere to the floor then you can stress and reseal it. |-| 
+|-| cnxni7l || 3 || If you are able, you could look into 3d printing the parts.  |-| 
+|-| cnxnv12 || 7 || Honestly, I throw my bras in the washer in a mesh bag. I make sure they are hooked and they come out fine.  |-| 
+|-| cnxnyhe || 4 || You say this is a floating floor, most of that stuff is fake wood flooring with the finish basically printed on it.  If you paint it, you will never get it back to the original.
+
+Plus, painting a wood floor??  Yuck. |-| 
+|-| cnxnz0k || 3 || Are the hat savers they sell still too small? If not, buy two and wire them together. 
+
+http://www.amazon.com/CAP-SHAPER-The-Cap-Washing/dp/B000NX3XTO |-| 
+|-| cnxoto4 || -17 || [deleted] |-| 
+|-| cnxp0uc || 4 || I am confused because the example you **don't** want, is exactly what you've described only it has a black backing to it.  I had something similar toy as a kid. You apply light to edges of the glass and use luminescent dry-erase markers on. The light refracts off the marker giving a cool effect. 
+
+It's hard to distinguish with the link you provided but that one will have a black backing behind the screen to provide contrast so that the light can be seen. If you were to take the same concept without the backing, it would work pretty well but only in a dark room. Glass, LEDs and luminescent markers is all you need. |-| 
+|-| cnxpw65 || 10 || Dear god, the misinformation is rampant in this. 
+
+30 years old? Good chance it's wired 15. 
+
+Having a 20 amp outlet means nothing. The highest amperage the circuit will be exposed to is sourced at the breaker. |-| 
+|-| cnxqbnh || 3 || They make metal mending plates just for this.  Pretty much every desk return in our office has one of one type or another.  The wider the better.  I would say at least two the size of that piece of luan ran the opposite direction of what is there now.  And that MDF looks much more like 3/4" I would use screws with larger heads and just barely fit through the plates diameter wise.  Drilling small pilot holes will help avoid tearout. |-| 
+|-| cnxqcyb || 4 || Escaped former insulator here.  
+
+A]  ~~You in the US?  See if your state has one of these programs where they, or the electric company will send out an energy auditor~~.. I see you're from Maryland.. you have some kind of  home energy audit / conservation thing but I think you need to 'income qualify, [check it out.](http://www.mdhousing.org/website/Programs/lieep/Default.aspx) sometimes you can get a free energy audit, insulation advice, and even free or discounted insulation, air sealing, weatherization, and even some goodies like getting all your lightbulbs changed.  
+
+We have [this thing in MA,](http://www.masssave.com/) but I'm not sure if every state mandates this.  It's pretty good and they can give you the best advice.
+
+
+  Failing that, and depending on how much work you want to put into the whole thing...
+
+1]  **Leave the existing insulation**, unless it's something potentially problematic like vermiculite.  Bagging it up will take forever and is probably counterproductive.  
+
+1a] Extra time on your hands?  Move the old stuff out of the way so you can see the top of the ceiling drywall and **seal all penetrations** [like HVAC ducts, electrical wires coming up, or the joints created by the top-plates of interior walls etc..] with **expanding foam.**  This is a pain in the ass but it turns out that a huge part of keeping heat in is 'air sealing,' and it's the first thing the energy conservation programs do.  It's the low-hanging fruit.  Maybe you can find a spunky young person to do it, although they have to *not fall through the ceiling.*   
+
+2]  VENTILATION 
+
+figure out if you have adequate ventilation in your attic.  This means vents down near your soffits as well as vents higher up, either in the gable walls or as a long ridge vent.  Here's [a calculator for it](http://www.askthebuilder.com/calculating-ventilation-area-of-attic/), it's a ratio of attic floor space to ridge / soffit vents, and it's less compllicated than it sounds.   For ever thousand square feet of attic floor, you need X s.f. of soffit vent and x/y s.f. of ridge vent.   
+
+This should help with your mold problem and having the 'balanced' ventilation reduces the tendency of the attic to suck  air out of the house while retaining the ability of the attic to have an appropriate air flow.
+
+Protect your soffit vents from getting clogged in the next step by stapling in these [stupid little styrofoam things](https://www.youtube.com/watch?v=k1EtB8SrRQY) at the bottom of each rafter bay or make something more substantial to keep the air flowing up through the soffit vents.
+
+3]  INSULATE WITH CELLULOSE
+
+For fucks sake, don't even bother with fiberglass batts.  They're more just to get pass building inspections than to keep heat in, for two basic reasons:  
+
+a]  the open nature of fiberglass allows for air convection through the insulation, which increases as the temperature difference between inside and outside increases, i.e. when it's actually cold outside.  So when you need it to work, it's effective R value has dropped way off.
+
+b] Batts are useless in an attic... unless you're blowing cellulose over the top of the whole mess.  The spaces between the insulation and the joists are not good and will not magically improve over time. 
+
+Cellulose is the shit for so many reasons I can't even start to list them.   Most places will let you use their cellulose blowing machine and hoses if you buy the bales of cellulose from them.
+
+Get that ply out and just blow cellulose over the top of the old stuff.  You might put down a single strip of 2 x 10 on top of the joists, right down the middle of the attic so you have something to walk on, even though it will be under a foot of fluff.  That will be better than trying to find each joist to stand on when you have to get up there to replace a bathroom fan or run a wire.  
+
+You've got an R Value target, so you can just figure out what depth you will need based on a chart on the bag.  What you blow will settle a little, and they have figured out what it 'settles down to' and that's what's on the chart.  
+
+I would give up on storing shit up there.  You would need to basically frame out a platform above the insulation, and it's going to be dusty, so fuck it.  
+
+Wow, why did I write this long thing?  Anyway, good luck bro and fucking wear dust protection.  I think I fucked my lungs up by working for ten years only wearing a mask half the time.  oh well.
+ |-| 
+|-| cnxqndb || 3 || r/tinyhouses |-| 
+|-| cnxr4x5 || 3 || Pool noodles. 
+ |-| 
+|-| cnxrmde || 4 || One thing to consider instead of classic pull-drawers for your inevitable collections of hardware  and oddments is a series of [bus tubs](http://www.shopbuy.org/image/a6008456774dc45497e9fb1b0de21906.html)  arranged on slide-in racks, with flanges supporting the tub lip. Bus tubs are available for about $3 each from any restaurant/hotel/bar supplier; they are a convenient size, and astonishingly robust and versatile. They're a standardized length and width so getting the right size from a different supplier is never a prob, and you can get them in two or three different depths. You can, of course [buy racks](http://www.americanacompanies.com/rack-carts.html), but it's far cheaper to build your own, rolling or fixed, out of 3/4 ply and square 1-by stock. And unlike milk crates, bus tubs are leakproof, and have no holes for small stuff to fall through and become lost forever. 
+
+Standard wooden drawers are time-consuming to build, and decent hardware is expensive. Plus they get dirty, bind, wear and break down, especially when overloaded with too much weight; once broken, they are fussy and expensive to fix. In contrast, a busted or spilled-in bus tray costs you just the price of a coffee to replace. And reorganizing your storage is a snap - just pull 'em out, and switch 'em around. No unloading contents, or mucking about with off-register hardware, as with drawers. Plus, in a pinch, bus trays are built to lock into each other securely, if you stack them crosswise. Covers are available for delicate stuff you don't want to get dusty.
+
+Been a Motion Picture Property Master for 30 years. My 5-ton prop truck is a rolling general/hardware store full of everything from hand tools to watch pins to dolls to playing cards to hydraulic jacks. Virtually the only small items I store in drawers any more is stuff that needs to be kept secure: my inventory of watches and rings, blanks for firearms, and the like. Same thing goes in my two storage lockers - just a 20 foot long rack of bus trays on one side, and some simple plywood shelves for bulky items like luggage and coolers on the other. Very efficient, and a breeze to keep organized, using nothing more than a roll of masking tape and a Magic Marker. |-| 
+|-| cnxrrna || 41 || I really like your girlfriends box ;)  |-| 
+|-| cnxs041 || 3 || This is such an awesomely sweet thing you are doing for your SO.
+You should crowd fund and invent an expandable one that covers sizes above DD.  |-| 
+|-| cnxsdsm || 3 || Huuuuuuge stacks of porno |-| 
+|-| cnxt4jv || 3 ||   ▲ 
+
+▲ ▲ |-| 
+|-| cnxt7sx || 39 || If this doesn't make The Sound whenever it is opened, it still needs to be finished. |-| 
+|-| cnxtjaf || 15 || Whenever I try to make one the top triangle doesn't line up. |-| 
+|-| cnxty27 || 4 || [deleted] |-| 
+|-| cnxu6dp || 9 || next step: buy a nice and light colored wood veneer (request samples, you'll get it for free) and a chisel, and then make the triforce a wood inlay instead of paint. |-| 
+|-| cnxubw0 || 7 || I was really hoping you were going to show the pizza box being manipulated into the final product.
+
+Step 1: Pizza box
+Step 2: Draw on pizza box with pencil
+Step 3: Beautiful wood box with stained triforce!
+
+Nice box :) |-| 
+|-| cnxullv || 101 || It is nice when the DIY looks affordable, and still look great.  Not "I used gold for this ring" or "I used a four thousand dollar 3d printer" or "My materials only cost me $600"
+
+Maybe we need a /r/affordableDIY |-| 
+|-| cnxv47w || 15 || hey bro, i like your girlfriends chest |-| 
+|-| cnxy1af || 3 || I bet this is because she leaves her supplies everywhere. 
+And you're a damn fine man for making this.  |-| 
+|-| cnxymvn || 3 || Don't take this the wrong way, but that's a pretty good looking chest your girlfriend has there.   |-| 
+|-| cnxyr6k || 3 || DAE notice Zelda in the N64 while making the stencil?
+
+Easter Egg or just good ol' fashion coincidence?  |-| 
+|-| cnxzadf || -3 || You couldn't fit half my art supplies in that tiny thing. I've got two tool boxes, a huge Rubbermaid box, and about 3 shelves full of my art supplies. Not to mention all the shit scattered on my desk and propped up against the walls. |-| 
+|-| cnxzbdx || -6 || If your gf likes this kind of shit.... get a new gf. |-| 
+|-| cnxzllv || 5 || Did nobody else notice the used tissue, playstation controller, and lighter. I thought it was rather funny.  |-| 
+|-| cny07as || 12 || Hey OP, first off awesome work! Looks great! Just one thing I noticed, the way that lid hangs on those hinges will not hold up for a long time. I would recommend putting some cord or chains or whatever on the inside of the box attached to both the lid and the inside so that when the box opens the lid is hanging upright a bit and there is tension on the cord. Just a thought so that the chest lasts for a lot longer! (Oh and obligatory your girlfriend has a nice chest! ) |-| 
+|-| cny0x2g || 3 || ya put your weed in there.....
+ |-| 
+|-| cny4ag8 || 3 || The string/fire method is really susceptible to cracking.  Unless you've got several bottles and don't mind it not being perfectly straight you need to use a different method.
+
+If you're going to drill glass make sure you drill a pilot hole with a really thin drill bit and then go from there. Can't you just get drill bits from the store?
+
+This sounds awesome.
+
+Edit:  If you drew out your vision, it might be easier to understand. |-| 
+|-| cobr6yb || 20 || [deleted] |-| 
+|-| cobi0dh || 11 || Aw man, that looks kick-ass!
+
+Also, was that a penis, or an upvote penis?  |-| 
+|-| cobitho || 9 || Nice job - looks cool.  But you made a man cave and the first thing you put on TV was Schindler's list? |-| 
+|-| cobmx29 || 3 || Ditch the couches and get a pool table! |-| 
+|-| cobrbsg || 4 || Is the TV difficult to watch from the couch? |-| 
+|-| cobxpe5 || 8 || Mind if I ask the cost of the fence project? It looks awesome and I also hate seeing my neighbors. |-| 
+|-| cobzc14 || 5 || Did you have much difficulty getting a permit for an 8 foot fence?  Everywhere I've lived it was 6' max without a lot of hassle (or bribes) |-| 
+|-| cobyahc || 3 || Where did you get your fence painter in Pic 8? |-| 
+|-| cobzgne || 4 || Love that garage door. Next time you have to refinish it, use some oxaylic acid on the bare wood to bleach out the black water staining.  |-| 
+|-| cobr7ol || 3 || Bad ass. So that fence is basically posts with horizontal boards? Double sided? |-| 
+|-| cobzf0j || -5 || I would have looked at it if you posted the finished project first. No point in looking at the work if the thing looks like crap in the end. |-| 
+|-| cobfr5d || 3 || Awesome job, and bonus points if I could for the use of 'terlet'. |-| 
+|-| cob7fhc || 3 || I hope you fixed that puncture you made in the Kerdi membrane when installing the brace for the walker/drain rig. |-| 
+|-| cobpwo7 || 3 || People are always commenting when they see me wearing them.  So, I thought it was time to share with reddit! |-| 
+|-| cobu0ir || 3 || You made the cable shorter |-| 
+|-| cobz5zh || 3 || Why the adapter? Why not just use a double right angle cable? 
+
+http://amzn.com/B004LGNB0A |-| 
+|-| cobjvrs || 4 || I'm having trouble seeing the hands, I'd go with a light color to contrast with the wood. |-| 
+|-| cobluss || 15 || OMG YOU DIDN'T USE FIRE BRICKS THEY WILL EXPLODE AND KILL YOUR WHOLE FAMILY. |-| 
+|-| cobgesp || 3 || Nice work, it's funny that commercial products are essentially sheet metal screws with a machined tread. 
+
+https://www.32north.com/accessories/17-stabilicers-original-replacement-cleats.html
+
+For more traction you could use a Dremel or hacksaw to cut more slots, similar to a castle nut.  |-| 
+|-| cobgwy7 || 3 || Now the question of whether or not your feet end up getting soaked comes into play. |-| 
+|-| cob73cy || 4 || Although burning a shamrock onto the wood would be cool, for simplicity and cost effectiveness I'd suggest going the stencil and stain (instead of paint) route. You can find an assortment of wood stain colors at any home improvement store.
+
+As for materials, at any home improvement store you can find premium quality 2"x4" wood boards. They're very common. If you're outside of the U.S. of course the boards may not be in inches, but there will be an equivalent size. Find the straightest, most blemish-free boards you can.
+
+To approximate the height:width:length ratio (3:5:15)of a Jenga block, you'll want to cut your 2x4 boards into lengths somewhere around 8-10". If you want to get really precise about it, a 2"x4" board is actually 1.5"x3.5", so to be exact you'd need to cut the width down to 2.5" and the length to 7.5", but I'd personally just stick to the original size for the height and width.
+
+To inexpensively cut the boards, you can buy what's called a [miter box](http://www.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_16352.jpg) and handsaw, which allows you to follow pre-cut guides to make clean cuts by hand. If you have access to a powered miter saw, that will be much faster.
+
+That will give you your blocks. At this point it would be a good idea to sand all the boards down so they're as smooth as you can get them, if they're not already, and to round all the edges a bit to help the pieces slide out. You can do this by hand but it will take a while. If you have access to a power sander, use that, or you can buy an inexpensive one. I once found a cheap power sander at Target for only $6. It wasn't that great, but I used it for years.
+
+That should be about it. |-| 
+|-| cob11ud || 5 || The tiny gap under your door isn't causing the sound to come into your room. Blocking it will to very little to solve what you want to solve. You could put three feet of concrete in the gap under your door and your roommates would still hear you.
+
+Get some headphones. |-| 
+|-| cob0ovn || 3 || If they leak even when the system isn't running, you have a leaky valve.  |-| 
+|-| cobg06p || 3 || Search 'exposed ceilings' in the basement section of Houzz. Some look great. |-| 
+|-| cob8u1s || 4 || Try using citristrip stripping gel. It's safe for inside use, no harsh fumes. Smells like oranges. After it is all stripped you need a product called After Wash it is strong so you might need to leave after that if you can't open windows. Make sure you remove all rags to dumpster immediately. Sand, stain then use top coats of poly.  |-| 
+|-| cob5iz8 || 4 || I did the roxul and it's really really good but won't do it all by itself. Two packs will cover a 12 ft by 8ft tall wall so good money spent. Cellulose can be eaten by pests and also promote mold growth. The pink insulation is worthless. Hd also sells isolation channels that will decouple the Sheetrock (use 5/8") to again significantly lower noise. Same as the ones you can order from sound companies. You can also order mass loaded vinyl sheets from hd that work like dynamat in cars and place them between layers. Mass is the only thing that will stop low frequencies. If you did all of them and also a had a good sealed door you'd be pretty close to what mega $$ home theater and recording studios do.  |-| 
+|-| coaxtke || 4 || Sounds like a lot of work for just a 45" display.. |-| 
+|-| cob09u2 || 4 || Do some research on pushing out colors to DVI/VGA from Arduino or RasPi and make a tiled wall that changes to music or something. Kind of like a dance floor except on the wall. |-| 
+|-| coazkzl || 3 || Why not make a 180° Eyefinity ? |-| 
+|-| coayz5z || 5 || In Linux you can just buy $25 Rasberry Pis for each monitor and WiFi-VNC into appropriate section of huge virtual display aka "screen abstraction".  Not very challenging, see "man xrandr". |-| 
+|-| coawmjl || 3 || Remember what happened when NASA skimped on rubber gaskets?
+
+ |-| 
+|-| cobsr5s || 4 || Dewalt is the brand that is pushing the 20v right now.  Just to let you know, although Dewalt is a great brand, for the price you are paying for the 20v, you can get an 18v Milwaukee (better quality in my opinion) and still have money to spend on accessories such as drill bit mediums and driver kits.  
+
+[Just so you know, the whole 20v thing is a semantic gimmick.  they are really 18v, you just spend more money for a lie.](https://www.youtube.com/watch?v=dBehZbptnCw) |-| 
+|-| cobi7er || 5 || What you need is good old fashioned Palmolive dish soap.
+
+mix 1 part soap and 2 parts water in a spray bottle and spray em in flight and watch em go down immediately.  You can completely (and safely) clear a room of flies in about 5 minutes with a bottle of palmolive-water-spray.
+
+Palmolive contains a slippery surfactant that basically makes them suffocate and drown.  Watch em twitch while they die.  Good times!
+
+
+If you spray it...they will die.  Ant, roaches, basically anything creepy and crawly that crunches when you step on it is fair game and will diee if you spray it with Palmolive.
+
+Not Dawn, not Joy, PALMOLIVE.  (or Fairy, if youre a Brit).
+
+Good luck, soldier. |-| 
+|-| cobgtgr || 3 || Keep all your doors close to see where they come from. They're not likely to be coming from all rooms at the same time. If you keep your doors close you should be able to pinpoint one room in particular with more flies than the others. Then inspect that room thoroughly. It's easier than trying to inspect the entire house. |-| 
+|-| cob7gqu || 4 || If it's on its own circuit breaker like it's supposed to be, you can just flip off the breaker. Otherwise, yes. |-| 

@@ -1,0 +1,733 @@
+|-| cnttv8c || 65 || I do not claim to be an expert in any way. However I do know that there was a time when there used to be hundreds of particles that were theorized. Then they found out that a lot of the particles were made out of quarks and the list shortened. The thing about quantum physics is that a lot of the particles are born out of mathematics and then observed. They are not observed and then fitted into the data. They predicted the w and z particles before they were observed and they also predicted the Higgs. So, in essence, the fitting the set with the data is not applicable to quantum physics because they're creating the set before the data points are even collected through mathematical theories. |-| 
+|-| cnttv8c || 66 || I do not claim to be an expert in any way. However I do know that there was a time when there used to be hundreds of particles that were theorized. Then they found out that a lot of the particles were made out of quarks and the list shortened. The thing about quantum physics is that a lot of the particles are born out of mathematics and then observed. They are not observed and then fitted into the data. They predicted the w and z particles before they were observed and they also predicted the Higgs. So, in essence, the fitting the set with the data is not applicable to quantum physics because they're creating the set before the data points are even collected through mathematical theories. |-| 
+|-| cntu5us || 14 || I'm merely a layman with respect to the field, but I can certainly say that the tables of particles that you see are the result of *a lot* more math and experimentation than they may let on. More importantly, the Standard Model has shown amazing [predictive power](http://en.wikipedia.org/wiki/Standard_Model#Tests_and_predictions). Note that there are infinitely many ways to make a poor prediction, but relatively few ways to make a precise one. Because of that idea alone, we can be fairly confident that the Standard Model is at least fairly close to reality. |-| 
+|-| cntu5us || 15 || I'm merely a layman with respect to the field, but I can certainly say that the tables of particles that you see are the result of *a lot* more math and experimentation than they may let on. More importantly, the Standard Model has shown amazing [predictive power](http://en.wikipedia.org/wiki/Standard_Model#Tests_and_predictions). Note that there are infinitely many ways to make a poor prediction, but relatively few ways to make a precise one. Because of that idea alone, we can be fairly confident that the Standard Model is at least fairly close to reality. |-| 
+|-| cntuajc || 29 || &gt; ...  if you define as many parameters as you have data points ... you get a perfect fit... but your model is pretty much guaranteed to be dung.
+
+The number of data points that are involved is typically pretty reasonable compared to the number of particles in the standard model.   For example, the LHC is supposed to produce a few higgs particles per minute, and they ran it for about a year.   For lower energy particles and more well established science, the number of data points is generally much higher.
+
+I think the current revision of the Standard Model has 17 fundamental particles or so, depending on how you count.  (https://en.wikipedia.org/wiki/Standard_Model)   That's pretty small compared to - say - the 339 naturally occurring nuclear isotopes on earth.
+
+These sorts of 'overfitting' concerns and criticisms are brought up and considered regularly. |-| 
+|-| cntv7n1 || 678 || No. Much in the same way that combinations of just three particles (proton, neutron, and electron) explain the hundreds of atoms/isotopes in the periodic table, similarly combinations of just a handful of quarks explain the hundreds of hadrons that have been discovered in particle colliders. The theory is also highly predictive (not just post-dictive) so there is little room for over-fitting. Further more, there is fairly direct evidence for some of the particles in the Standard Model; top quarks, neutrinos, gluons, Z/W/Higgs bosons can be seen directly (from their decay products), and the properties of many hadrons that can be seen directly (such as bottom and charm and strange) are predicted from the quark model.  |-| 
+|-| cntyab5 || 5 || Many of those particles are excited forms of other particles, just as 'nuclear' isotopes where the nucleus is in a excited state exist, most famously Hagnium nuclei can absorb x-rays and later release them. 
+
+Others are 'short lived' compound particles formed of fundamental particles.
+
+Its like complaining chemistry is overfitted because 92+ chemical elements yield trillions upon trillions of chemical compounds.
+
+In terms of truly fundamental particles, the Periodic Table of Particle Physics is smaller than that of Chemistry. :) |-| 
+|-| cntyab5 || 6 || Many of those particles are excited forms of other particles, just as 'nuclear' isotopes where the nucleus is in a excited state exist, most famously Hagnium nuclei can absorb x-rays and later release them. 
+
+Others are 'short lived' compound particles formed of fundamental particles.
+
+Its like complaining chemistry is overfitted because 92+ chemical elements yield trillions upon trillions of chemical compounds.
+
+In terms of truly fundamental particles, the Periodic Table of Particle Physics is smaller than that of Chemistry. :) |-| 
+|-| cntywya || 6 || Others have talked about the tremendous (and predictive) experimental success of the Standard Model; the Higgs discovery was just the most recent of many non-trivial predictions of the model.
+
+But let me just add that the situation is not nearly as open-ended theoretically as you might think, either! In quantum field theory, there's a risk that quantum effects might lead to violation of some basic symmetries of the underlying physical laws: these possible effects are called "anomalies". In the Standard Model, there are several "miraculous" cancellations between various particle charges that lead these potential anomalies to vanish. (See the end of Section 5 of [this set of notes](http://isites.harvard.edu/fs/docs/icb.topic1146666.files/IV-6-Anomalies.pdf) for an example and a list of constraints.) |-| 
+|-| cntywya || 7 || Others have talked about the tremendous (and predictive) experimental success of the Standard Model; the Higgs discovery was just the most recent of many non-trivial predictions of the model.
+
+But let me just add that the situation is not nearly as open-ended theoretically as you might think, either! In quantum field theory, there's a risk that quantum effects might lead to violation of some basic symmetries of the underlying physical laws: these possible effects are called "anomalies". In the Standard Model, there are several "miraculous" cancellations between various particle charges that lead these potential anomalies to vanish. (See the end of Section 5 of [this set of notes](http://isites.harvard.edu/fs/docs/icb.topic1146666.files/IV-6-Anomalies.pdf) for an example and a list of constraints.) |-| 
+|-| cnu1uyh || 8 || In addition to what other people have commented (which addresses the main point fairly well), I'd mention that if you are going to use a model in which there are about as many parameters as particles, your data points would be at least as numerous as the number of analyses run by the experimental collaborations that detected these particles (hundreds), or all the particle counts at different values of energy and momentum (thousands), or probably even the counts of individual collisions (beyond trillions). The point being that, even though there are many particles, there are many, many more measurements. |-| 
+|-| cnu1uyh || 9 || In addition to what other people have commented (which addresses the main point fairly well), I'd mention that if you are going to use a model in which there are about as many parameters as particles, your data points would be at least as numerous as the number of analyses run by the experimental collaborations that detected these particles (hundreds), or all the particle counts at different values of energy and momentum (thousands), or probably even the counts of individual collisions (beyond trillions). The point being that, even though there are many particles, there are many, many more measurements. |-| 
+|-| cnu2msz || 5 || All wind is due to to pressure and density differences in the air between different places. These pressure and density differences happen due to temperature differences: the sun heats different parts of the earth by different amounts (so-called [differential heating](http://cals.arizona.edu/watershedsteward/resources/module/Climate/climate-intro_pg4.htm)) on both large and small scales, both of which are responsible for why the wind blows.
+
+On a large scale, the round shape of the Earth means that [the tropics get more energy per unit area than the poles](http://image.slidesharecdn.com/fdsci201-11inlandstorms131214-140918223449-phpapp01/95/natural-disasters-topic-9-inland-storms-5-638.jpg?cb=1411097737) because sunlight hits the surface at different angles. The temperature difference between the equator and the poles creates and ultimately the [jet streams](https://en.wikipedia.org/wiki/Jet_stream), which [power most of the storm systems](http://usatoday30.usatoday.com/weather/wcondiv1.htm) (and therefore wind) on a global scale.
+
+On a small scale, the different substances found on Earth's surface (soil, rock, water, vegetation, etc.) all have different properties (such as [reflectivity](https://en.wikipedia.org/wiki/Albedo), [emissivity](https://en.wikipedia.org/wiki/Emissivity), and [heat capacity](https://en.wikipedia.org/wiki/Heat_capacity)) that cause them to reach different temperatures under the same sunlight. For instance, the air above hot asphalt on a summer day will become much warmer than the air over a nearby lake. These temperature differences result in density differences due to the [ideal gas law](https://en.wikipedia.org/wiki/Density_of_air#Temperature_and_pressure) (warmer air under the same pressure must be less dense), and the cooler/denser surrounding air will push it up and out of the way, creating wind. As a specific example, this is the mechanism that drives the [sea breeze circulation](http://oceanservice.noaa.gov/education/yos/resource/JetStream/ocean/sb_circ.htm). 
+
+**tl;dr: The sun heats different parts of the earth by different amounts, which creates forces that move air around in a way we know as wind.** |-| 
+|-| cnu4ti3 || 7 || The 'particle zoo' was known since the 1950s. The number of particles discovered astounded the physicists but pointed to underlying structures inside the particles. The current models were developed in order to simplify the picture, rather than make it more complex. All the hadronic matter that we observe is composed of six quarks in three families (two in each), which is a much simpler picture than the immense number of particles that make up the list in the data booklet. In addition, there are some issues when fitting observational data in particle physics, kinematic reflections, and in order to avoid detection of 'false particles' they have created a rule that a particle needs to be seperated from the background noise by 5 sigma, which is pretty tight.  |-| 
+|-| cnu605b || 9 || It would be too small to be a planet, and it would be overwhelmingly composed of water ice. Mercury, the least massive planet, is 3x10^24 kg, but the rings of Saturn total only 3x10^19 kg. |-| 
+|-| cnu6ren || 17 || The breathing reflex is not mediated by the amount of oxygen in the air, but the level of carbon dioxide. So regardless of what composition of oxygen you breathe in, the rate at which carbon dioxide builds up when holding your breath will remain the same, so the urge to breathe will still increase at the same rate. |-| 
+|-| cnu7jj3 || 11 || And, just in case you had any idea of actually going ahead and implementing this notion, I'd add that you would in all likelyhood die of pulmonary oedema and respiratory failure (see: http://www.ncbi.nlm.nih.gov/pubmed/6345493 and http://www.nejm.org/doi/full/10.1056/NEJM197012312832702).... |-| 
+|-| cnu8ecj || 4 || It's rather difficult to determine the axis of rotation of most stars, but we expect that their orientations should be pretty much random. We know that there are plenty of neutron stars which are strongly tilted with respect to us, because their radio signals, which are emitted from near the poles, are visible to us. |-| 
+|-| cnua0ns || -10 || [deleted] |-| 
+|-| cnua0ns || -11 || [deleted] |-| 
+|-| cnub96j || 3 || I see your point and I know what you are mentioning, but all my encounters with physicists taught me that compared to mathematicans they are oversimplfieing instead of overfitting when it comes to complex systems, which is totally legitimate, because the "real world" does not behave differently if we change the accuracy of calculations.
+
+When it comes to observing hypothetical particles it gets a little difficult because of the Heisenberg uncertainty principle.
+We can only observe things that have an effect on the world we live in. If it exists but doesn't have any effects whatsoever, it might as well not exist. Virtual Particels might be a good reference there |-| 
+|-| cnub96j || 4 || I see your point and I know what you are mentioning, but all my encounters with physicists taught me that compared to mathematicans they are oversimplfieing instead of overfitting when it comes to complex systems, which is totally legitimate, because the "real world" does not behave differently if we change the accuracy of calculations.
+
+When it comes to observing hypothetical particles it gets a little difficult because of the Heisenberg uncertainty principle.
+We can only observe things that have an effect on the world we live in. If it exists but doesn't have any effects whatsoever, it might as well not exist. Virtual Particels might be a good reference there |-| 
+|-| cnucgq6 || 231 || The resurgence of measles cases in the United States is *absolutely* the result of parents opting out of the MMR (measles-mumps-rubella) vaccination.
+
+From the CDC's [Recommendations of the Advisory Committee on Immunization Practices](http://www.cdc.gov/MMWR/preview/mmwrhtml/00053391.htm):
+
+&gt; Measles vaccine produces an inapparent or mild, noncommunicable infection. Measles antibodies develop among approximately 95% of children vaccinated at age 12 months and 98% of children vaccinated at age 15 months (CDC, unpublished data). Studies indicate that, if the first dose is administered no earlier than the first birthday, greater than 99% of persons who receive two doses of measles vaccine develop serologic evidence of measles immunity (54)(CDC, unpublished data). Although vaccination produces lower antibody levels than natural disease, both serologic and epidemiologic evidence indicate that the vaccine induces long-term -- probably lifelong -- immunity, in most persons (55). Most vaccinated persons who appear to lose antibody show an anamnestic immune response upon revaccination, indicating that they are probably still immune (56). Although revaccination elicits increased antibody levels in some persons, these increased levels may not be sustained (57). Findings of some studies indicate that immunity can wane after successful vaccination (secondary vaccine failure), but this phenomenon appears to occur rarely and to have little effect on measles transmission and the occurrence of outbreaks (55,58,59).
+
+Clearly there is a lot of data supporting the efficacy and the presumably lifelong duration of measles vaccination for those who receive it. Due to the efficacy of the vaccine, the [United States was declared to be free of endemic transmission of the measles virus in 2000](http://jid.oxfordjournals.org/content/189/Supplement_1/S43.short#).
+
+However, in states which allow either philosophical or religious exemption from vaccination, [the number and rate of nonmedical exemptions has increased and accelerated, respectively, from 2006-2011](http://www.nejm.org/doi/full/10.1056/NEJMc1209037). While overall vaccine coverage remains high in many areas, clusters of intentionally unvaccinated children can become infected, as was seen in a 2008 outbreak of measles that originated in a child returning from Switzerland (which happened to be having a measles outbreak at that time). [This particular outbreak was found to be due to parents who chose not to vaccinate their children](http://pediatrics.aappublications.org/content/125/4/747.full).
+
+While transmission of the virus was declared to be eliminated in 2000 in the US, measles remains endemic in other countries, and the importation of new cases remains a threat to unvaccinated individuals. It is estimated that if total vaccination coverage were to fall below [83%-94% for measles](http://www.bt.cdc.gov/agent/smallpox/training/overview/pdf/eradicationhistory.pdf), [herd immunity](http://en.wikipedia.org/wiki/Herd_immunity) may be lost, and the virus could reestablish endemic transmission within the United States.
+
+So overall, it appears clear that the rise of measles vaccination effectively eliminated transmission within the United States, but an increasing number of people are choosing not to vaccinate their kids. This in turn results in clusters of children who are not immune, and increases their risk of infection in the event of the importation of the virus from a country in which it remains endemic. The virus itself is also extremely contagious - [approximately 90% of people who are not immune and live with an infected individual will contract it](http://en.wikipedia.org/wiki/Measles). It is one of the most (if not the most) infectious human pathogens, with an [R naught value of 12-18](http://en.wikipedia.org/wiki/Basic_reproduction_number), meaning that, on average, one person will spread the disease to 12-18 other people during their infectious period. It seems quite clear that not being vaccinated puts people at risk, whether their reasons for exemption are religious, philosophical, or out of plain old ignorance. |-| 
+|-| cnucgq6 || 254 || The resurgence of measles cases in the United States is *absolutely* the result of parents opting out of the MMR (measles-mumps-rubella) vaccination.
+
+From the CDC's [Recommendations of the Advisory Committee on Immunization Practices](http://www.cdc.gov/MMWR/preview/mmwrhtml/00053391.htm):
+
+&gt; Measles vaccine produces an inapparent or mild, noncommunicable infection. Measles antibodies develop among approximately 95% of children vaccinated at age 12 months and 98% of children vaccinated at age 15 months (CDC, unpublished data). Studies indicate that, if the first dose is administered no earlier than the first birthday, greater than 99% of persons who receive two doses of measles vaccine develop serologic evidence of measles immunity (54)(CDC, unpublished data). Although vaccination produces lower antibody levels than natural disease, both serologic and epidemiologic evidence indicate that the vaccine induces long-term -- probably lifelong -- immunity, in most persons (55). Most vaccinated persons who appear to lose antibody show an anamnestic immune response upon revaccination, indicating that they are probably still immune (56). Although revaccination elicits increased antibody levels in some persons, these increased levels may not be sustained (57). Findings of some studies indicate that immunity can wane after successful vaccination (secondary vaccine failure), but this phenomenon appears to occur rarely and to have little effect on measles transmission and the occurrence of outbreaks (55,58,59).
+
+Clearly there is a lot of data supporting the efficacy and the presumably lifelong duration of measles vaccination for those who receive it. Due to the efficacy of the vaccine, the [United States was declared to be free of endemic transmission of the measles virus in 2000](http://jid.oxfordjournals.org/content/189/Supplement_1/S43.short#).
+
+However, in states which allow either philosophical or religious exemption from vaccination, [the number and rate of nonmedical exemptions has increased and accelerated, respectively, from 2006-2011](http://www.nejm.org/doi/full/10.1056/NEJMc1209037). While overall vaccine coverage remains high in many areas, clusters of intentionally unvaccinated children can become infected, as was seen in a 2008 outbreak of measles that originated in a child returning from Switzerland (which happened to be having a measles outbreak at that time). [This particular outbreak was found to be due to parents who chose not to vaccinate their children](http://pediatrics.aappublications.org/content/125/4/747.full).
+
+While transmission of the virus was declared to be eliminated in 2000 in the US, measles remains endemic in other countries, and the importation of new cases remains a threat to unvaccinated individuals. It is estimated that if total vaccination coverage were to fall below [83%-94% for measles](http://www.bt.cdc.gov/agent/smallpox/training/overview/pdf/eradicationhistory.pdf), [herd immunity](http://en.wikipedia.org/wiki/Herd_immunity) may be lost, and the virus could reestablish endemic transmission within the United States.
+
+So overall, it appears clear that the rise of measles vaccination effectively eliminated transmission within the United States, but an increasing number of people are choosing not to vaccinate their kids. This in turn results in clusters of children who are not immune, and increases their risk of infection in the event of the importation of the virus from a country in which it remains endemic. The virus itself is also extremely contagious - [approximately 90% of people who are not immune and live with an infected individual will contract it](http://en.wikipedia.org/wiki/Measles). It is one of the most (if not the most) infectious human pathogens, with an [R naught value of 12-18](http://en.wikipedia.org/wiki/Basic_reproduction_number), meaning that, on average, one person will spread the disease to 12-18 other people during their infectious period. It seems quite clear that not being vaccinated puts people at risk, whether their reasons for exemption are religious, philosophical, or out of plain old ignorance. |-| 
+|-| cnuct06 || 3 || I understand your concern, but I think you have the wrong end of the stick.
+
+Are wondering if we have too many standard model particles, i.e., 3 generations of quarks and leptons + gauge bosons. Or are you wondering if we have too many hadrons, i.e. pions, kaons, etc.
+
+The fact is, the standard model is a rather fundamental model. We really have found new composite particles, and generations of particles. If we didn't have the standard model to explain them, we really would have over fitted data.
+
+Physicists are of course still looking for a even more fundamental principle that would give rise to the standard model. But for now, our best evidence is that the particles of the standard model are fundamental.
+
+In some sense it is the same a someone from the classical elements (fire, air, water, earth) perspective, asking a chemists why they keep adding elements to the periodic table. |-| 
+|-| cnuct06 || 5 || I understand your concern, but I think you have the wrong end of the stick.
+
+Are wondering if we have too many standard model particles, i.e., 3 generations of quarks and leptons + gauge bosons. Or are you wondering if we have too many hadrons, i.e. pions, kaons, etc.
+
+The fact is, the standard model is a rather fundamental model. We really have found new composite particles, and generations of particles. If we didn't have the standard model to explain them, we really would have over fitted data.
+
+Physicists are of course still looking for a even more fundamental principle that would give rise to the standard model. But for now, our best evidence is that the particles of the standard model are fundamental.
+
+In some sense it is the same a someone from the classical elements (fire, air, water, earth) perspective, asking a chemists why they keep adding elements to the periodic table. |-| 
+|-| cnudtop || 322 || Physicists construct mathematical models, and use these models to generate measurable predictions of experiments. I guess if you want to get really philosophical you could question if a correct model and the real world are the "same thing". But I'm not sure if that's what you're asking. (For the record, in my opinion they are not).
+
+In general relativity, space-time is modeled as a 4D mathematical space, called a manifold. Depending on what kinds of matter or energy live on the manifold, the manifold can be curved. This curvature ends up showing up as "ficticious forces" when you write down the motion of a particle that experiences no other forces (like electromagnetic, etc). So within the mathematical context of this model, yes, spacetime is "literally curved". This [entry](http://en.wikipedia.org/wiki/Riemann_curvature_tensor) on curvature is a bit technical, but there is an informal description also. |-| 
+|-| cnudtop || 378 || Physicists construct mathematical models, and use these models to generate measurable predictions of experiments. I guess if you want to get really philosophical you could question if a correct model and the real world are the "same thing". But I'm not sure if that's what you're asking. (For the record, in my opinion they are not).
+
+In general relativity, space-time is modeled as a 4D mathematical space, called a manifold. Depending on what kinds of matter or energy live on the manifold, the manifold can be curved. This curvature ends up showing up as "ficticious forces" when you write down the motion of a particle that experiences no other forces (like electromagnetic, etc). So within the mathematical context of this model, yes, spacetime is "literally curved". This [entry](http://en.wikipedia.org/wiki/Riemann_curvature_tensor) on curvature is a bit technical, but there is an informal description also. |-| 
+|-| cnudujb || 15 || I asked a similar question before, and the answer is yes space is actually curved. A triangle here on earth won't have it's corner angles add up perfectly to 180 degrees, which would be the case if space was perfectly flat.
+
+https://www.reddit.com/r/askscience/comments/2p6dyk/since_gravity_bends_space_do_the_angles_of_a/cmunfqd?context=10000 |-| 
+|-| cnudujb || 17 || I asked a similar question before, and the answer is yes space is actually curved. A triangle here on earth won't have it's corner angles add up perfectly to 180 degrees, which would be the case if space was perfectly flat.
+
+https://www.reddit.com/r/askscience/comments/2p6dyk/since_gravity_bends_space_do_the_angles_of_a/cmunfqd?context=10000 |-| 
+|-| cnue4kj || 55 || [Here's a video](https://www.youtube.com/watch?v=MTY1Kje0yLg) that is a pretty good 2D analogy for how mass curves spacetime.
+
+Here is how I interpret it:
+
+In this example on a 2D surface, masses cause a curve in the 3rd dimension, making things gravitate towards them.
+
+In real life, which would be a 3D surface, masses cause a curve in the 4th dimension, making things gravitate towards them. |-| 
+|-| cnue4kj || 58 || [Here's a video](https://www.youtube.com/watch?v=MTY1Kje0yLg) that is a pretty good 2D analogy for how mass curves spacetime.
+
+Here is how I interpret it:
+
+In this example on a 2D surface, masses cause a curve in the 3rd dimension, making things gravitate towards them.
+
+In real life, which would be a 3D surface, masses cause a curve in the 4th dimension, making things gravitate towards them. |-| 
+|-| cnueyv3 || 4 || If this is something you're really interested in, you might want to pick up a copy of Lee Somlin's 2006 book The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next (ISBN: 978-0-618-55105-7).
+
+Makes for a very interesting read on this very subject. |-| 
+|-| cnuf29f || 16 || The Oort cloud is a spherical collection of comets and other icy bodies at the very edge of our solar system. Gravity may have formed the bodies into a slightly greater density along the plane of the sun (and the planets) but observations of the cloud are scarce since it is so distant from us. It is different from the Kuiper belt in that it is much further out from the Sun, and contains either very long period comets or comets that do not move significantly from the cloud. The Kuiper belt is much closer, right outside the orbit of pluto, and contains larger bodies and shorter period comets. 
+
+In terms of density, the Oort cloud is incredibly scattered. Looking out from the sun, it would be very unlikely that your view would be obscured by an Oort cloud object due simply to the tiny size of the objects and their distance from the us. For this reason, it is uncertain if there are Oort clouds in other solar systems. It is difficult enough to detect other planets in other solar systems, let alone small bits of ice that are on the order of thousands of AU from their star.  |-| 
+|-| cnujvas || 10 || Yes, it is literally curved as was proved in 1919 in an [experiment done by Arthur Eddington.](http://en.wikipedia.org/wiki/Arthur_Eddington#Relativity)  He looked at stars near the sun during a solar eclipse and measured their position was shifted due to the light bending as it curved around the sun.
+
+Since then the idea of [gravitational lensing](http://en.wikipedia.org/wiki/Gravitational_lens) is well known and documented. |-| 
+|-| cnujvas || 8 || Yes, it is literally curved as was proved in 1919 in an [experiment done by Arthur Eddington.](http://en.wikipedia.org/wiki/Arthur_Eddington#Relativity)  He looked at stars near the sun during a solar eclipse and measured their position was shifted due to the light bending as it curved around the sun.
+
+Since then the idea of [gravitational lensing](http://en.wikipedia.org/wiki/Gravitational_lens) is well known and documented. |-| 
+|-| cnukmt2 || 10 || I would argue that no one knows. As everyone else here says, all we do is create models that try to describe and predict results of experiments. The *real* underlying mechanism in the real world isn't something science tries to answer.
+
+It's not obvious at all that Nature follows any form of mathematics, but mathematics is quite good to describe what we see.  |-| 
+|-| cnukmt2 || 11 || I would argue that no one knows. As everyone else here says, all we do is create models that try to describe and predict results of experiments. The *real* underlying mechanism in the real world isn't something science tries to answer.
+
+It's not obvious at all that Nature follows any form of mathematics, but mathematics is quite good to describe what we see.  |-| 
+|-| cnuknux || 3 || I don't believe there has ever been any significant evidence of a companion star to the Sun. For it to be a companion of our Sun that we haven't seen yet it would likely need to be a brown dwarf star. That being said, the gravitational effects on the solar system would be fairly evident if an object of this size was anywhere near us, especially if it were in a (somewhat) consistent orbit. 
+
+That being said, recently there has been a lot of speculation that there are a few large planets beyond the orbit of Pluto, around the area of the Kuiper Belt or Oort cloud. This planets, though likely larger than the Earth, would certainly not be considered to be companions of the Sun.
+
+It certainly isn't accepted by mainstream science, but there hasn't actually been too much searching for such a companion star so who knows what's really out there. |-| 
+|-| cnuksno || 5 || The joints in your knuckles are filled with sealed sacs of fluid. The knuckles crack because the joint is being pulled apart and the dissolved gases in the fluid come out solution like a taking the top off a shaken up soda. But gas in your knuckles can't escape, and will slowly re-disolve and can be cracked again. |-| 
+|-| cnulucr || 4 || Considering "satisfying" is subjective, there is no correct answer to this. Person A might like popping bubble wrap because they like the noise while person B might like it because after they pop they like knowing that every single bubble has been popped by them. Same goes for crushing ice, playing video games, smoking weed, lifting heavy objects and putting them down repeatedly, etc. |-| 
+|-| cnumcn1 || 3 || I gotta take issue with your litany of particle types.
+
+There's six quarks (Up, Down, Truth, Beauty, Strange, Charm) and their antis.  There's six leptons (electron, electron neutrino, muon, muon neutrino, tau, tau neutrino), and _their_ antis.  There's six bosons (photon, gluon, W+/-, Z, and the Higgs).  30 particles of which we are aware.  Possibly 27 (neutrinos may be their own antiparticles).  That's it.  
+
+Fermions are a super-class of particles, which include leptons and composites of quarks - and actually just refers to particles that behave according to Fermi-Dirac (i.e., state-exclusionary) statistics, as opposed to the bosons, which behave according to Bose-Einstein statistics.
+ |-| 
+|-| cnun7im || 4 || I've encountered this view/question before with regards to free radical production so i'm just going to copy and paste some shit from emails here, apologies for the weird grammar/speech and older random citations.
+
+Theoretically, it would seem sounds that something like Aerobic exercise, which increases the rate of free-radical production, might be disadvantageous in terms of cancer rates and lifespan. 
+
+But this is an extremely superficial view, and does not take into account the mechanisms the body has to compensate for that activity. Free radicals themselves are important signalling molecules within cells; their levels are very tightly related to the level of production of antioxidant enzymes and even stuff like mitochondrial biogenesis. If you increase your ROS production, the downstream signalling cascade will cause an up-regulation of enzymes and processes involved in protection from free radicals. This concept is broadly applicable to inflammation as well; you're up-regulating your bodies' repair mechanisms. 
+
+Random sources:
+
+Mari-Carmen Gomez-Cabrera, Elena Domenech, Jose Viña, Moderate exercise is an antioxidant: Upregulation of antioxidant genes by training, Free Radical Biology and Medicine, Volume 44, Issue 2, 15 January 2008, Pages 126-131
+
+Brooks, S. V., et al. (2008). "Repeated bouts of aerobic exercise lead to reductions in skeletal muscle free radical generation and nuclear factor κB activation." The Journal of Physiology 586(16): 3979-3990 
+
+Now can't you just sit around doing nothing eating antioxidants and this will be a better option? Well, no. Because by making an effort to exogenously decrease ROS levels, you're going to (via reduced levels of ROS) down-regulate your bodies' native antioxidant processes:
+
+Colin Selman, Jane S. McLaren, Claus Meyer, Jackie S. Duncan, Paula Redman, Andrew R. Collins, Garry G. Duthie, John R. Speakman, Life-long vitamin C supplementation in combination with cold exposure does not affect oxidative damage or lifespan in mice, but decreases expression of antioxidant protection genes, Mechanisms of Ageing and Development, Volume 127, Issue 12, December 2006, Pages 897-904
+
+The problem with this is that there are certain areas where the generation of free radicals is a serious issue for cells (i.e. complex I of the electron transport chain is pretty important). Cell's own antioxidant enzymes are evolved to combat ROS generation in the manner in which it becomes an issue for a cell. Exogenous antioxidants don't necessarily do the same job. 
+
+
+I haven't really answered your question directly here, but it's kind of an analogous process. Exercise, while it does damage the body (ROS production, inflammation, muscle tears, etc), produces a whole host of compensatory physiological and biochemical mechanisms that provide a benefit above and beyond simply combating the damage produced. 
+
+As with all things, there's a limit beyond which things start to break down.  There's a bit more of a question when it comes to Ultra-endurance athletes:
+
+Knez, W. L., Coombes, J. S., &amp; Jenkins, D. G. (2006). Ultra-endurance exercise and oxidative damage. Sports Medicine, 36(5), 429-441.
+
+But broadly, that's the principle involved.  |-| 
+|-| cnuncxq || 4 || No, not at all. There was basically one paper in the 80s that spawned some minor discussion and then a followup in 2010, which is where that 26 million years figure comes from. There have been 14 papers that cited that one, but none of them really follow up on the idea.
+
+Compare that to something like (random example) Horava-Lifschitz gravity, which despite likely not being correct, has generated enough interest to be cited 1200 times since 2009. |-| 
+|-| cnuolkq || 8 || I would suggest reading Flatland and Sphereland. They're both short books which explain, through analogy, what the implications of a fourth spatial dimension could be.
+
+Flatland follows a character from Flatland (a 2D world) as a sphere tries to explain to him what three-dimensional space is like. The concepts he struggles with demonstrate what sorts of things would be possible for a four-dimensional being looking "down" on us.
+
+Sphereland (by a different author) was a sequel based on the idea that Flatland is actually the surface of a giant sphere. The residents of Flatland are two-dimensional and can't conceive of the direction of space's curvature, but they are able to prove that the curve exists. I still can't picture four-dimensional space, but I can at least understand why there might be dimensions I can't see and what some of the implications might be. |-| 
+|-| cnup2t6 || 4 || Using a particular [technical definition of "curved"](http://en.wikipedia.org/wiki/Scalar_curvature), yes, spacetime is literally curved. This technical definition is kind of like our intuitive idea of curvature, in the sense that most things which we would think of as (intuitively) curved surfaces are also (technically) curved. But some things are not. For example, the surface of a cylinder looks curved, right? But using the technical definition, it has zero curvature. (This is related to the fact that you can unroll a cylinder into a flat surface without stretching it.) There are also some things that are technically curved but which you wouldn't think of as being curved. For example, a 2D surface which is not part of some 3D space can be curved using the technical definition, even though you probably wouldn't think of something as being curved if you can't examine how it fits into a higher-dimensional space. In fact, this is the whole reason we have a technical definition of curvature: it's a way of identifying curved surfaces (or volumes, etc.) even if you can't look at them from the outside.
+
+Anyway, because it's so easy to think that curvature requires looking at something from the outside, I prefer to use the word **distorted** when talking about spacetime. |-| 
+|-| cnupiz8 || -4 || Science is a lot of theory and proofs.
+
+Many theories depict many different outcomes or processes. Some are proven correct and others proven wrong.
+
+I have seen the theory of gravity particles. Gravity waves. And gravity energy radiating which was interesting.
+
+There is also the theory that time is not linear and a falacy created by man. There is the concept of two points both the same but yes seperate.
+
+In normal computing you have 1 and 0. But in quantum computing. You can have 1 or 0 but you can also have 1 and 0 at the same tine on a single byte.
+
+To answer your question. There is no definate answer. Space time could he curved or it could be flat like a shelf. Or it could be like a pool of water and particles floating in it.
+
+So far its simply theory and different models exist. We just havent provent them out with a definate answer yet. |-| 
+|-| cnupx8u || 36 || In principle nothing prohibits two events from taking place at the same time--and essentially you're bringing up a notion from Zeno's paradoxes, the notion of divisibility. Ultimately, there is nothing special that two events occupy the same parcel of time versus being offset slightly and practically, our measurement tools will break down eventually and our ability to resolve any differences will be impossible.
+
+Now simultaneity actually has a much deeper problem when you consider relativity. Because both lengths and times are variable and perspective based, different observers will argue over the order of two unrelated events, say two beacons flashing on opposite sides of the city. You can see this phenomenon in this [animation](http://upload.wikimedia.org/wikipedia/commons/7/78/Relativity_of_Simultaneity_Animation.gif) here. So, if I'm disturbed by the "offset" in time between two events, I can engineer my reference frame to synchronize them to put my mind at ease. |-| 
+|-| cnupx8u || 59 || In principle nothing prohibits two events from taking place at the same time--and essentially you're bringing up a notion from Zeno's paradoxes, the notion of divisibility. Ultimately, there is nothing special that two events occupy the same parcel of time versus being offset slightly and practically, our measurement tools will break down eventually and our ability to resolve any differences will be impossible.
+
+Now simultaneity actually has a much deeper problem when you consider relativity. Because both lengths and times are variable and perspective based, different observers will argue over the order of two unrelated events, say two beacons flashing on opposite sides of the city. You can see this phenomenon in this [animation](http://upload.wikimedia.org/wikipedia/commons/7/78/Relativity_of_Simultaneity_Animation.gif) here. So, if I'm disturbed by the "offset" in time between two events, I can engineer my reference frame to synchronize them to put my mind at ease. |-| 
+|-| cnuq0di || 6 || Look--you can't see spacetime; at least, you can't see the curvature of spacetime like you would the curvature of a rubber sheet.  But that doesn't mean you can't experience the curvature of spacetime.  If you were in space trying to zoom past Earth in a straight line (at a velocity comparable to the orbital velocity at that distance), you might think you were going straight, but you would actually be traveling a curved path, or perhaps even an orbit.  So in that sense, yes spacetime is very much "literally curved"--it just happens that the meaning of the word "curved" in this case is not referring to the familiar idea of say, a boomerang being curved, but instead is a more complicated (read: higher dimensional) idea of curvature.
+
+By asking if spacetime is "literally curved" or if it's just "a metaphor/model" for something "we don't yet understand", you're likely to confuse quite a few physicists because it sounds like you're asking whether an apple is red, or is the same color as a stop sign.  As scientists, when we don't understand something we make a model of it and then abide by that until it disagrees with reality.  Is spacetime "literally curved"?  Sure!  Just as much as anything else can be "literally curved".  Now of course, in the future it may come to light that spacetime behaves slightly differently than we now think.  But if we can experience the repulsive electric field coming off of millions of complex organic molecules in an apple and call it "literally curved", I think the phrase "curved spacetime" is here to stay. |-| 
+|-| cnuq8dv || 3 || Im glad someone asked this question. I've struggled with visualizing curvature around an entire spheroid myself and the classic model of a bowling ball depressing the center of a blanket doesn't in work in 4D space all the way around the ball. My imagination comes up short when i try to imagine curves hitting every single point of the surface of the spheroid.  
+
+So I came up with a way for my brain to conceive of the gravitational "curves" i.e. forces that surround a planet and here's how I can best articulate it: Think of a sphere giving off light in a dark room. This sphere is of low-wattage so it's dim and there is a discernable halo around the sphere. The area of the brightest light is the area of the greatest gravity and as it dims to darkness at the edges of the halo is where gravity is the weakest. This would in essence be like countless lines of light like a pin-cushion all the way around the sphere and "curves" are just gradients of lesser to greater forces attracting you towards the center.  |-| 
+|-| cnuq8k8 || 10 || Define "truly simultaneous." In classical physics or in the same reference frame yes. One event could happen at exactly the same time to way more than any measurable amount of time, even absolute. HOWEVER, if you then move that reference frame, you now have two events that occur at different times.
+
+An "event" in relativity is defined at a location and a time. So to have two simultaneous events in every reference frame they would have to occupy the same location at the same time, therefore making them the same event (if you have heard anything about relativity you know the two strobes at arms length and a nose model, or something similar). 
+
+Basically, no you can't in spacetime, but you can in one reference frame. |-| 
+|-| cnuq8k8 || 8 || Define "truly simultaneous." In classical physics or in the same reference frame yes. One event could happen at exactly the same time to way more than any measurable amount of time, even absolute. HOWEVER, if you then move that reference frame, you now have two events that occur at different times.
+
+An "event" in relativity is defined at a location and a time. So to have two simultaneous events in every reference frame they would have to occupy the same location at the same time, therefore making them the same event (if you have heard anything about relativity you know the two strobes at arms length and a nose model, or something similar). 
+
+Basically, no you can't in spacetime, but you can in one reference frame. |-| 
+|-| cnuq949 || 6 || The "hard sphere" cartoon you see in chemistry textbooks are just cartoons. Real molecules and atoms aren't actually hard marble spheres, what the sphere does do is give you sense of relative "size" which is a fuzzy concept when it comes to atoms.
+
+In some sense a Uranium atom is definitely bigger than a Hydrogen atom and its electron cloud extends (with significant probability) much farther, but again, these electron clouds are "fuzzy" as seen in this render of some hydrogen [orbitals](http://th02.deviantart.net/fs71/PRE/f/2012/259/3/d/hydrogen_orbitals___poster_by_darksilverflame-d5ev4l6.png). To some approximation you can model the cloud as charge density, but that's only an approximation as you never measure half an electron or somesuch.
+
+This [cartoon](http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/500px-Covalent_bond_hydrogen.svg.png) better represents what a chemical bond is than say a space filling or ball and stick cartoon, but this is still just a cartoon, for instance the nucleus is much too exaggerated. Molecules and atoms simply do not have edges, but regions of electron probability.
+
+Edit: One model for bonding you can consider with some use is [LCAO](http://en.wikipedia.org/wiki/Linear_combination_of_atomic_orbitals), in this model (which is just a *fancier* cartoon), the bonding regions are shared probability regions between the two atomic cores, so it's a better mental image than just overlapping orbitals in the above cartoon because the resulting orbitals you consider for, say, H-H is elongated and distorted to acknowledge the effect of two charged protons as seen in this [MO diagram.](http://upload.wikimedia.org/wikipedia/commons/b/b5/MO_diagram_dihydrogen.png) |-| 
+|-| cnur2cf || 4 || Bulk motion is *not* heat. Your cup of coffee is not hotter for flying through the air, it certainly has more kinetic energy, but this is a shared momentum for the whole object.
+
+A windy day feels colder because of forced convection, essentially bulk motion is much more efficient at transferring heat from a surface as at any given moment, the air touching you is "fresh" air which hasn't had a chance to warm up yet from you. Diffusion heat transfer is a slower process, so stagnant air doesn't feel so cold. |-| 
+|-| cnurivv || -3 || [deleted] |-| 
+|-| cnus0dp || 5 || Base-10 is not the only system used by civilizations. [Egyptians](http://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/) used base-12, [the Babylonians](http://en.wikipedia.org/wiki/Babylonian_numerals) used base-60 and the [Mayans](http://en.wikipedia.org/wiki/Maya_numerals) had base-20. We still see these in our 24 hour day or 360 degrees in a circle. |-| 
+|-| cnush40 || 5 || I've seen this question before, and the answer is no. Beagle 2 is too far away. At top speed, it would take Curiosity over 800 days to get there. Of course, it wouldn't be going anywhere near top speed due to the terrain, so it would probably take decades. That's assuming that Curiosity won't break down, run out of power, or get stuck on the way. Even if it did get there, Curiosity's tools are drills, lasers, and a spinning brush; not things that would be useful in repairing Beagle 2. Even if Curiosity got there and even if it could unfurl Beagle 2's solar panels, Beagle 2's circuitry is probably destroyed by 10 years of extreme heat and cold, and who knows what other damage the dust storms have done. |-| 
+|-| cnuslvy || 3 || The [theory](http://www.pierce.ctc.edu/staff/dlippman/mathinsociety/HistoricalCounting1.0.pdf) behind base-10 being a popular numeral system stems from the fact that humans typically have 10 fingers. Additionally, Mayans even had two number systems in place, one for the priestly class used to calculate time and one for counting. Modern society has created the binary number system for use by computers, which is used in addition to the base-10 system for counting. |-| 
+|-| cnusmer || 7 || fossils are rare (relative to the number of creatures that have existed). Conditions for good preservation are not usual (a body has to be quickly covered by a land slide etc for example), and it's only because billions of animals have existed over hundreds of millions of years that we have a tiny percentage preserved, so it appears fossils are common. As proto-humans were few, and only around for a small period of earth's history, there aren't many, plus you have to find them too. |-| 
+|-| cnusswu || 4 || It's an equivalency of energy 
+
+They could also equate it too calories or joules but tnt they think is more relatable
+
+To answer your question directly no it would not explode the same simply because a nuclear bombs volume is smaller than that many tons of tnt and many other factors  |-| 
+|-| cnut3i3 || 4 || Everything we know about the universe is a metaphor or a model. If you mean "literally" in the sense that "it's the simplest model we have come up with", yes, spacetime is literally curved. 
+
+But we can create other, more complex models that explain the same phenomenon accurately. This is true for all natural phenomena: It is possible to explain the solar system as the sun and planets orbiting around the earth, for instance. This will necessarily require us to come up with a new model for relativity, but in principle this could be done.
+
+The question of whether anything is "literally" true in the physical universe is very fuzzy and depends on your definitions. We perceive the universe through our senses, but everything we perceive is processed before we consciously understand it. So depending on how close our perception is to our most intuitive models, everything we understand will to some degree be a metaphor or a model for what is actually happening. When you see a stone falling to the ground, whether it falls "down" or not is a matter of perspective. More accurately, it's falling towards the center of the earth. But even more accurately it's falling towards the gravitational center of the earth. Even more accurately, both the rock and the earth are attracted to each others' gravitational center. Etc. |-| 
+|-| cnut757 || -6 || “Is spacetime literally curved? Or is that a metaphor/model we use to describe the gravitational concepts that we don't yet understand?”
+Surely science understands everything (sic). Since they keep insisting that theirs is not a belief system, much like those others. Strange that. Because they derive it from books, which they don’t seem to question that much. Although those same tomes are being continually being rewritten in an effort to free the ideology of its previous erroneous beliefs. One wonders if any scientist would admit to ever being mistaken. And if they have been, were they aware that they were mistaken while they were mistaken. And if they didn’t. Then how, precisely, do they know for certain that they are not mistaken now? 
+ |-| 
+|-| cnutjsg || -3 || How are you gonna measure when each was officially born? Maybe it sounds flippant, but it cuts to the central issue of what time means.
+
+Births are typically recorded to the minute because it's hard to pin down the second and millisecond at which a baby goes from "unborn" to born". When anything at all happens in our universe, it takes time to happen. Two "simultaneous" events would just be temporally overlapping. |-| 
+|-| cnuu3pu || 4 || I think there is a conception of an absolute definition of time that we can all agree upon woven into your question. I.E. Two people with two clocks should agree what "now" is and what time it is. 
+
+
+**General Relativity.**
+
+Frustratingly relativity tells us we're not even allowed to ask the question "what is happening right now" without considering a reference frame to view it from. Worse, the definition of what is happening "now" varies based on where you're viewing it from, relative velocity, and the how distorted your region of space-time is. If you choose any particular reference frame then general relativity doesn't prohibit you from viewing two events simultaneously, but there is no underlying requirement in relativity for an agreement that those events may have taken place at the same time.
+
+This is probably the best illustration of the problem of deciding if two events have taken place at the same time:
+http://youtu.be/ngWJLsotedI?t=22m
+
+So under the right circumstances with relativity you can choose a place to stand and proclaim "These two babies are simultaneously the youngest people alive", however your friend who is standing on a nearby hill will disagree.
+
+
+**Quantum Mechanics**
+
+Quantum mechanics is perhaps even more frustrating than relativity in regards to deciding upon now. Schrödinger equations tell us that any event before observation can only be talked about as a wave of uncertainty that contains no definitive state, position, and importantly no location in time until the event is observed. We can only talk about the probability of finding the event at a particular time, we cannot describe something as happening now without interacting with it.
+
+Observation affects the system and will, in-turn, be a part of deciding when the event we're observing takes place. In other words, by checking to see if something has happened "now" you will collapse the wave of uncertainty and create the event yourself.
+
+Some of the frontiers of quantum mechanics like quantum entanglement seems to describe simultaneous events at a distance, however presently quantum-entanglement doesn't seem to allow us to communicate that information without subjecting it to the restrictions above.
+
+Hope that all helps. :-) |-| 
+|-| cnuut2x || 3 || Firstly, early humans on;y came on to the scene about 4 million years ago. For comparison, the fossil record currently goes back perhaps as far as 4 *billion* years.
+
+Secondly, humans are terrestrial animals. Fossil preservation is incredibly unlikely even in the most favourable of conditions, and those are where you have rapid sedimentation, lack of oxygen, fine grained sediment, lack of scavengers, then a rapid burial with groundwater fluids that enable stable remineralisation of the fragments (fossils are made up of replacement minerals, not the stuff the creature was originally composed of).
+
+In contrast, humans and our ancestors are terrestrial creatures, and terrestrial environments are generally erosive; this is why the terrestrial fossil record is so much poorer than the marine one.
+
+Frankly, it's amazing we have as many human fossils as we do. |-| 
+|-| cnuvduw || 4 || Time slows down for an observer under the effect of gravity. The stronger the gravitational field, the slower time passes. |-| 
+|-| cnuvguq || 12 || A non-rotating black hole is a perfect sphere. A rotating black hole's event horizon is a perfect sphere, and its ergosphere is an oblate spheroid. |-| 
+|-| cnuvwsz || 50 || There is Plutonium-238 onboard the rover which decays slowly over a few years. This decay produces heat which provides electrical power through the use of a thermocouple.
+
+This process is very stable (the energy output is very consistent) but the decay produces a tiny amount of power especially after conversion using the inefficient thermocouple. |-| 
+|-| cnuvwsz || 9 || There is Plutonium-238 onboard the rover which decays slowly over a few years. This decay produces heat which provides electrical power through the use of a thermocouple.
+
+This process is very stable (the energy output is very consistent) but the decay produces a tiny amount of power especially after conversion using the inefficient thermocouple. |-| 
+|-| cnuw0t5 || 10 || Mirrors are always imperfect, so no.
+
+You mentioned an invisible telescope though, so you should be willing to break some laws of physics. If you really want your scenario to work, you have to assume three physically impossible scenarios.
+
+The first two are your invisibility and perfect mirrors. The third is what is known as the Rayleigh criterion. For a given wavelength of light and a lens diameter, there is a limit to how much you can zoom in and still make out the details of an object. |-| 
+|-| cnuw4n5 || 6 || Nuclear power. [Nuclear cars](http://en.m.wikipedia.org/wiki/Nuclear_car) and [nuclear planes](http://en.wikipedia.org/wiki/Nuclear-powered_aircraft) have been experimented with, and are viable. What it boils down to is...with the amount of car crashes that happen in the world every day, do you really want millions of nuclear reactors barreling down the roads and freeways? How much more collateral damage would have been caused had the 9/11 planes been reactor powered? Aside from the obvious damage to buildings, there would have also been a fallout zone. It's really not in anyone's best interest.  |-| 
+|-| cnuw4n5 || 8 || Nuclear power. [Nuclear cars](http://en.m.wikipedia.org/wiki/Nuclear_car) and [nuclear planes](http://en.wikipedia.org/wiki/Nuclear-powered_aircraft) have been experimented with, and are viable. What it boils down to is...with the amount of car crashes that happen in the world every day, do you really want millions of nuclear reactors barreling down the roads and freeways? How much more collateral damage would have been caused had the 9/11 planes been reactor powered? Aside from the obvious damage to buildings, there would have also been a fallout zone. It's really not in anyone's best interest.  |-| 
+|-| cnuw9bl || 38 || &gt;why can't we implement this seemingly endless energy into cars or other objects?
+
+(a) [There isn't very much available](http://www.wired.com/2013/09/plutonium-238-problem/all/)
+
+(b) [A kilogram costs $8m to produce](http://ne.oregonstate.edu/rebuilding-supply-pu-238)
+
+(c) [A kilogram only produces around 20 watts of electricity](http://www.nature.com/news/nuclear-power-desperately-seeking-plutonium-1.16411).
+
+You'd be much better off buying a solar panel ;) |-| 
+|-| cnuw9bl || 6 || &gt;why can't we implement this seemingly endless energy into cars or other objects?
+
+(a) [There isn't very much available](http://www.wired.com/2013/09/plutonium-238-problem/all/)
+
+(b) [A kilogram costs $8m to produce](http://ne.oregonstate.edu/rebuilding-supply-pu-238)
+
+(c) [A kilogram only produces around 20 watts of electricity](http://www.nature.com/news/nuclear-power-desperately-seeking-plutonium-1.16411).
+
+You'd be much better off buying a solar panel ;) |-| 
+|-| cnuwe6g || 20 || The other answers are correct, I will add that Curiosity is a very low power "car". It goes very very slowly, not only because of caution, but also because of the power of it's generator. 
+
+The generator produce about 2kW of thermal energy which is converted in about 120W of electricity. By comparison, a 1L combustion engine in a small car can produce approximately 50kW.
+
+If you use a generator similar to what is on Curiosity to power your car, you will need a bigger generator and more "fuel". |-| 
+|-| cnuwe6g || 5 || The other answers are correct, I will add that Curiosity is a very low power "car". It goes very very slowly, not only because of caution, but also because of the power of it's generator. 
+
+The generator produce about 2kW of thermal energy which is converted in about 120W of electricity. By comparison, a 1L combustion engine in a small car can produce approximately 50kW.
+
+If you use a generator similar to what is on Curiosity to power your car, you will need a bigger generator and more "fuel". |-| 
+|-| cnuybrw || 72 || No, nuclear properties are essentially independent of temperature (until you get to like fusion temperatures). There's one decay mechanism called electron capture that might have a very weak temperature dependence (if the electron is more likely to be found near the nucleus), but results on that are unclear. [Here](http://link.springer.com/article/10.1140%2Fepja%2Fi2006-10068-x?LI=true#page-1) is a positive result [and a negative](http://arxiv.org/pdf/0910.4338.pdf). |-| 
+|-| cnv1w2i || 9 || That sucker is nuclear! Plus, it doesn't generate the same kind of pony-car power that it takes to crank a Ford Mustang down the road at 135 mph. It generates just enough to get the rover to putter around, and even though the power source lasts a long time (not actually endless) it costs millions to power it. Even if it wasn't prohibitively expensive (and highly regulated) to put plutonium in regular cars and somehow get them to move, there just isn't enough material to power all the cars. Not nearly enough. We'd only be able to do a very small percentage of the total vehicles.  |-| 
+|-| cnv27sn || 17 || Access to consumers directly requires a differentiating business model that most manufacturers don't have or want. Logistics and the ability to capitalize on choice is a speciality that many companies also don't want to focus on. They'd often rather focus on innovation and brand quality in their own space. |-| 
+|-| cnv29os || 20 || Yes we do.
+
+WMAP data showed to a great degree of accuracy (about 0.1%) that the universe was flat. From about 2009-2012 we had a similar, more advanced, satellite in operation called Planck. Like WMAP and COBE, it's predescesors, Planck made hyper accurate measurements of the cosmic microwave background. 
+
+The first results from planck were published in 2013 in a large series of papers and further analysis provided a new round of results in 2014 with more refined conclusions. These new results agreed with all previous experiments, that the universe is flat or, at least, incredibly close to flat.
+
+If you wish to see the relevant 2013 results they are in [this paper](http://arxiv.org/pdf/1303.5076v3.pdf) look under section 6.2.3 on curvature where they show the deviation from flat to be &lt; 0.05%. Essentially they slightly improve on previous results (by combining several sets of results including their own). 
+
+To quote their summary of that section:
+
+&gt;there is no evidence from Planck for any departure from a spatially flat geometry.
+
+I imagine that sentiment is one shared by the 2014 results and any results from the near future.
+
+This isn't a problem or anything, one component of the "big bang theory" is something called inflation. Most and the most common (although not all) incarnations of inflation predict this flat geometry so our very accurate measurements of a flat universe are consistent with our theories of inflation. |-| 
+|-| cnv4qlh || 38 || There are two major components to rotting (more accurately called decomposition) in animals - autolysis and putrefaction (which is one of my favorite words in the english language.)  Putrefaction is when all of your tissue, including organs, are broken down by bacteria and fungi.  The byproducts of the bacterial digestion are the chemical compounds (some gaseous) that make decomposing bodies smell bad.  The buildup of these gasses is what causes bloating in dead bodies, until cavities become so weakened that they rupture.  At that point, most of the internal organs have been reduced to goo.  
+
+Autolysis in this context is when an organism is digested by it's own digestive juices; this occurs at the organism level and the cellular level.  The acid and digestive enzymes in your stomach and intestines are no longer contained and begin to digest surrounding tissue, and individual organelles with cells (lysosomes and peroxisomes) begin to break down, digesting the other cellular components, and eventually surrounding cells.
+
+Now to answer your question - we avoid putrefaction through the same mechanisms we avoid all problems caused by bacteria - our skin and mucous membranes are constantly maintained and renewed to prevent bacteria from making their way into our bodies, and our immune system fights off most of the rest that make it in.  Organ level autolysis is also prevented by the maintenance of the mucous layer in the digestive tract by specialized cells called goblet cells, this creates a hydrophobic layer of mucous and a pH gradient that prevents stomach acid from ever coming in contact with tissue.  Cells are also constantly maintaining organelle membrane integrity and repairing damaged components.  When you die all of the maintenance stops and your mucous membranes dry out, allowing the ingress of putrefying bacteria.
+
+  |-| 
+|-| cnv51fn || 7 || It depends a bit on how you count them, because you're always free to squish fields together into a big field with extra components or split each component into it's own field. Usually symmetries mean that there are natural ways to organize the various components into single objects; for example you could split the electron field into a spin-up electron and a spin-down electron, but that would mean you'd have to keep track of interactions between each spin-component separately.
+
+The short answer is there is one fundamental field for each type of particle. Whether you say that quarks with different colour states are the same particle or not is up to you. |-| 
+|-| cnv6cav || 6 || One of the simplest reasons is just logistics honestly.
+
+You have distributors that warehouse your product and take the burden of logistics off the manufacturer.
+
+Logistics is a huge cost and is quite frequently a cost people don't associate big numbers with.
+
+So in turn what manufactures tend to do is specialize on manufacturing and take a loss on gross profit for a distributor to pick up the slack on logistics.
+
+Essentially imagine how much money it woukd cost if everyone that wanted to buy a Ford Mustang today bought directly from the manufacturer.
+
+Ford or the customer would have to pay for each one to be shipped to them. So what car dealerships do is buy in bulk orders, save the manufacturer the cost of holding/shipping product and give the customer the ease of not having to worry logistically about the product they purchased.  |-| 
+|-| cnv7rom || 5 || The traditional answer is no, but there are some known exceptions, with Radon having a notable 4% seasonal variation to its rate of decay.  While this isn't necessarily due to temperature (it's speculated to be due to solar radiation variations), it is interesting and of a similar nature to the question.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Radioactive_decay#Changing_decay_rates) can provide links and more information. |-| 
+|-| cnv87lj || 10 || Seismic waves that travel through the core move at a velocity that depends on the properties of the material the waves move through. The best fit is with iron, Fe. A second reason is that Fe is by FAR the most abundant metal in the UNIVERSE. Many meteorites have significant amounts of iron in them in the Native state.
+
+The temperature is inferred from the expected material properties of iron, and the overall mass of the planet, in combination with the measurements obtained via the seismic waves.
+
+See Wikipedia on the Earths [Inner Core](http://en.wikipedia.org/wiki/Inner_core) for more info on the calculated temperatures.
+
+
+Here is more background on composition. 
+It may be made of a mixture of other magnetic metals however there are several reasons to believe that the core is made of predominantly iron. First, iron is one of the most abundant elements on Earth. Secondly, asteroids are composed predominantly of iron. Scientists believe a major portion of early Earth formed by coalescing asteroids so by extension one may infer the interior is also composed of iron. It is so hot in the Earth's interior that we know it is composed of some liquid metallic material. Now different elements exhibit different densities and if allowed to remain in a liquid the elements will separate depending on their density the heavy ones to the bottom and light ones to the top. Have you ever seen salad dressing separate in the bottle; with the oil below and water above? The Earth's interior has been hot so long there would be reason to believe this process of density separation would have reached equilibrium and hence the thought that Earth's outer core is predominantly composed on one element.
+
+Some of the most convincing evidence for an iron core composition comes from what we know about gravity and energy waves. We know Earth's size and gravitational pull therefore we can infer Earth's density. From Earth's density we can estimate what elements must compose the Earth; an iron core just happens to estimate Earth's mass the best. Now from energy waves, geologists use seismometers to measure movements in Earth's interior (e.g. Earthquakes), These energy-waves form compressional and shear waves. From seismometers around the globe we can see the shear waves disappear when they reach the depth's of Earth's outer core. This tells us that the outer core is composed of liquid material. This is because liquids cannot be sheared, ever try pushing water? It just moves out of the way. Now the compressional waves on the other hand actually slow down. That is because liquid is much less compressible than the material above partially molten rock. Now from understanding how energy waves travel through materials we can estimate at what speed will compressional waves move through different materials. It just happens that the speed at which the compressional waves move through the outer core is really close to the speed we would estimate for liquid iron. When the energy waves reach the inner core we can see the shear waves appear and the compression waves accelerate sharply. Similarly from understanding the speed at which these waves travel through materials we can see these speeds are really close to those estimated for a solid iron composition.
+
+Now this does not entirely rule out different elements in the core. There may be other trace (small) amounts of other elements. However from what we see in asteroid composition, gravity of Earth, and how energy (seismic) waves travel through the core we have reason to infer the core is made predominantly of iron.
+
+ |-| 
+|-| cnv8cbq || 4 || In principle the critical point might be when the reproductive rate of the population drops below replacement, such that the population is shrinking. The idea of "mutational meltdown" is that as a (smallish) population shrinks natural selection against deleterious mutations becomes less effective, and inbreeding increases. This leads to the fixation of harmful mutations and a decrease in the reproductive rate, making the population smaller still, in a positive feedback loop. It's unclear whether this is actually what happens, but it's a popular idea.
+
+Two ways to escape the meltdown might be the appearance of new beneficial or compensatory mutations, which increase fitness, and human intervention to artificially increase reproductive rates and reduce inbreeding. Lack of genetic diversity is potentially a problem, but extinction is probably avoidable in many cases. |-| 
+|-| cnv9slb || 11 || This will depend on the beach.
+
+Different geotectonic environments are caracterised by different sand mineralogies. This was well established by [Dickinson &amp; Suczek, 1979](http://www.muststayawake.com/SDAG/library/ESS/Dickinson_Suczek1979.pdf). Geotectonic environment controls the nature of the source material (to a certain extent) but also the rate of denudation and speed at which the sediment will mature mineralogically. The more mature a sediment, the less unstable minerals it contains (generally dark pyroxenes, olivine and amphiboles) and the more enriched it becomes in quartz (usually pale grey to white).
+
+Thus, sand on the beaches of passive margins such as the eastern American seaboard is mostly quartz-rich, with subordinate amounts of feldspar - thus whitish grey. Erosion there proceeds slowly and darker minerals are broken down by the time the sand reaches the beach.
+
+On the other hand, sands formed on convergent margins such as the American pacific coast will have a much higher proportion of lithic fragments, and thus be generally darker than its eastern counterpart. This results from the faster transit from mountain to sea, and higher erosion rate, leaving proportionately more unstable grains in the sand.
+
+But then again source area will exert strong control on sand mineralogy. For instance, some Hawaian beaches are sourced directly from basalt and have very brief transit times, and are lined [with immature black sand](http://en.wikipedia.org/wiki/Punalu'u_Beach). |-| 
+|-| cnvagfk || 8 || Those are just maps of the whole sky. You could put it in any [map projection](http://en.wikipedia.org/wiki/List_of_map_projections) you wanted, but astronomers tend to prefer equal-area projections like the Mollweide.
+
+You can also [find them](http://planck.cf.ac.uk/all-sky-images) in rectangular maps. |-| 
+|-| cnvcqjf || 72 || Marine mammals are typically top predators, and as such rely on adaptations to allow them to remain hidden from prey, or avoid being targeted. You can view them in the same way as sharks too. Marine life in general which live a pelagic lifestyle tend to have a type of counter-shading. That counter-shading allows it to blend in with its background. When looking down, the background tends to be darker, and when looking up, the background tends to be lighter. Even common dolphin, the more colorful of the dolphins in my opinion, are counter-shaded.
+
+Rays, turtles, fishes, and birds also tend to be counter-shaded.
+
+* [What, if anything, is the adaptive function of countershading?](http://www.sciencedirect.com/science/article/pii/S0003347204001794) |-| 
+|-| cnvgiae || 13 || Copper is over 3 times more dense than aluminum, much softer and does not stand up to the elements as well.  The aluminum oxide layer that forms on any exposed aluminum is unnoticeable and almost completely inert while copper oxide is dark brown and only form more slowly.  Copper can also form verdigris (copper carbonate) which is that green stuff you often see on old statues or other old copper pieces, plus a couple other undesirable tarnishings when exposed to different gasses.
+
+Copper can also be poisonous if consumed in excess, such as if leached from a copper vessel with an acidic liquid.  People who make water bottles don't want to get in trouble once you start putting soda in there and give yourself copper poisoning.
+
+So yes, a copper water bottle may look cool and have some antibacterial properties, but it would be much heavier, not last as long, and could potentially be dangerous if used incorrectly.  It would also be way more expensive.
+
+If you did coat the interior of the container with an inert polymer (which sigg might do with their aluminum containers) then the toxicity problems might be removed, but you then don't gain any benefit from antibacterial copper either.  At that point it would just be a battle between looks, price, durability, and weight. |-| 
+|-| cnvgzon || 4 || One way to slow down decay rate is is to having the radiation source moving at a relativistic speed wrt you. Note that this doesn't change the decay rate in the source's frame of reference, just your own.
+
+Muons have a mean lifetime of 2.2 us (10^-6 s). Even moving at 99.97% of the speed of light, half would survive only about 450 m in our atmosphere, after being created via cosmic ray collisions. Due to time dilation, their lifetime is increased in our frame of reference, and we can detect them streaming towards the ground. |-| 
+|-| cnvhgob || 7 || color is something that the brain *does* - it's not that you pick up colors from the environment; rather, the eyes/brain sense light, and the qualities of this light are arranged by the nervous system in a completely neural/perceptual domain we call "color". color doesn't exist outside of perception.
+
+whatever colors a mantis shrimp sees, it's the same story: its experience of color is something generated by its nervous system, not something it detects in the world.
+
+you and a mantis shrimp can, more or less, "detect" all the same light; it's just that the mantis shrimp can make more, or finer, distinctions between the lights that it sees (*edit* that depends on your definitions - [this comment is important] (http://www.reddit.com/r/askscience/comments/2t2v2d/if_we_were_to_see_a_new_color_would_our_brains_be/cnvqwrk)), because it has a very (very very) different nervous system from ours, starting with its crazy multi-tiered retina that expresses many more light-sensitive pigments than we have - it's those pigments that allow the shrimp to make all those fine distinctions, but they don't really increase the shrimp's ability to detect light..
+
+SO, since color is already something created in the brain, you could say yeah, if you could see a "new color", by definition you would be able to comprehend it. |-| 
+|-| cnvrfdk || 17 || The Big Bang wasn't a point, it was just an event when the whole universe began getting larger. There's no direction or center to this expansion. If the universe is infinite today, it's always been infinite. See the [FAQ](http://www.reddit.com/r/askscience/wiki/astronomy) for more. |-| 
+|-| cnvx87j || -3 || &gt; If infinite, for any arbitrary distance d, there are two points in the universe that are separated by that distance.
+
+That's not true: Infinite is not a number. You can't say "these two points are infinitely far away from each other" - the points themselves are the limit of the stretch, so the stretch is not un-limited (is not in-finite). |-| 
+|-| cnvxhg4 || 9 || It's a gas. 
+
+I've seen experiments where it was trapped in a vacuum chamber with lasers. To allow for the laser to come through the chamber, it had windows through which you could see the condensate as a glowing blob. 
+
+The glowing comes from the lasers used to make the trap: the atoms in the condensate  absorb the photons in the laser and re-emit them in random direction, and you can see this light. |-| 
+|-| cnvxt85 || 7 || A bit of context first: Atomic nuclei join each other fusion, and that takes a lot of energy to occur. Take two or more "small" atomic nuclei (like hydrogen, say), crush them together under extreme temperature and pressure, and they'll transform into a helium nucleus. Those atomic nuclei are made up of smaller bits - protons, neutrons - that are in turn made up of smaller bits - quarks, gluons. 
+
+The Big Bang created a soup (called a quark-gluon plasma) of the parts that make up atoms, not atoms themselves at first. As that soup cooled and expanded over the first few minutes, those parts came together to form the simplest atoms - hydrogen and helium... and a tiny bit of lithium and beryllium (the next heaviest elements) too. 
+
+Over time and as stuff continued to cool, the hydrogen came under the influence of gravity to form local areas of higher density gas, then gravity sucked in more hydrogen. The centre of these clouds became hot and dense and under pressure enough for the hydrogen to start the process of fusion...and stars were born. Hydrogen transformed into helium, then helium fused into lithium, and lithium fused, and so on until the star couldn't do this and remain stable. Some of those stars eventually reached a point where they effectively exploded in novae and supernovae, and this hugely energetic explosion created enough energy to  fuse even higher elements to create uranium and other atomic elements with large numbers of protons.
+
+**TL;DR**: The universe started out as a fog of dissolved subatomic particles. These first came together to form largely one-particle atoms (hydrogen). Then the hydrogen collected into stars, and their fusion results added other heavier elements later.  |-| 
+|-| cnvy7h0 || 226 || Just posting for reference, [here](http://www.abc.net.au/interactives/zoomify/1.1.0/?images=2015/hs-2015-02-b-full_jpg/&amp;background=%23000&amp;minZoom=fit&amp;startZoom=fit&amp;attribution=NASA,%20ESA,%20J.%20Dalcanton,%20B.F.%20Williams,%20and%20L.C.%20Johnson%20%28University%20of%20Washington%29,%20the%20PHAT%20team,%20and%20R.%20Gendler&amp;abcnewsembedheight=500) is a zoomable version of the image that is mentioned in the title. If you zoom in fully, the amount of stars that become visible is quite astounding. If someone finds a better version that is viewable online, please feel free to provide a link.
+
+Edit: Someone posted this [alternative link](http://www.spacetelescope.org/images/heic1502a/zoomable/) below. It allows you to zoom in much further, but note that the last zoom level seems to take quite some time to load (at least for me), so it appears to be really pixelated for a while. It is also cropped so that it fits into a rectangle, so you are missing a bit of data in it. I have created a quick resolution comparison between my first link and this version, you can have a look [here](http://i.imgur.com/MG8kEtU.jpg). 
+
+The original 4.3 GB can be downloaded [here](http://www.spacetelescope.org/static/archives/images/original/heic1502a.psb), though please don't hammer their servers if you don't really need it. [Here](http://imgsrc.hubblesite.org/hu/db/images/hs-2015-02-a-full_tif.tif) is another smaller version at 348 MB. |-| 
+|-| cnvy8qs || 46 || Nope, the plane is in the rotating reference frame.
+But, it actually does because the coriolis force contributes to atmospheric winds, among them the jet stream which runs in one direction only and aircraft can take advantage of! |-| 
+|-| cnvye4i || 21 || Possibly. Andromeda is a good gauge to use for our galaxy. It's very much the same as ours, but larger. We can use this image and get an idea of the amount of stars in Andromeda, combine it with the estimated mass of Andromeda, and apply this 'ratio' to our galaxy's mass, which is currently being debated quite a lot. By looking away, we learn more about here. |-| 
+|-| cnvyjfo || 7 || Imagine the earth is a moving bus (at a constant velocity). Though on the outside of the bus you can see the bus is moving, to any one the inside the bus it might as well be stationary. From the busses centre, getting to the front will take the same amount of time as getting to the back. Even if you threw a ball (in the air like a plane is in the air) it would take the same amount of time either way. Taking a plane on earth is like throwing a ball on a bus - that is to say nothing dramatic happens. In the reference of being inside the earths atmosphere, rotation has no effect on a plane that started from the ground. Hope that was helpful/makes sense.  |-| 
+|-| cnvyq5j || 3 || &gt; On a side note, are flight routes generally flown perpendicular to the axis of the Earth?
+
+Flight routes are determined with virtually no regard to the Earth's axis. You can easily find commercial flights that nearly go over the poles. (Usually the North Pole because there are more airports in the northern hemisphere.)
+
+That being said, prevailing winds _do_ tend to run perpendicular to Earth's axis. The winds do affect flight paths somewhat, and that is a reason you might find flights tending to go more east-west than you'd think. But it's not directly because of the Earth's rotation. If the prevailing winds were controlled by a magic machine or something, instead of by the Earth's rotation, then the rotation would have effectively zero effect on flight paths (or times). |-| 
+|-| cnvzu2p || 55 || 1 trillion stars * about 40% of the galaxy is visible / [3.9 billion pixels](http://www.spacetelescope.org/news/heic1502/) = 100 stars/pixel. So using the photo to count stars is definitely out of the question.
+
+The way we estimate the number of stars in a galaxy is [by the mass of the galaxy and the average star](http://www.space.com/25959-how-many-stars-are-in-the-milky-way.html). This hasn't changed with the new high-res photo, as far as I'm aware. |-| 
+|-| cnw025b || 6 || Are stars colliding like crazy with each other as they get closer to the center? Do we pick up those kinds of collisions?
+
+Blows my mind to think of what it must be like closer to the center. Blinding light everywhere or just a really beautiful night sky? |-| 
+|-| cnx58xb || 93 || When you push on the stick, the distortion will travel along the material at a rate equal to the speed of sound in that material, such that the other end will move at a time given by l/v, where l is the length of the stick and v is the speed of sound. This behavior may at first appear to be a bit counterintuitive, but the reason it happens is easier to see if you think of the problem microscopically. When you press on the rod, your hand only comes into contact with the atoms making up its surface. Those atoms in turn will push on their neighbors, and so on, and so on. Essentially what you are doing is you are creating a compression wave. This wave will then propagate through the rod at the speed of sound in that medium.
+
+For a thin metal rod, the speed of sound is approximately given by (Y/p)^1/2 where Y is [Young's modulus](http://en.wikipedia.org/wiki/Young's_modulus), which is a measure of the stiffness of the material and p is the density. The speed of sound will always be much less than the speed of light (in vacuum). For instance for steel the speed of sound is about 6000m/s. Therefore in this case, it would take roughly 50,000 years for the end of a steel rod one light year away to register the signal.
+ |-| 
+|-| cnx6ls1 || 6 || If you are using a piece of stainless as a sacrificial anode to remove corrosion from a piece of rusted iron, then the possibility exists that you could make *some* hexavalent chromium.  However, the chances of that happening are pretty small, especially if you make sure to control the voltage.  At the anode, you are removing electrons from the metal and producing aqueous ions of iron, chromium, nickel, and whatever other things are in your particular grade of steel.  
+
+Which particular metal ions form is dependent on the applied voltage and a few surface chemistry quirks that affect the rate of ion production.  It actually takes a lot of juice (as far as chemicals go) to produce Cr(VI) species such as chromium trioxide and dichromate.  Under the slightly acidic conditions that electrolysis is run at, the dichromate ion will form at a potential of about 1.3V.  If you keep your voltage at or below 1.0 V (technically, you should only need about 0.8V), you will be able to do everything you want while avoiding any potentially toxic chromium byproducts. |-| 
+|-| cnx744q || 11 || &gt;Assume the tennis balls don't squish
+
+This is where the problem arises. [Tennis balls do squish](https://www.youtube.com/watch?v=A9UrE1MVrAY)
+
+In fact, if they were incompressible, there would be no time delay between when you push the first one and the last one comes out the tube. |-| 
+|-| cnx9hwo || 20 || My keyboard got stuck in Canadian French, apologies in advance.
+
+That article doesnt explain why the speed of light is constant in different reference frames, it just shows that electromagnetism implies a speed for electromagnetic waves and then declares its constant in all reference frames. However, if there were a fixed medium through which light propagates, the Earths speed through that medium would affect the apparent speed of light that we measure. The Michelson-Morley experiments of the late 1800s showed that the speed of light is the same regardless of which direction the Earth was travelling, which largely ruled this out. There were other experiments, including Fizeau's experiment which showed that light isn't dragged by moving water very much, and de Sitter's double star experiment, showing light velocities from moving stars didn't add. |-| 
+|-| cnxadhk || 19 || This is a very common question. See the [physics FAQ](http://www.reddit.com/r/askscience/wiki/physics):
+
+[If I push on a stiff rod that's more than one light year long, isn't the rod going to move faster than the speed of light?](http://www.reddit.com/r/askscience/wiki/physics/rod_speedoflight) |-| 
+|-| cnxbfxf || 41 || Angles come with a super amazing, convenient and natural way to measure them that is completely independent of any cultural influences or human preferences: [Radians](http://en.wikipedia.org/wiki/Radian).
+
+Additionally, angles can be identified as a number between 0 and 2pi, there's never really any need to talk about 8.563x10^(32) radians. So there's no need to talk about angles that get really big, you usually just need to know where they lay on the circle which is given by a number between 0 and 2pi. They wrap up on themselves, so there's no need to talk about very large angles that would require a kilo, mega, etc kind of system. |-| 
+|-| cnxcvxl || 17 || As /u/functor7 says, radians are the natural units for angles. However, there has been an attempt to define the [gradian](http://en.wikipedia.org/wiki/Gradian), which is slightly smaller than a degree, making a full circle equal to 400 grad. It went the same way in history as the 10-hour day. |-| 
+|-| cnxefs9 || 12 || Yes, it is possible to do both. Peter Schulz's lab, for example, has published on this extensively (e.g. [Young and Schulz, J. Biol. Chem., 285, 15, 11039 –11044, 2010](http://www.jbc.org/content/285/15/11039.full)).
+
+Chemically, it is straightforward to synthesize many different amino acids that are not part of the 20 amino acids used by most organisms in the synthesis of proteins. However, to incorporate non-canonical amino acids, two other problems need to be solved: identification of a DNA triplet to use as the genetic code for the novel amino acid and generation of an orthogonal aminoacyl-tRNA synthetase/tRNA pair that will allow for the incorporation of that amino acid into the protein chain during translation. Alternatively, one could synthesize proteins containing non-canonical amino acids in the lab, but that has limitations on the size of proteins and may result in the incorrect folding of them. |-| 
+|-| cnxleqi || 4 || Coming up with other amino acids than those 20 is no problem at all. For something to be an aminoacid it just has to have a certain basic skeleton. What you do to the rest is theoretically up to you. 
+
+In nature there are many more amino acids besides the twenty used in proteins. (Actually there are even two more proteinogenic amino acids that some rare species use: Pyrrolysine and Selenocysteine.)
+
+The problem with putting other aminoacids in proteins is that the gentic code is already(almost) used up by the existing amino acids.
+
+To make place for new amino acids there are to possibilities:
+
+
+ 1) You use a base triplet that is currently occupied by another amino acid (See sunkid's answer for more details), or one of the three stop triplets.
+The problem with this is that by changing which triplet codes for which aminoacid you alterate the whole gentic code, which will change the meaning of all genes.
+
+ 2) You extend the genetic code to use more than the usual 4 base pairs. This way you get tons of unused base triplets, which you than can proceed to occupy with the amino acids you want.
+The problem with this approach is that you have to find a matching base pair, which you can "sneak" into an organisms DNA, and which works with the whole replication and transcribation machinery, so that it can be passed on.
+
+This has been done, partially. 
+([Original Paper](http://www.nature.com/nature/journal/v509/n7500/full/nature13314.html)  and
+[Article talking about the whole process]  (http://www.scripps.edu/newsandviews/e_20140512/romesberg.html).)
+
+Although as far as I know nobody has given meaning to those new codons by producing the necessary translation machinery, yet.
+
+Edit: Formatting
+
+
+
+
+ |-| 
+|-| cnxlpps || 5 || There is no "maximum" wavelength of light, in the context of photon emission by electron relaxation, but there is a minimum.
+
+The energy of a particular electron orbital is determined by its principal quantum number, n, which is an integer number going from n = 1 to any number you want. The limit of the energy as n approaches infinity is zero - that's the point we've defined the atom to be ionized, as the electron is no longer bound to the atom. So you can treat exciting an electron from n = 1 to n = "infinity" as an ionization event, and the reverse process as recombination.
+
+Thus, the photon emitted during a recombination event would have the "minimum" wavelength of light, as that is the most energetic electronic energy level transition.
+
+By looking at the same energy levels, you can also conclude that there is no "maximum" wavelength of light. As you get to higher and higher principal quantum numbers - say, n = 4130 and n = 4131 - the energy level difference gets smaller and smaller: it approaches zero. However, these transitions are also increasingly unlikely to occur.
+
+The other way to interpret your question would be in the context of "can a photon with wavelength x exist?". Well, given the wave-particle duality of photons, the longer the wavelength, the less precise we know its location, so if you were to imagine a photon with wavelength multiple times the diameter of the observable universe, our certainty that such a photon would be detected within said universe is small.
+
+On the other hand of the spectrum, there would be limitations on the energy density that put an lower bound in photon wavelength, but that's for a physics expert to comment on. |-| 
+|-| cnxm0vm || 14 || One way to see that there is no max/min wavelength of light is using relativity. If light takes a wavelength λ in one frame, it can take any other value between (0,infinity) in some other frame. Since no frame is preferred, all observers would be "correct" in their own frame, and physics must allow all possible wavelengths to be consistent. |-| 
+|-| cnxni4j || 8 || We can track satellites using ground  based stations (IGS) and use the data to make corrections to signals from things like GPS satellites. This data is not always transmitted back to the satellite, so not all satellites know where they are, per se.
+
+ |-| 
+|-| cnxr0n2 || 7 || Strangeness and charm are not conserved.  The weak force allows for the these quantities to change.
+ |-| 
+|-| cnxvmj3 || 3 || Most of the satellites I work with use a combination of sensors to determine both their position and orientation.  Onboard sensors such as GPS can provide very accurate position knowledge, just as they do on the ground (albeit using fancier, more expensive electronics and software).  Satellites can use this GPS data in a "closed-loop" sense onboard or can send data to the ground for even more accurate "post processing" work.  Often, the live GPS stream is used for basic navigation of the spacecraft and the more accurate ground-augmented solution is used to help make the science data collected even more accurate.
+
+Without GPS, ~~most~~ many satellites rely on predictive ephemeris calculations to know where they are.  This is often done via occasional ground tracking and ranging sequences coupled with the mathematics of orbital bodies to produce fairly accurate position models for the spacecraft.  This is often then fed back to the spacecraft for onboard use.  Between updates, the spacecraft can use data from star trackers, gyroscopes, and accelerometers to keep track of deviations in their path.  Over time, errors will accumulate but it's usually good enough to work from between ground updates. |-| 
+|-| cny03uh || 3 || Actually only a few of the many many bee species make "honey" as we know it. 
+
+Honey is effectively exceptionally effective stored food energy that can help sustain a large population by allowing for regularity. So some types of bees that stay in swarms make honey, as well as the beeswax structures to store it in, to help manage their hive through harder times and winters.
+
+But there many less social species that don't live in large communities, or perhaps live in smaller looser ones, and so don't process collected nectar into honey. They just collect enough food to feed their young. 
+
+Some are parasitic and lay their eggs on other insects, using those as a food source when growing up and then moving over to pollen and nectar to feed themselves once grown. Others move in with honey-producing bees and replace their young, eating rather than making that colony's honey. Others collect nectar and pollen from flowers and stock a small, individual egg chamber with that as food for the hatching larva. |-| 
+|-| cny05zq || 4 || Metals do, at least in certain circumstances. It's called cold welding, and is a suspected culprit for a lot of satellite failures.
+
+Basically, once the metal is exposed to the atmosphere, it forms a layer of oxidation, preventing the metal from reforming into a single piece. In an anaerobic environment, that oxidation layer doesn't form. |-| 
+|-| cny0791 || 7 || They have been and are fed by fresh water sources (rivers, springs, glaciers) and they are above sea level so they drain into the ocean. There is no source of salt that has a chance to mix with the water until it drains into the Atlantic Ocean.  |-| 
+|-| cny0d0g || 3 || Energy of a flame is related to the frequency of light (E=hv, h is Planck's constant and v is frequency), so by looking at the different colors you can better predict the temperature. For example, blue flames will be hotter than red or orange ones (assuming there's no metals burning, which often emit light in the visible range when heated). Your question is about a butane lighter, which will burn red/orange. Go for the orange part, it'll be the highest in energy, this should be the inner part of the flame on your lighter.
+
+It's worth mentioning that the intensity of light (aka brighteness) does have a relationship to the temperature, but your eye can be fooled by what it sees better. So the brightest part of the flame that you see might be yellow (in a bunsen burner, using natural gas or propane), but the hottest part is actually the blue flame within outer cone (blue is at a higher frequency than yellow). |-| 
+|-| cny0m10 || 11 || First, humans didn't spring out of what we call chimpanzees. The common ancestor population of humans and chimpanzees most likely experienced some sort of division leading to two different populations which evolved separately. One population was prehuman, the other was prechimp. |-| 
+|-| cny0qli || 5 || Fish are cold-blooded.
+
+There are some minor exceptions; large predatory fish such as tuna are often slightly warm-blooded, but not as warm as a mammal. This is also why there are no pocket-sized whales; being big and well-insulated helps maintain body heat.
+
+Breathing air while swimming seems somewhat awkward, but there's not actually that much oxygen dissolved in water for fish to extract. Not a problem for mammals though. Lungs are efficient for providing oxygen to that super-fast metabolism.
+
+You don't need to be fully aquatic to get strong advantages either; look at hippos and seals. |-| 
+|-| cny0vta || 3 || With strangeness and charm, they are conserved in strong interactions because the strong force cannot change quark flavor. Those quantum numbers basically count the number of strange or charmed quarks in each hadron, minus the number of anti-strange and anti-charmed quarks. (Strangely, strangeness actually counts the negative of that for some reason. A strange quark has negative strangeness... very strange.) The weak force *can* change quark flavor. So strangeness conservation means that, e.g., a particle that could decay into lower mass particles would take longer, on average, to do so if it has to violate strangeness or charm conservation, because it has to rely on the weaker weak interaction to actually decay. A decay governed by the strong interaction can be expected to happen much more quickly because the interaction is, well, stronger.  |-| 
+|-| cny2c4u || 6 || The aorta itself is perfused by the vasa vasorum, little vessels that get blood from the aorta itself which, rather than branching off, just go through the walls of the vessel. Other stuff in the area still gets blood supply, just not in the most direct way. The parietal pleura over the lung, for instance, get blood from the intercostal arteries that curve all the way around the rib cage. The visceral pleura, on the other hand, share the bronchial circulation of the lung. 
+
+Capillaries are indeed almost everywhere; one exception is cartilage, which is avascular. (It's always my ears and the tip of my nose that get cold first in winter.) |-| 
+|-| cny2wmm || 4 || The first pre-human who had the fused chromosome mutation would have had reduced fertility with the other members of its species who still had 24 chromosome pairs, but it wasn't a complete barrier to reproduction.
+
+If it were then that individual would never have been able to reproduce.
+
+They would have had an odd number, 47 chromosomes total. But since the fused chromosome still lines up with the unfused pair for meiosis at least some of their sex cells would be viable and half of their offspring would also have 47 chromosomes and the other half would have the normal 48.
+
+Eventually there were enough individuals with the mutation that some of them mated and produced the first with 2 copies of the mutant chromosome, so 46 total. |-| 
+|-| cob7hm8 || 559 || Absurdly. There are no traditional transporting mechanisms for ear wax comparable to for example the kinocilia of the air ways which transport mucus, or the peristalsis of the muscles of the intestines or the ureter. Rather ear wax is slowly dispelled because the skin cells within the outer ear canal that are producing and covered by the ear wax grow outwards, leading to it slowly getting transported to the outside of the ear. It's basically a slug's conveyer belt.
+
+EDIT: for a rough time scale, the speed of growth of the skin cells here is about as low as the growth rate of finger nails. |-| 
+|-| coblukd || 922 || Dear everyone in this thread, 
+
+Please stop telling us about your earwax. We don't allow anecdotes on /r/AskScience. Your earwax stories/removal methods are being removed and we're trying to forget what we've read. 
+
+For serious, we want answers here that are scientific, which means they can't be about your earwax. Thank you for not telling us about your earwax. 
+
+Love always, 
+
+The /r/AskScience mod team
+
+Edit: Yes, this applies to stories about other people's earwax as well. |-| 
+|-| cobbf2u || 52 || [deleted] |-| 
+|-| cobvh8b || 15 || The skin inside the ear is special as it has no fat content, is very thin, and attaches directly to the bone. This is one of several reasons why putting anything inside the ear is bad. A minor cut can introduce infection from many different types of nasty things living inside our ears. Stuffing Qtips inside not only clears the ears of the protective wax, but it also pushes it further into the canal and potentially against the eardrum. Too much and you can dry the skin and damage it's ability to produce proper wax. (I'm recovering from this now)
+
+I asked the same question to my specialist and he states that the skin will grow outward from the eardrum and carry the collected wax with it.
+
+Using a washcloth will clean your ears just fine where they need to be cleaned.
+
+
+&amp;nbsp;  
+
+aaaand /u/GrafKarpador further down has a more detailed explanation. |-| 
+|-| cob8t9i || 25 || [deleted] |-| 
+|-| cob5w7i || 9 || [deleted] |-| 
+|-| cobsfsn || 9 || Did early humans naturally want to submerge themselves in water? As stated the correct medical way to clean excess wax is irrigation with warm water. Also what is the natural removal wax removal rate in a subject which would regularly submerge themselves to hunt and or gather?  |-| 
+|-| cobenft || 4 || [deleted] |-| 
+|-| cobsc09 || 4 || [deleted] |-| 
+|-| cobwkhr || -10 || [deleted] |-| 
+|-| cobpbz6 || -4 || [deleted] |-| 
+|-| cobt7ou || -10 || My understanding is that during jaw movements there will be a locomotive action causing the earwax to make its way to your outer ear, dry up (if it is of the wet type), and fall out.
+
+Sauce: http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=1156004&amp;fileId=S0022215100062800
+
+ |-| 
+|-| cobre8m || 51 || Actually, organelles, including mitochondria, don't simply float around the cell randomly... Cells have a highly structured cytoskeleton, which provides spatial and mechanical functions. Microtubules, for example, one of the three cytoskeleton constituents, determine the positions of membrane-enclosed organelles and direct intracellular transport, along with accessory proteins, which include motor proteins (such as kinesin and dynein).
+
+Source: Alberts, Bruce; et al. (2014). Molecular Biology of the Cell (6th ed.). New York: Garland Science. ISBN 978-0815344322. |-| 
+|-| cobrr03 || 15 || Great question!
+
+Most organelles are connected to cytoskeleton elements such as filaments of actin, keratin, and tubulin.  These are called microfilaments, intermediate filaments, and microtubules respectively.  They are very important for membrane structure, function, cell division, and a number of other cellular processes.
+
+The oranelles are not anchored in place, however.  Their relative position inside of the cytoplasm is varied and can respond to a number of cell signals. The movement of organelles along actin filaments appears to be a similar mechanisms to the movement of actin/myosin in muscle sarcomeres - an ATP dependent and Ca2+ regulated interaction.  
+
+This is a rather old article, but answers the fundamentals of your questions, at least in plant cells.
+
+http://www.plantphysiol.org/content/82/3/631.full.pdf
+
+Organelles can also be shuttled along microtubules by motor proteins such as kinesin and dynein.  See a nice review from NCBI here.
+
+http://www.ncbi.nlm.nih.gov/books/NBK9833/ |-| 
+|-| coayry1 || 3 || How long can we expect gas prices to stay so low?
+
+Edit:We as in Americans, apologies for my Muricanism.  |-| 
+|-| coayy5i || 3 || In German, why is it that the masculine gender is the only one that experiences changes in the accusative case?
+
+Besides the obvious "to avoid confusion", I would like to know how this came about, if we have that information. |-| 
+|-| cobkyab || 14 || There is a limit, but its location isn't clearly known. If you take a stable nucleus and add (let's say) neutrons too it, it will eventually become unstable and will undergo beta decay to a more stable nucleus. The more neutrons you add, the less stable it gets, and the shorter lived it is. However, beyond a certain point you can't even add more neutrons: they just won't stick, they are not bound. This is called the **neutron drip line**. The same thing happens when you add protons, eventually you get to the proton drip line and can't add anymore. So, it's thought that there's a very large nucleus above which both protons and neutrons drip off.
+
+If you look at this [table of nuclides](http://upload.wikimedia.org/wikipedia/commons/7/79/NuclideMap_stitched_small_preview.png) (very high res warning, mobile users), on the left side of the non-grey is the  proton drip line (where proton emission becomes the decay mechanism) and on the right side is the neutron drip line. |-| 
+|-| cobq81z || 12 || Most massive galaxies are assumed to have (or have been observed to have) their own supermassive black holes in their galactic centers including our own [Milky Way](http://youtu.be/k7xl_zjz0o8). We have observed evidence for them in some galaxies and there's even some evidence that [such black holes](http://en.wikipedia.org/wiki/M%E2%80%93sigma_relation) somehow participate in (or are conversely influenced by) the formation of large galaxies though the details aren't quite worked out yet. There are indeed galaxies that do not have such objects, but most of these are smaller dwarf galaxies. |-| 
+|-| cobr0kc || 4 || There are plenty of black holes that are not the centers of galaxies. When any star about 10 times the size of our sun dies, it explodes in a  brilliant supernova.  The remaining core of the exploded star then collapses into a stellar-sized black hole. 
+  |-| 
+|-| cob8nu7 || 30 || This is a common myth in the fitness and bodybuilding community that seems to go with the practice of going through alternating "build" and "cut" phases.  The idea is patently false in reality and is commonly observed.  Many overweight people start exercising and don't lose weight (or may even gain a little weight) at first due to the fact that they are gaining muscle at approximately the same rate that they are losing fat, so they see that same weight and BMI, but a lower body fat percentage.
+
+There is also no physiological reason why one can't gain muscle and lose fat concurrently, the mechanism for each are fairly independent from each other.  The three requirements for synthesizing muscle protein and gaining (or maintaining) muscle are 1) Exercise (duh).  Exercise creates reactive oxygen species which are the most likely candidates for signalling muscle that it needs to adapt. 2) Dietary Protein (duh, sort of) people generally think that dietary protein is the direct building block for gaining muscle, so they consume huge amount of protein hoping to maximize gains.  In reality, the amount of skeletal muscle protein one can synthesize or turn over in a day is limited, and dietary amino acids (especially leucine, and possibly methionine) are more important as cellular signals to skeletal muscle synthetic machinery. 3)  Acute caloric excess, skeletal muscle does take a lot of energy to build and maintain, so you have to have that energy available, but not all day.  Caloric excess before, during, and up to 2-4 hour after exercise is usually more than sufficient.  
+
+The basic requirement to lose body fat is caloric deficit (it's a little more complicated than that, it also requires fairly good blood sugar control, and some other metabolic conditions that aren't that difficult to meet).  The time frame for this caloric deficit is fairly forgiving compared to that for building muscle.  When you combine the requirements for building muscle and losing fat you can see that it's possible as long as you eat plenty of the right food during and immediately after exercise to create short term positive energy balance, and you eat a lot less the rest of the day to create a daily negative energy balance.
+
+tl;dr - it's possible and common.  Eat a lot during and after exercise.  Eat less the rest of the day.
+
+ |-| 
+|-| cobmir1 || 24 || Well, what a wonderfully macabre question. Obviously acute comprehensive deletion of DNA (ACDDNA) can't be done with our current technology, but let's go through some reasonable next best guesses. To answer this, let's examine the reasons that we need DNA.
+
+The [central dogma of molecular biology](http://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) as first stated by Francis Crick describes the flow of information in a cell. It is often oversimplified as "DNA makes RNA makes Protein." http://upload.wikimedia.org/wikipedia/commons/0/06/Centraldogma_nodetails.png
+A great amount of the "work" in the cell is done by protein, though some is also done by RNA based enzymes. We *can* effectively inhibit different steps in the process, and maybe this can give us a first approximation at your question. 
+
+Ricin is a well known toxin that kills you because it effectively inhibits protein synthesis. It would probably be impossible to completely inhibit protein synthesis in every cell of your body with ricin, but we do know that [mice given a high dosage of ricin to their lungs were unresponsive by 48 hours,](http://www.sciencedirect.com/science/article/pii/S0002944010613648) and exhibited multi-organ failure. This is probably a bit slower than it should be because ricin doesn't cross the blood-brain barrier super well. [Indeed, in another study, when ricin is injected directly into the brains of rats, they begin to die at 20 hours](http://www.ncbi.nlm.nih.gov/pubmed/460522). If we follow this logic, the answer to your question could reasonably be that  without DNA your neurons would stop working in less than a day, and you'd die. 
+
+Now, if you want to claim that inhibition of translation doesn't quite recapitulate ACDDNA because in the latter case there might be enough mRNA hanging around to give your victim another day or so, then we can look at another toxin, which inhibits production of RNA (transcription). This toxin is called [alpha-amanatin](http://en.wikipedia.org/wiki/Alpha-Amanitin) and it's naturally found in poisonous mushrooms. [Scientists found that if alpha-amanatin is injected into the brains of mice](http://molpharm.aspetjournals.org/content/10/1/146.full.pdf+html), they only began to die after 24h, and were all dead by 48h. 
+
+So, using those two lines of evidence, ACDDNA would likely cause failure of most of your organs over the course of a couple of days, but the organ whose failure would kill you first would be your brain. 
+
+It should be noted that DNA is also required in a structural capacity for cell division. Without assembly of the mitotic spindle, cells won't divide. There are other ways to prevent cell division, for example by [acute radiation poisoning](http://en.wikipedia.org/wiki/Acute_radiation_syndrome), which also kills you in 1-2 days... But there is an important difference here, in that radiation causes a ton of DNA **damage**, which triggers programmed cell death (apoptosis), which is pretty much cell suicide. Because one of the main triggers apoptosis is the presence of damaged, broken DNA, and in *your* scenario there is no DNA at all, it is quite likely that ACDDNA would cause less apoptosis than radiation, and so your brain failing after about a day would probably still be the cause of death.  |-| 
+|-| cobpsvl || 3 || picture it like this: a woman's genetics from puberty to menopause wants to get pregnant. Every 28 days the body ovulates in hopes a sperm will fertilize it. While the ovaries prepare the release of the next ovum the endometrium (uterine lining) prepares itself for hosting a new zygote/fetus/baby. If the egg is released but not fertilized the hormonal milieu changes and the body realizes this and thus sloughs off the endometrium that was proliferating in order to host the new baby. 
+
+With regards to bodily resources, this really doesn't dramatically require undue amount of stress or calories or bodily resources for a woman. It obviously does, though, fluctuate their hormonal balance as we all know ;) |-| 
+|-| cobrrgw || 11 || I've actually seen that happen. A woman stepped on to an elevator in the middle of a call, and the call was dropped as soon as the doors closed.  (Though maybe that was just a coincidence. It's only one data point)
+
+As for why it sometimes doesn't work, my guess would be that the elevators that cellphones *can* work in aren't perfect Faraday cages. Radio waves can escape a Faraday cage through any opening that's larger than 1/4 of their wavelength. This is why your cellphone works inside your car, but the AM radio antenna has to be on the outside of your car. The 'holes' in the Faraday cage (your windows) are big enough to let you cell phone signal through, but aren't big enough to let the many meters long AM waves through.
+
+[In the USA, 4G cellphones can operate at frequencies as high as 2,690 megahertz.](https://en.wikipedia.org/wiki/Cellular_frequencies#United_States) That's a wavelength of 11cm, and 1/4 that is 2.75 cm. It's not hard to imagine there being a gap of non-conductive material at least that large being *somewhere* in an elevator car's construction. |-| 
+|-| cobaxfd || 12 || This is called the [Curie temperature](http://en.wikipedia.org/wiki/Curie_temperature).  Since magnets are necessarily solid, the Curie temperature must be less than or equal to the magnet's melting point.  
+  
+For a temperature of 2000 F (~1366 K), you're exceeding the Curie temperature of almost all magnetic materials that I'm aware of.  Cobalt has a Curie point of 1400 K, but pure cobalt isn't going to be a particularly strong magnet.  You might be better off investigating a non-contacting electromagnet. |-| 
+|-| cobard4 || 4 || It's lower than the melting point, it's called the [Curie temperature](http://en.wikipedia.org/wiki/Curie_temperature). |-| 
+|-| cobwpv1 || 5 || Yes, and it has a name. That's the Earth-moon L1 point.
+
+You can float there but you are in unstable equilibrium; if you are nudged even slightly to one side then you will drift towards either the moon or Earth never to return.
+
+The SOHO satellite is at the Earth/Sun L1 to monitor the sun and [continually take pictures of it](http://soho.esac.esa.int/data/realtime-images.html) without ever having an object get in the way of the sun. It starts drifting away  every once in a while but moves itself back.
+
+There are not one but five different points around any two objects where gravity and centrifugal force will cancel and you can just hang there with little or no effort. There are [lots of things](http://map.gsfc.nasa.gov/mission/observatory_l2.html) at Lagrange points. L4 and L5 are stable; Jupiter has a whole collection of asteroids that have become caught in those points.
+
+ |-| 
+|-| cobtefe || 6 || Elon explains here: https://twitter.com/elonmusk/status/554023312033341440
+
+Closed hydraulic systems are heavy and aren't useful for short-acting systems like the Falcon 9 grid fins. Instead, the F9 uses a pressurized tank of hydraulic fluid (probably RP-1, the same fuel used by the rocket's Merlin engines). IF RP-1 is indeed the fluid used, it is probably fed down into the fuel tanks after being used by the fins.
+
+Note: the speculation of RP-1 being the grid fin working fluid is just drawn from discussions on /r/spacex. May be inaccurate. |-| 
+|-| cobuj55 || 5 || We actually do. 
+
+Aromas and flavours are chemical signals, just as sounds and images are vibration and light signals, and we have thousands (millions?) of different digital sensors capable of measuring chemicals.
+
+Chemical sensing devices are usually extremely limited, however. For example, my aunt has a device at home which digitizes sweetness signals. It's a blood monitor she uses to continuously monitor her insulin levels, because she's a diabetic. The sweetness of her blood is turned into a digital signal which is logged in her insulin reader, and there's even a model she could get which records that information on an SD card for her doctor to look at. 
+
+What we are lacking, and I think what you probably had in mind, is a hand held device which can record aromas or flavours in as much detail as your own senses can. We have devices which can measure sweetness and saltiness and sourness and bitterness, and it wouldn't surprise me if we even had a device which could measure umami, but all the ones I'm familiar with are expensive, large, and only work when immersed in a water solution. 
+
+I think the closest thing we have today is Lab On A Chip devices, which are little electronic laboratory devices used for medical/chemical/biological testing. |-| 
+|-| cobdlea || 7 || No, you would not stay on the ring but would float up. Centrifugal force depends on tangential speed. At zero tangential speed, there is no centrifugal force. The closer you get to zero tangential speed, the weaker the centrifugal force (and hence the weaker your artificial gravity). If you ride your motorcycle in the opposite way so that your tangential speed increases, your artificial gravity will increase.
+
+ |-| 
+|-| cob4y7i || 25 || As the light travels from the star, it gets spread out of a greater and greater area, and thus the farther away the star is, the less of its light hits the Earth. |-| 
+|-| cob5nqu || 14 || The light "intensity" drops off by the inverse of the distance away squared.  Intensity = (some constant)/(distance*distance).  This is generally called an inverse square law and is true for gravity and other forces/phenomena. Think of a giant sphere surrounding the light source which absorbs all the light.  If the sphere were to increase in size, with the light source always at the center of the sphere, the amount of light units would decrease per surface area of the sphere.  The total light units would remain constant but the ratio of light units to area would decrease.
+
+This picture should help explain it. http://imgur.com/qHbpbsF |-| 
+|-| cobwvcr || 6 || Science needs to be testable in some way, otherwise you can say whatever you want and there's no way to say whether it is correct or not.
+
+String theory, at the moment, does not really make any predictions, so we can't test it against observations we've made of the Universe to see if it holds up. If it did make a prediction, then someone could design an experiment and we could test it, either showing that it holds up or has been proven false. |-| 
+|-| cobwxkx || 4 || &gt;A problem that people repeatedly seem to have with it is that it doesn't make any predictions.
+
+&gt;What exactly does that imply and why does it matter?
+
+It means that you can't check  whether it's  true  or not. 
+
+\-----
+
+For  example,  in  1915 Einstein published the  theory  of  General Relativity.  The  theory  predicted that  the  light  from  stars  would be  bent  by the Sun's  gravity when  passing near the Sun.  
+
+In  1919 Arthur Eddington observed  stars during a solar  eclipse and  announced that  his  observations  confirmed  Einstein's  predictions. 
+
+http://en.wikipedia.org/wiki/Arthur_Eddington#Relativity 
+
+
+If  instead the  situation had  been
+
+Einstein:  "I  have this theory of  General Relativity."
+
+Science  community:  "What  predictions  does  your theory make?"
+
+Einstein: "It doesn't make any predictions,  really." 
+
+\-  Then  other  scientists  wouldn't have been able to check  whether the  theory was  right or not. 
+
+ |-| 
+|-| cobx22c || 3 || How do you know if a theory is true?
+
+In science we do experiments and see if the predictions of the theory are consistent with the measurements. If they are not, the theory is rejected. Theories which consistently match the measurements are seen to be good, and remain so until they make a bad prediction.
+
+As things stand now string theory cannot generate hard, testable predictions, and therefore its status as "science", in the above sense, is questionable. String theory is certainly an outgrowth of genuine science in particle physics, so it at least has that going for it. But we will probably not be able to test if string theory describes our world any time soon. If that's the case, then it's practically unfalsifiable.
+
+But it's a good thing physicists, and scientists in general, are not mechanical slaves to the empirical. We have philosophical inner lives and prejudices that drive our fields. Most theoretical physicists today, for example, are drawn to the beauty of simple and elegant theories like string theory, because deep down most believe nature is fundamentally simple and elegant. Such biases have yielded great successes for us in the past. Hundreds of years ago these biases were intertwined heavily with religion. In our secular age I observe many scientists still appealing to a divine notion of Nature. This prejudice is probably not going to dissipate any time soon, and for that reason fields like string theory will survive.
+
+Actually I should mention even if string theory doesn't describe the world, it is still useful as a *calculational tool*, and therefore has proven value no matter what. |-| 

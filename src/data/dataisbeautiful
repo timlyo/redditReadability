@@ -1,0 +1,506 @@
+|-| cntvy4b || 17 || why does everything about inequality get upvoted on reddit? and yes, it is possible if you change the scales to something other than default illustrator. |-| 
+|-| cntwbya || 7 || If you compare wealth across countries, then you are mainly talking about differences in economic growth.  Sure, there are some very wealthy individuals in poor countries (typically a dictator), but, by and large, everyone in third-world countries is poor because there is not much productive activity that can be done there. 
+
+Free trade between wealthy countries and poor countries does a lot to increase productivity in poor countries.  Take China for example.  This is because, even if you don't have a very sophisticated economy, you do have cheap labor.  If you build a good port and have laws and political stability so foreign investors are willing to risk putting up shop in your country, then foreign firms can ship in parts and have workers assemble them in your country and ship them out again.  As industry develops, infrastructure develops as well  (and so do the institutions and supporting industries). Consequently, these countries become suitable for industries creating more advanced goods and services.  This is what happened to China.  China is no longer the best place for cheap labor; unskilled labor is too expensive there now (this is because higher-tech industries have now become established and they bid up the price of labor), so t-shirts are made in Vietnam where labor is still cheap.  And, in fact, labor is starting to get too expensive in Vietnam, so many firms are trying to find out how to make Africa work as a source of cheap labor, despite all of its issues.  
+
+Many people complain about how trade has exacerbated income inequality in the United States.  And it's true; trade with countries like China has reduced demand for unskilled and semi-skilled labor in factories in the United states, eliminating many middle-income jobs in the United States.  But the net effect has been an enormous reduction in global inequality.  Unless you are provincially minded, this should cheer you up.  
+
+TLDR; trade is good.  |-| 
+|-| cntxcl8 || 599 || Edit 2: **Important:** Please note that image number 3 is showing the *time of the day* not the *duration*. I should have made a better title and labelled the x-axis as "Hour of day" instead of "Clock". 
+
+__________________
+**Data source**
+
+Is [this](http://www.np.reddit.com/r/DataVizRequests/comments/2squk4/visualizing_every_poop_i_took_in_2014_serious/) thread [/u/captainmercedes](http://www.np.reddit.com/user/captainmercedes) asked for a visualisation of his data set of every poop he took during 2014. Since he was providing the world with such an awesome date set I think he deserved a visualisation. I did a bit of cleaning in his poop file, [here](http://pastebin.com/AkvrNtAg) is the .csv I used for the analysis.
+
+It really felt wrong to visualise another man's pooping history, I will go take a shower now. 
+
+**Tools**
+R, ggplot2
+
+Edit: I just got reddit gold for visualising poop... Today was a good day.   |-| 
+|-| cntxcl8 || 602 || Edit 2: **Important:** Please note that image number 3 is showing the *time of the day* not the *duration*. I should have made a better title and labelled the x-axis as "Hour of day" instead of "Clock". 
+
+__________________
+**Data source**
+
+Is [this](http://www.np.reddit.com/r/DataVizRequests/comments/2squk4/visualizing_every_poop_i_took_in_2014_serious/) thread [/u/captainmercedes](http://www.np.reddit.com/user/captainmercedes) asked for a visualisation of his data set of every poop he took during 2014. Since he was providing the world with such an awesome date set I think he deserved a visualisation. I did a bit of cleaning in his poop file, [here](http://pastebin.com/AkvrNtAg) is the .csv I used for the analysis.
+
+It really felt wrong to visualise another man's pooping history, I will go take a shower now. 
+
+**Tools**
+R, ggplot2
+
+Edit: I just got reddit gold for visualising poop... Today was a good day.   |-| 
+|-| cnty36p || 137 || In this instance, the graphics package should be called ggplop2. |-| 
+|-| cnty36p || 143 || In this instance, the graphics package should be called ggplop2. |-| 
+|-| cnty3vg || 192 || This is everything I dreamed it would be thank you /u/plottingman and captainmercedes.  /u/captainmercedes, please keep tracking the data so we can use seasonality as a metric. I want to know why your poops 'improved' toward the summer, but decreased in consistency toward fall and winter.  
+
+I guess it would also help if you tracked your diet, but I don't want to ask for more in the face of such greatness. |-| 
+|-| cnty3vg || 197 || This is everything I dreamed it would be thank you /u/plottingman and captainmercedes.  /u/captainmercedes, please keep tracking the data so we can use seasonality as a metric. I want to know why your poops 'improved' toward the summer, but decreased in consistency toward fall and winter.  
+
+I guess it would also help if you tracked your diet, but I don't want to ask for more in the face of such greatness. |-| 
+|-| cntyj1v || 52 || Very interesting stuff but you're missing how they rank on the Couric scale. |-| 
+|-| cntyj1v || 54 || Very interesting stuff but you're missing how they rank on the Couric scale. |-| 
+|-| cntyubq || 21 || A large part of why it's hard to visualize this is that net worth is a stupid concept to try to visualize. 
+
+Something like 1/3 of the world's population has negative/zero net worth. I, *personally* therefore have more net worth than they do. That would be even more impossible to visualize (about 50 times more impossible). 
+
+An interesting point is that a bum on the street with no debt has more net worth than a doctor fresh out of college with $300,000 in student loans to pay off. 
+
+Indeed, if that bum on the street has a quarter in his pocket, he has more net worth than the bottom 25% of the U.S. population *combined*!!!!!! OMG.  |-| 
+|-| cntzh79 || 4 || This is actually pretty sad. Love the most popular word. |-| 
+|-| cnu0bev || 8 || so what your data shows is his... poop type ... displays normal distribution o.o 
+
+as for monday/tuesday theories: mine is that he's gotten his weekly dosages of bullshit, and somehow has to excrete it evenly over the rest of the week...  |-| 
+|-| cnu0bev || 9 || so what your data shows is his... poop type ... displays normal distribution o.o 
+
+as for monday/tuesday theories: mine is that he's gotten his weekly dosages of bullshit, and somehow has to excrete it evenly over the rest of the week...  |-| 
+|-| cnu0hrd || 4 || I think that the real question here is what's in the blacklist folder? |-| 
+|-| cnu0scd || 83 || I have Crohn's disease. Last year, I had my temporary ostomy reversed, and I've been dealing with recurring c.diff infections for most of the year... I finally feel like my body is getting back to normal with real bowel movements. This inspired me to create a google form to track my own bowel movements in a similar manner. I've never been so excited to poop! |-| 
+|-| cnu0scd || 85 || I have Crohn's disease. Last year, I had my temporary ostomy reversed, and I've been dealing with recurring c.diff infections for most of the year... I finally feel like my body is getting back to normal with real bowel movements. This inspired me to create a google form to track my own bowel movements in a similar manner. I've never been so excited to poop! |-| 
+|-| cnu0yys || 5 || Is there anything similar for windows?? It's really interesting |-| 
+|-| cnu19ln || 5 || This thread has been linked to from elsewhere on reddit.
+
+
+ - [/r/agitation] [There are some painful comments here...](http://np.reddit.com/r/agitation/comments/2syj7d/there_are_some_painful_comments_here/)
+
+
+ - [/r/socialism] [The comments here...\[NSFL\]](http://np.reddit.com/r/socialism/comments/2syl21/the_comments_herensfl/)
+
+ - [/r/socialism] [How /r/dataisbeautiful apologizes for horrendous wealth inequality \[NSFL\]](http://np.reddit.com/r/socialism/comments/2symh9/how_rdataisbeautiful_apologizes_for_horrendous/)
+
+*^If ^you ^follow ^any ^of ^the ^above ^links, ^respect ^the ^rules ^of ^reddit ^and ^don't ^vote ^or ^comment. ^Questions? ^Abuse? [^Message ^me ^here.](http://www.reddit.com/message/compose?to=%2Fr%2Fmeta_bot_mailbag)*
+
+ |-| 
+|-| cnu22np || 6 || Chart 1: mine would be skewed towards the right. That's what too much beer will do to you... |-| 
+|-| cnu3vdh || 24 || Two thoughts:
+
+1. He should note what food was eaten everyday so that there could be a correlation analysis.
+
+2. 30% of the time he didn't poop in a day? Seems odd. |-| 
+|-| cnu3vdh || 27 || Two thoughts:
+
+1. He should note what food was eaten everyday so that there could be a correlation analysis.
+
+2. 30% of the time he didn't poop in a day? Seems odd. |-| 
+|-| cnu45au || 34 || There are people that poop more than once a day ?
+
+I mean... outside of diarrhea episodes, I poop maybe once every two days, I couldn't imagine having to go twice in a day.
+
+Also 10 minutes minimum to poop ? This is huge... usually when I need to go, I can go instantly, I'm in and out of the toilet in about 3-5 minutes, the longest thing to do is wipe. |-| 
+|-| cnu45au || 36 || There are people that poop more than once a day ?
+
+I mean... outside of diarrhea episodes, I poop maybe once every two days, I couldn't imagine having to go twice in a day.
+
+Also 10 minutes minimum to poop ? This is huge... usually when I need to go, I can go instantly, I'm in and out of the toilet in about 3-5 minutes, the longest thing to do is wipe. |-| 
+|-| cnu4kk3 || 9 || As others have seemed to mentioned, the decrease in defecation on Monday's and Tuesday's seems likely due to dietary reasons. 
+
+
+Any particular changes in your diet on a typical weekend? Though anecdotal, I know personally I tend to go out to eat more on weekends, or consume unhealthier food, which generally has less fiber. 
+
+
+
+Beginning of the work week stress? Altered caffeine consumption at beginning of week? Lot's of different directions to potentially explore.  |-| 
+|-| cnu4rbv || 15 || I have the Bristol Stool Chart on my work mug :D 
+
+1 = a hard shitty day
+7 = an exceptionally shitty day with shit going everwhere. 
+ |-| 
+|-| cnu58ja || 150 || I have a theory why Monday and Tuesday has a lower rate of poops - is it possible you're eating worse at the weekends? |-| 
+|-| cnu58ja || 154 || I have a theory why Monday and Tuesday has a lower rate of poops - is it possible you're eating worse at the weekends? |-| 
+|-| cnu5963 || 18 || My theory: You're drinking heavily on the weekends and/or drinking more coffee than usual on Monday and Tuesday (you know, because Monday), causing dehydration and stalled poos. 
+
+On that note, I'd be curious to see how your Bristol poo ratings change over the course of the week.  |-| 
+|-| cnu5963 || 19 || My theory: You're drinking heavily on the weekends and/or drinking more coffee than usual on Monday and Tuesday (you know, because Monday), causing dehydration and stalled poos. 
+
+On that note, I'd be curious to see how your Bristol poo ratings change over the course of the week.  |-| 
+|-| cnu5en9 || 7 || I've been doing something similar, but with added photo documentation...
+http://i.imgur.com/iOJkQOs.png |-| 
+|-| cnu5en9 || 8 || I've been doing something similar, but with added photo documentation...
+http://i.imgur.com/iOJkQOs.png |-| 
+|-| cnu5m10 || 11 || When I woke up today I never, ever thought I was going to be analysing someone's poop statistics. FML .  |-| 
+|-| cnu5m10 || 9 || When I woke up today I never, ever thought I was going to be analysing someone's poop statistics. FML .  |-| 
+|-| cnu5sdm || 10 || As a Crohn's disease sufferer, who just had bits and parts of my intestines removed last week, this data analysis is very near and dear to my heart.
+
+This kind of visualization of a huge set of data gives great insight into a body's performance.
+
+I could imagine being able to match this type of visualization against a 'food intake diary' for that same time period.  That would be crazy handy for a Crohnie to figure out definite trigger foods and such.
+
+Cheers to your plotting skills.  |-| 
+|-| cnu62ln || -3 || This does not belong in /r/dataisbeautiful. This is the opposite of beautiful |-| 
+|-| cnu6fwr || 338 || Would anyone be interested in a phone app that would allow you to rank every poop easily and then export the data to create something like this?
+
+Actually I don't care, I'm interested so I'm going to make it! |-| 
+|-| cnu6fwr || 376 || Would anyone be interested in a phone app that would allow you to rank every poop easily and then export the data to create something like this?
+
+Actually I don't care, I'm interested so I'm going to make it! |-| 
+|-| cnu6mi0 || 42 || I was taking this all very seriously and scientifically until I got to:
+
+&gt;The one day with 5 poops was done all at home in under 3 hours! They where 2, 4, 4, 4, and 4 on the Bristol scale.
+
+And I let out a burst of childish laughter.  
+
+But in all seriousness I'm thinking the guy was constipated a bit and once he got out his 2 he was able to let loose the 4 4's in under 3 hours.  Absolutely fascinating.   |-| 
+|-| cnu6mi1 || 7 || Why would you prefer a 4 over a 3? A 4 is so annoying to wipe... |-| 
+|-| cnu81ob || 7 || Now, am I the only one here looking at this whilst taking a poop myself? |-| 
+|-| cnu9lx5 || 5 ||   What a shit post. |-| 
+|-| cnu9lx5 || 7 ||   What a shit post. |-| 
+|-| cnuahay || 4 || The fuck am I doing with my life...why would I click this link  |-| 
+|-| cnuahay || 5 || The fuck am I doing with my life...why would I click this link  |-| 
+|-| cnubh0f || 7 || Yesterday was the guy been cheated by the wife, today is a database of poop, I'm afraid what I'll find tomorrow in Reddit. |-| 
+|-| cnubh0f || 8 || Yesterday was the guy been cheated by the wife, today is a database of poop, I'm afraid what I'll find tomorrow in Reddit. |-| 
+|-| cnuew3v || 3 || I think there needs to be a moratorium on this data set.
+
+http://np.reddit.com/r/dataisbeautiful/search?q=death+row&amp;restrict_sr=on&amp;sort=relevance&amp;t=all |-| 
+|-| cnug7b6 || 4 || Why on earth do they put this stuff in javascript when they could in photoshop or freaking paint? the interactive aspect not only is redundant, it crashes on my browser.  |-| 
+|-| cnuns6h || 3 || Welcome to Bob's Log, Log Blog.
+
+One, Two, Poo!     
+And here we go... |-| 
+|-| cnusw1g || 3 || This is truly informative.  
+
+And the giggle I got from it turned into uncontrollable laughter.  I stopped breathing for a bit.
+
+Thank you, I really needed that.     |-| 
+|-| cnuxsxi || 28 || Six actors voice over 100 characters, twelve actors voice 126 characters.  |-| 
+|-| cnuy7yx || 15 || Inspired by /u/taxidata’s nifty [NYC taxi pixel plot](http://chriswhong.com/open-data/my-first-data-art-nyc-taxi-defrag/) and /u/Vizual-Statistix’s [study of driver names](http://np.reddit.com/r/dataisbeautiful/comments/2sabdc/the_most_common_names_of_nyc_taxi_drivers_oc/) which showed Muhammad as the #1 first name. 
+
+Since Islam instructs followers to pray 5x daily at specific times, I wondered if one could identify devout Muslim hacks solely from their trip data. For drivers that do pray regularly, there are surely difficulties finding a place to park, wash up and pray at the exact time, but in many cases banding near prayer times is quite clear.  I plotted a few examples.
+
+Each image shows fares for one cabbie in 2013. Yellow=active fare (carrying passengers). A minute is 1 pixel wide; a day is 2 pixels tall. Blue stripes indicate the 5 daily prayer start times which vary with the sun’s position throughout the year.
+
+* Taxi data: http://www.andresmh.com/nyctaxitrips/
+* Prayer times: http://www.islamicfinder.org/prayerDetail.php?city=New%20York&amp;state=NY&amp;country=usa&amp;lang=english
+* Tools: Python / Python Imaging Library
+
+edit: The vertical grid and labels are all local clock times. Mar 10 from 2-3AM when the clocks jump forward should be empty, but I didn't account for that, so 20 minute fares from 1:50AM to 3:10AM are incorrectly drawn as 1hr20min long.  Likewise there are actually two hours worth of data inside 1-2AM on Nov 3 when clocks jump back. Note that hour is very bright on the all-cab heatmap.
+ |-| 
+|-| cnv04oj || 33 || Interesting use of data. Creeps me right out to think about identifying people of a certain profession en masse by religion, however. I deem this enterprise 60% evil with a margin of error of 5. |-| 
+|-| cnv06cx || 63 || This is deliciously meta:
+Dan Castellaneta is the voice of a dog (Santa's Little Helper) and Homer, also done by Mr. Castellaneta, is the voice of Poochie (another dog). |-| 
+|-| cnv0e6t || 41 || So.. what about South Park? Where they've had, like, 7 voice actors ever? |-| 
+|-| cnv0hc7 || 23 || Tres McNeil is such a great voice actress. I'm surprised she doesn't voice more male characters, though, she's very versatile. |-| 
+|-| cnv128j || 318 || I think it's even more impressive that 2 Actors play 50 Characters |-| 
+|-| cnv1g39 || 92 || Fun fact: my dad went to high school with yeardly smith (Lisa and maggy). He says she was nice and pretty popular, but a lot of people thought her voice was weird and annoying. 
+
+Little did they all know... |-| 
+|-| cnv1mj7 || 46 || Maggie is "voiced" by two different people?
+Also... Maggie is "voiced"??? |-| 
+|-| cnv1pve || 9 || Why does "the black kid", for want of a better description, show up three times? |-| 
+|-| cnv1qhl || 27 || Think of how often each actor has had to have an argument with themselves. |-| 
+|-| cnv1syk || 6 || Who are the people who only do one voice. 
+
+Are they guest voices or do they have other jobs within the show.  |-| 
+|-| cnv3ukc || 8 || interesting how all four of the bullies are played by three different female voices. |-| 
+|-| cnv3yf0 || 6 || Aw, no sideshow Bob. :(
+
+Also, did all Maggie Roswell characters disappear from the series after she was booted or did someone take over her roles? |-| 
+|-| cnv46jo || 8 || Dan Castellaneta barely the voice of Rabbi Krustofsky.
+
+Any episode where Rabbi K has a large role, he was voiced by Jackie Mason. Castellaneta just voiced him in small appearances, usually one or two lines. |-| 
+|-| cnv4c0s || 84 || It's sad they didn't include Phil Hartman. He did the voices of two brilliant characters (Troy Mclure and Lionel Hutz) and loads of memorable onetime characters. |-| 
+|-| cnv5e9s || 6 || OP here. First time posting in /r/dataisbeautiful ...
+
+Corresponding year in screenshots is here: https://gfycat.com/MindlessViciousAoudad
+
+Challenge: Find the shots of me watching movies in the bathtub. ;)
+
+A few years ago I wrote [LifeSlice](http://wanderingstan.github.io/Lifeslice/), an open-source Mac app that takes a picture of me every hour. Since then it has expanded to also take a screenshot, and a ton of other metrics: keys and words typed, keyboard shortcuts, mouse clicks &amp; scrolls, etc. I hope to make some more visualisations with that data sometime. (More like the d3 stuff [here](http://wanderingstan.com/drop/lifeslice2/html/slicebrowser-day-d3.html?date=2013-08-21))
+
+Data source was simply a folder full of image files named by ISO8601 datetime format.
+
+Images collected with LifeSlice: http://wanderingstan.github.io/Lifeslice/
+
+GIF visualization made with this included Python script: https://github.com/wanderingstan/Lifeslice/tree/master/LifeSlice-Year-GIF
+
+Video of my presentation at Quantifed Self San Francisco after the first year: https://vimeo.com/42239564
+ |-| 
+|-| cnv5qrz || 6 || And you wonder why it's so hard getting a job in that industry.
+ 
+And you thought Baby Boomers refusing to retire was bad for employment.... |-| 
+|-| cnv6xt1 || 12 || Or you successfully graphed who eats lunch at noon.
+
+Even the first gap could easily be explained by grabbing breakfast which isn't very easy before a certain hour.  Could even explain later gaps as a shit break after lunch which is common.  Hell if you graphed most average office workers it would appear to display that they are all apparently Muslim. |-| 
+|-| cnv754a || 5 || I heard Maude Flanders' voice actor quit over a pay raise refusal.  I wish Fox just paid her because killing her off kinda ruined Ned's character for me |-| 
+|-| cnv7nml || 5 || I think it's more amazing that the creators have managed to make more than 100 characters that are all fleshed out and memorable. It blows my mind that there can be so many characters in a fictional universe that I can remember so well, having not watched the show for 4 years. |-| 
+|-| cnv82ch || -8 || I hope Dan Castellaneta gets paid the same as Marcia Wallance. #equality #feminism |-| 
+|-| cnvd8n4 || 8 || Now more importantly, which episodes feature the longest segments of Dan Castellaneta or Hank Azaria pretty much talking to themselves? |-| 
+|-| cnvdf90 || 5 || It would be much harder, but I would love to see a chart weighted by speaking time showing "When you hear a voice on The Simpsons, who are you hearing?" I think it would be even more impressive as those top three are probably more than 50% of all vocalizations you hear. |-| 
+|-| cnvfdjx || 3 || That is the WORST thing I have ever seen in terms of using a single picture to present data.
+
+Why the hell not just make it a picture?
+
+This way it's impossible to zoom properly, it's constantly moving around. What the fuck is that shitty site?
+
+I had to save the fucking picture on my desktop just so I can look at it properly. |-| 
+|-| cnvfrrw || 3 || I just realized the three bullies are voiced by three different 55-60yr old women.  
+That's kind of awesome.   |-| 
+|-| cnvjxy1 || 3 || WHERES FAT TONY |-| 
+|-| cnvkhma || 4 || Very interesting.
+
+Spain appears to be an android stronghold. Who knew? |-| 
+|-| cnvksy3 || 3 || An interesting map. One problem, however, is how the colors blend together. When you look at the map, you instantly think "oh, they carpool, look at all that pink and purple." However, on closer inspection that is not the case at all, as the white (drive alone) is blended with the purple. I'd change it up a little for clarity.
+
+Edit: Just saw that the colors are filterable. Not bad.  |-| 
+|-| cnvotq2 || 3 || Guys... Where does the fate of The Simpsons fall if someone like Castellaneta quit/passed away? |-| 
+|-| cnvpglr || 4 || I would love to see this normalized for population. |-| 
+|-| cnvq861 || 5 || not a reflection of the president mind you. but a reflection of how politicians treat the public. notice how the graph shifted when TV became more popular  |-| 
+|-| cnvssvg || 4 || What exactly is the source for the data?
+
+It seems strange that some places like for example the Netherlands are so highly lit up while surrounding countries are less active.
+
+Is this an artefact of how the data was gathered or are they simply using twitter that much more in some countries than others?
+ |-| 
+|-| cnvuhjg || 3 || I think just like WWI, the 30 year War, or the Seven year war, WWII was several very different wars in one. These differing experiences might be one reason why different nations have so different attitudes on it. |-| 
+|-| cnvwl2h || 3 || Article limit : / |-| 
+|-| cnvyd6w || 12 || Considering they don't go back that far I wonder if the 50/60s would be higher or lower. |-| 
+|-| cnvym73 || 288 || It's a real comeback for the comparatively limited number of companies still capable of pressing records.  |-| 
+|-| cnvyts4 || 28 || It's really interesting to me seeing the "singles" sales completely disappear in the mid 00s when club DJs largely switched over to digital |-| 
+|-| cnvyv44 || -20 || Interesting. 
+
+Every time I hear someone talk about vinyl, it makes me want to smack them in the head. No, it doesn't sound better, or "warmer", or whatever. If you really want your music sounding that bad, tweak your EQ.  |-| 
+|-| cnvyyfc || 201 || Surely most of the vinyl resurgence is secondhand stuff - this goes unmonitored. |-| 
+|-| cnvyyj2 || 8 || What's the price of a record today compared to when there was high demand? Does this include selling used records? The data seems a bit vague, and I feel number of albums sold would give a better representation.  |-| 
+|-| cnvyzsp || -4 || If you adjusted those numbers for inflation it would continue to go down |-| 
+|-| cnvze1z || 48 || Well it really is a big thing compared to the ever-declining CD/cassette sales. 
+
+Also most people buy their music digitally now. People in the 70s/80s didn't buy vinyl because they really liked vinyl, but because there was no other option. |-| 
+|-| cnvzfhe || 13 || Would like to see a similar chart with the bars as a percentage of total physical media sold.  I think the two side by side would tell a pretty interesting story. |-| 
+|-| cnvzljc || -5 || There is literally no reason to acquire vinyl, besides home decoration and nostalgia. Hopefully it's gone for good. |-| 
+|-| cnvznds || 3 || i'll just leave this here
+
+https://www.youtube.com/watch?v=c_LasOjYP_M |-| 
+|-| cnvzr3c || 5 || Well, considering the start/middle of the graph is when it was the only/legacy format, it's actually pretty good.
+
+Now you choose between something easy to carry, works wirelessly and you can have multiple copies of that take up 0 space, or something the size of a dinner plate with (arguably) better sound quality. |-| 
+|-| cnvzsb3 || 4 || I wouldn't know: I only listen to wax cylinders...  |-| 
+|-| cnvzvzj || -3 || Vinly was so classy. They should just switch back to vinyl. curb pirating a bit unless you want to pay more to have a custom record pressed than buying the mp3;) |-| 
+|-| cnvzxk2 || 9 || Honestly, I never bought music - until I started buying records a few years ago. I definitely feel as though I have something tangible for what I paid, and usually the album art is awesome. Most new release vinyl also come with a digital download copy. |-| 
+|-| cnw01mc || 5 || This graph is probably missing a HUGE component of actual vinyl sales which happens in all the thrift stores, salvation armies, flea markets and other secondary resellers... |-| 
+|-| cnw05ym || 3 || Does this chart take into account the 2nd hand market? 
+Because I feel that's where a majority of the sales are actually being held. I know my used to new purchase ration is something along the lines of 1:7. |-| 
+|-| cnw0wgz || 3 || My friends and I like to go out to the local antique store and browse their records selection once every few weeks.  It's a fun little trip and you get to take home some of your favorite music. (if you can find it)  There's a lot of charm in browsing through a selection of records and laughing at some of the silly names or covers.  Sometimes I'll buy a record because the artwork looks really cool.  In terms of how Vinyl sounds... Well, that's up to speculation.  If you get a good press that was properly mixed in generally good shape, yea, it sounds pretty awesome.  (Not much different from a properly mixed CD tho)  But everyone hears things differently, so it's all up to the listener to decide.
+
+I think, for me, vinyl isn't necessarily about "the best audio playback quality", but it's more about the experience of finding the albums you like, enjoying the artwork, building your audio system, and then listening to the fruits of your labour from start to finish with pops and clicks and all. |-| 
+|-| cnw14by || 73 || Imgur Mirror: http://i.imgur.com/kynGjCz.jpg     |-| 
+|-| cnw14rc || 3 || I like the little rise around '94. Can't help but think Weezer, Green Day and Nirvana had something to do with that. |-| 
+|-| cnw14xw || 4 || [Quick shoutout for the "Loudness war".](https://en.wikipedia.org/w/index.php?title=Loudness_war&amp;oldid=643326296)
+
+Maybe if the record companies weren't deliberately sabotaging the quality of their CDs, there'd be fewer (legitimate!) audiophiles saying vinyl has quality advantages. |-| 
+|-| cnw1du9 || 3 || Vinyl enthusiasts and crossfitters.  They are small in number, but neither will shut the fuck up about it. |-| 
+|-| cnw1nx9 || 4 || Thanks for the cynicism OP. Why do you have to shit all over something cool like this? |-| 
+|-| cnw1whl || 3 || if I could get to the site to look at it...... couldn't load....  |-| 
+|-| cnx5lcq || 9 || Source: DataLA - https://data.lacity.org/
+Tools include R, ggplot, ArcGIS and Inkscape |-| 
+|-| cnx6e6a || 3 || Details:
+
+* Data Source:[Wikipedia - Nuremberg Trials](http://en.wikipedia.org/wiki/Nuremberg_trials)
+* Tool: Excel
+
+For the IQ Classification I used the [Current Wechsler IQ Classification](http://en.wikipedia.org/wiki/IQ_classification) |-| 
+|-| cnx6kfx || -15 || If you take this false trial as a realistic source, you gonna have a bad time :) |-| 
+|-| cnx6lm6 || 9 || This somewhat creeps me out, granted I don't know much about IQ and it's relation with other things like morals or psychopath tendencies etc etc. It's kind of eerie to think that these men would have been smart enough to know full well what they were doing, hell they could probably even see through the propaganda and everything but still went ahead with what they were doing. |-| 
+|-| cnx6moj || 9 || Its interesting to see the brilliant minds behind the Nazi party |-| 
+|-| cnx6u60 || 37 || So basically Nazi leaders were superior or very superior? PHRASING |-| 
+|-| cnx6utd || 18 || If it weren't for the whole NAZI thing, Walther Funk would have a pretty cool name. |-| 
+|-| cnx6xgq || -4 || I am kinda tired of all this visualization without interpretation... so the conclusion is "yes"? |-| 
+|-| cnx73il || 9 || Neat. I didn't realize this data set existed.
+
+I suppose you'd have to be pretty above-average to work your way to the top management of one of the most powerful countries in the world, regardless of what kind of ridiculous philosophy its leaders held.
+
+It might be nice to show their poisitions (e.g. Seyss-Inquart, Reichskommissar of the Netherlands; Dönitz, Grand Admiral). Although that's complicated for some of them (Schacht, economics minister but removed before war because he opposed rearmament, imprisoned in concentration camps for suspicion of involvement in Hitler assassination attempt; Hess, Deputy Führer until he was arrested by the Allies during a secret attempt at a peace treaty). |-| 
+|-| cnx7aux || 15 || Would be interesting to see the same study for Palo Alto vs East Palo Alto, CA just separated by the 101.  |-| 
+|-| cnx7bag || 692 || In the context of LA, this is kind of misleading. Neither of the areas highlighted are really all that crime heavy to begin with, at least not compared to more inner city areas. The crime rate is probably 10x higher in areas around downtown and to the south of it (the areas in orange/red). That's where most of the people are, and that's where the hard neighborhoods are.
+
+Also, that big gray area to the west of the highlighted stretch of the 405 is the Van Nuys Airport and several golf courses. There isn't high reported crime there because there aren't that many people there most of the time. On the east side, it's all residential. This isn't really that surprising. |-| 
+|-| cnx7fuu || 20 || So obviously all they have to do is move the highway a couple miles over. |-| 
+|-| cnx7hkp || 4 || "Art for art's sake." |-| 
+|-| cnx7krz || 9 || Richer people live closer to the beaches/coast so you would expect more crime the further inland you go.  |-| 
+|-| cnx7loj || 22 || You have to include the *south*east part of LA to make this work. As shown in the first image, from the South Bay on up, crime is roughly the same on both sides of the 405.
+
+Nice application of [Betteridge's law](http://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) though. |-| 
+|-| cnx7wy3 || 5 || I have family that lives in North Hills split by the 405. The area they live in is an extension of northridge go past the freeway and its a ghetto. I always tell people when they are looking for houses in the valley as long as you are on the right side of the 405 you should be good.  |-| 
+|-| cnx7yt0 || 5 || I live east of the 405. The freeway separates me from the douchebags in Manhattan Beach, thank God.  |-| 
+|-| cnx88m6 || 88 || I like how in some places, a highway is "the" highway, as in, "the 405" vs. "405" or "highway 405."  I grew up near Rochester, NY, and all the local highways are "90 (or the thruway)," "390," "490," and "590," but when I moved to Buffalo for 6 months to do an internship, I was surprised to learn that everyone there referred to the local highways as "the 190," "the 290," "the 33," and "the 198."  So when you'd give directions in Rochester, they'd say "take 390 north to 590 north, and get off at the Monroe ave. exit," but if I was in Buffalo (just an hour west on the Thruway), they'd say "take the Thruway to the 290, and then get on the 190 to the 33, and get off at the Grant St. exit."  |-| 
+|-| cnx8h0b || 5 || I thought Joseph Goebbels had crazy high IQ. He might not be considered a "leader" though.  |-| 
+|-| cnx8h1p || 6 || I wonder where Hitler would be in all of this.  Or even Goebbels.  Those are the only two Nazi leaders I remember. |-| 
+|-| cnx8lop || 53 || West of 405 is the fucking ocean. And neither of these areas have serious crime issues relative to downtown LA . |-| 
+|-| cnx8mam || 4 || This is a cool question and visualization. I think encoding crime as both color and height is an odd choice, though. This plot should probably be 2d. |-| 
+|-| cnx8mg1 || 5 || I live right on the good side of that map. intersection of nordhoff and 405. man, on one side are nice and groomed middle class family homes, right on the other side are apartments that house some of the most drug and violence infested populous in all of the valley. they've even installed permanent cones on the east side of the freeway in order to stop drug peddlers from using the corners... you hear of shootings and fan related violence once and a while. (I'm sure there is more but I don't hear about it). also, on the good side of the freeway there are tons of car break ins and theft... |-| 
+|-| cnx8rjk || 4 || So many questions:
+
+* What's your favorite tool to make data visualizations?
+* Do you get a dataset and then make a dataviz or do you have a concept in mind and then find the data around that concept?
+* How much time do you spend on creating a dataviz?
+* How do fellow journalist look at DDJ, is it respected or frowned upon?
+* Where do you go to find good data?
+
+Looking forward to hear your opinions, love the data visualizations you guys make! |-| 
+|-| cnx8sfq || 4 || Where's Rommel, that magnificent bastard? |-| 
+|-| cnx8zmj || 7 || I spent the good part of yesterday downloading American Community Survey files into excel, creating pivot tables, and making calculations to determine unemployment rates by college major. It took forever. How would you have done this better/more efficiently/with things I've never heard of?
+
+Also, do you say data is or data are? |-| 
+|-| cnx94vx || -4 || [deleted] |-| 
+|-| cnx9c6c || 4 || Aren't those two middle graphics basically the exact same thing minus the relatively arbitrary definition of a census block?  It's like representing the US population age with a continuous line graph and then showing it again with a bar graph arbitrarily split into 0-5, 6-10, etc. Wow, a whole new way of looking at things!  |-| 
+|-| cnx9d1i || 4 || What is the proper capitalization of JAVASCRIPT? |-| 
+|-| cnx9j1k || 3 || * Can you describe your typical workflow from the conception of a story up until the time it is published?
+* It is my impression that most data journalists start from a journalistic background and augment their skills with programming. How do you think the reverse path compares - starting from an engineering background and moving towards journalism? Do the two paths occupy separate niches? 
+
+Thank you |-| 
+|-| cnx9jeh || 3 || What do you think are good tools for people to make effective data visualizations outside of traditional academic tools (e.g. Excel, KaleidaGraph, etc)?
+
+What are your favorite types of visualizations to make?
+
+
+Also do you do any interactive visualizations geared toward younger audiences?  |-| 
+|-| cnx9odv || 4 || I would like to see this for Detroit and 8-mile. |-| 
+|-| cnx9vsp || 3 || This happens in Skyrim as well. PRAISE THE SUN! |-| 
+|-| cnxa8cd || 4 || Do you consider yourselves more journalists, software developers, or designers? What path have you taken to start doing what you're doing? Did you train to become journalists and then learn to code? Did you learn about design and then join a newsroom? Are there many different paths among your colleagues?
+
+So Tufte is great. What other resources have taught you the most about visualization and information design? Is Tufte really that great? |-| 
+|-| cnxa8nx || 7 || How come none of you are women? |-| 
+|-| cnxa93h || 3 || What are you biggest data viz pet peeves? |-| 
+|-| cnxaehv || 5 || For everyone reporting/downvoting this submission - this is an **official AMA** approved by the moderators of the subreddit. |-| 
+|-| cnxaftx || 3 || Do you think this kind of data journalism will continue to grow at the level of smaller publications?  It seems like it's exploded in national level publications but hasn't gotten much traction at the local level (I assume because of a combination of cost and unwillingness to change). |-| 
+|-| cnxamr7 || 6 || Stupid parochial data.  The east side of the 405 also happens to have higher population density with more commercial zoning.  And we're not talking about splitting the city, just 2 miles east and west of a narrow stretch of the 405.  Again, really stupid data. |-| 
+|-| cnxawb7 || 4 || Is there a time and place for pie charts? |-| 
+|-| cnxb3g4 || 3 || How much of a visualization should be designed to tell a story compared to letting the viewer explore the dataset? |-| 
+|-| cnxbxbg || 3 || I really love data-driven, visual journalism, but I didn't get any kind of practical experience working with it in my journalism classes (though I do have experience with Excel and SPSS) -- where should I start the self-teaching process to become a good data journalist, particularly with visual stories? |-| 
+|-| cnxbxwb || 3 || being a resident of LA, I'd say the 110 freeway seems to be more of the divider than the 405. cops don't ask you what the hell you're doing there when east of the 405, but east of the 110, they ask you what the hell you're doing there. |-| 
+|-| cnxbzii || 3 || How do you prototype your visualizations? Do you go directly to d3 with an idea of where you want to go or do you sketch out or use other software to prototype first?
+
+What kinds of teams do your organizations have set up to support you? Are you in charge of data collection, analysis, and design? Or do you have other teams around you to aid in any of these steps? |-| 
+|-| cnxcicz || 6 || What's your dream dataset? |-| 
+|-| cnxcowb || 7 || There were [many pieces](http://www.forbes.com/sites/trevorbutterworth/2014/10/02/when-data-journalism-goes-wrong/) and [tweets](https://twitter.com/albertocairo/status/516260495964532736) written last year bemoaning the poor methodology 
+used by data journalism sites. Is it possible that the speed at which online data journalists are required to publish at is negatively affecting the quality of the analysis and data visualizations being published? Because it seems that your sites often go for things that could go "viral," but are based on sketchy data or sloppy methodology. 
+ |-| 
+|-| cnxdbn1 || 16 || I think it's more likely that people stuck in the horrendous northbound commute have a higher tendency to pull off of the freeway in a rage and immediately stab, shoot, and rob whoever is around. |-| 
+|-| cnxdipl || 7 || Mr. Gorbachev, TEAR DOWN THIS ROAD. |-| 
+|-| cnxewuw || 4 || Ken should do one for the 580 freeway in Oakland, CA. |-| 
+|-| cnxfzc0 || 14 || Study says its analyzing Los Angeles City, yet it only studies the valley, A completely different demographic that is only one part of Los Angeles and does not represent the whole. He choose the valley part of the 405 which is a terrible place to divide the city (there is no divide and as others have stated there is a Dam, golf courses, and just less population in general to the west side of the 405 when you are in the Valley). The freeways in Los Angeles are not like train tracks. If you really want to find a divide look altitude. All the rich people in Los Angeles live in higher altitudes and all the poor people in lower ones. |-| 
+|-| cnxg205 || 4 || Calling Schacht a Nazi leader is a bit dubious, he was acquitted at Nuremberg. He was an economist who worked in pre-Nazi Germany and continued to try and help the economy one Hitler's band of merry murderers took over. In fact I believe he tried to prevent re-armament because it would unbalance the economy
+
+Also its interesting that the lowest IQ is from Streicher, the propagandist who's job was to make people obey and hate rather than critically assess  |-| 
+|-| cnxhlsf || -3 || Shows you how irrelevant IQ is to success. These geniuses thought they could win a war against entire world. |-| 
+|-| cnxi5po || 4 || The answer is simple: just build highways that only have one side.  |-| 
+|-| cnxkew8 || -3 || LA in infested with millions upon millions upon millions of hispanic illegal aliens and their offspring.
+
+Always a good laugh to watch someone from out of state come to LA, then realize what a diverse shithole it really is. Unless of course, you suffer from liberal white guilt.
+
+Then the world's your oyster! |-| 
+|-| cnxli2n || 4 || This is a classic case of accurate data but bad analysis.
+
+First, the area under analysis is the San Fernando Valley.  This largely residential suburban sprawl from 50 years ago.  The further north you go, the farther you are away from the heart of the city.
+
+Second, as someone already stated, the West side along this stretch has some golf courses, some parks, a huge airport and lot's of industrial/warehouse space....not high crime areas.  As you go north, the East side is traditionally been poorer, ethnic neighborhoods that are just statistically more likely to have higher crime.  I don't think this has any relation to the freeway.
+
+The area that should have been analyzed is further south, where the 405 divides the beach cities from South-Central Los Angeles. |-| 
+|-| cnxlqhu || 3 || I'm not sure how the author can have such a good grasp of statistics and making graphs without also being aware of the most important rule: correlation does not imply causation... The only thing proven is that there are different crime rates on either side of the free, this doesn't mean the freeway is the cause or offer any other explanation of why this is happening. |-| 
+|-| cnxogc9 || -4 || The only thing an IQ test can accurately determine is how well one does on IQ tests. 
+
+Modern IQ tests are nonsense. IQ tests from the '40s? Super nonsense. |-| 
+|-| cnxp9z4 || 4 || Oh great, so now I have to go out and buy a new compass.  |-| 
+|-| cnxq390 || 4 || Interesting, but the formatting in chart #2 is a little confusing.
+
+Only the blue bar should be shown if there's an exact count (how could there be?). Only the red bar only should be shown if there was only one estimate.
+
+ |-| 
+|-| cnxrmhv || -4 || WOW, so tolerance! much european! such nordic! |-| 
+|-| cnxsoia || 3 || Visualization of every major highway interchange in Los Angeles County:
+http://datalooksdope.com/interchanges/
+
+Visualization of homicide victims using photos from LAT's Homicide Report:
+http://datalooksdope.com/homicide/
+
+Interactive visualization (albeit imperfect) of all recorded homicides between 6/2010 - 7/2014 in Los Angeles County: 
+http://maxeinste.in/d3/  |-| 
+|-| cnxsws0 || 6 || Did anyone else read the list like four times looking for Hitler before paying attention to the rest of the graph at all? |-| 
+|-| cnxto09 || 4 || San Fernando Valley resident here.  Interesting thing about LA, the eastern parts of the city were populated first and then grew west (which seems odd since the ocean is to the west, but I digress).  So even in the Valley, where the test area was, the eastern neighborhoods are older.  With a few exceptions (studio city, valley village, etc.), these neighborhoods in the eastern valley are where white flight first took hold.  The white population continued to move west and north as darker skinned folk moved to the area.  Many of those neighborhoods east of the 405 are now predominantly latino, many of the residents being recent immigrants from central america (i'm thinking pacoima, arleta, panorama city, etc.).  These poorer demographics also bring higher crime stats with them.  The 405 in this case is just an arbitrary line that just happens to split the Valley in half and I'm certain has no direct correlation to crime levels.  You can see the west Valley is not immune to crime either.  the north/south line of red is Reseda Blvd and the east/west red line is Sherman Way.  Neighborhoods along these corridors such as Reseda, Winnetka and Canoga Park are not area I'd recommend anyone to live in unless they had to. |-| 
+|-| cnxwhim || 3 || What is the reason for focusing on this freeway, and ignoring the region in the southeast of the map with a much higher crime rate?
+
+Also, is geographic density the appropriate metric to use when displaying crimes on a map? Why not crimes per 1000 people? Using a map show us the spatial distribution.  
+
+What exactly is the 2-D view showing? From what I can tell its actually an end view of the freeway which would make it a 1-d view (i.e. crime density as a function of distance from the freeway). 
+
+
+While this is a pretty looking presentation of the data, in my opinion it sends the message that you started with a conclusion and then went looking for data to validate that conclusion.  |-| 
+|-| cny1ubh || 3 || Orange, the one weird outlier in it all. It does seem to be trending more blue slowly though. |-| 
+|-| cny2tft || -3 || **Really smart, manipulative villains.  Villains nonetheless, and it shows you that a person of low IQ can be a greater contributor to human society versus a person with high IQ attempting to ruin society** |-| 
+|-| cobtf1r || 165 || Interesting, but visiting pornhub.com is never SFW. Even if you are just reading articles. |-| 
+|-| cobuby4 || 57 || Really wish I had noticed the url before clicking at work :( |-| 
+|-| cobyvrr || 9 || I would like to have seen a search based break down... I'd imagine hentai related related traffic was largely unaffected. |-| 
+|-| cobyj5m || 15 || We live in an amazing time that we can track people's masturbation habits. |-| 
+|-| cobuxmy || 53 || **Attention: NSFW URL** ...even if the content is SFW |-| 
+|-| cobvd7q || 19 || After that Superbowl, everyone was playing with deflated balls. |-| 
+|-| coby01i || 5 || I can't imagine anyone finishing watching the game and then immediately go fap. I just...can't. |-| 
+|-| cobx97y || 15 || sunday is retube night for me so don't get so fucking full of yourself pornhub |-| 
+|-| cobur4a || -4 || What this lacks is a comparison to another Sunday. Traffic likely varies throughout the day anyways, and it's hard to see how much of the described game-day dip is because of the sueprbowl.  |-| 
+|-| cobwzxt || -12 || Nobody outside of the U.S. gives a shit about American Football. |-| 
+|-| cobvjic || -10 || I hate these type of posts which are really just PR pieces masquerading as data visualizations. There's a word for this, [bullshit data](http://www.niemanlab.org/2014/12/a-wave-of-p-r-data/):
+&gt;This is not data that is collected and analyzed in response to specific questions and whose quality is checked before publication, but prebuilt charts pushed to news organizations like press releases and targeted against specific topics like sex, anxiety, and shame that are more likely to elicit clicks. 
+
+ |-| 
+|-| cobvpf6 || -12 || Why dont you try replotting the same data on a fair graph which ranges from +100% to -100%? The change during Super Bowl hours would appear FAR less dramatic. This graph is deceptive and makes the deviation from the average percentage appear much greater than it actually is.
+
+People learn to read a graph. |-| 
+|-| cobxad8 || -8 || You know, I can just about forgive misplaced commas in comments.  But not in articles. |-| 
+|-| cobyvol || 33 || 1. stupid Americans? check!
+
+2. primarily an article with a tiny visualization? check!
+3. that visualization is some shitty graph that could easily be explained by one sentence? check!
+
+Well OP, looks like this is the perfect post for a sub called /r/dataisbeautiful ! Say hello to 3000 upvotes. |-| 
+|-| cobxeux || 213 || Americans, by and large, are lied to by extremely intelligent and persuasive professional liars, on a constant basis, and the institutions they *should* be able to trust have been corrupted to such a degree they either confirm the lies or do nothing to dispute them.  This is how you get Rick Perry and Rand Paul, and things like people not vaccinating their children and believing the End Times are imminent. |-| 
+|-| cobvq0e || 28 || It's not the supplements, per se, it's the cheap rip-off store and aftermarket brands that aren't selling even what they purport to sell.
+
+I mean, there was a time when medical science knew nothing of calcium, vitamins, St. John's Wort or fish oil. Those are all now proven effective, and surely some of these newer supplements are likely to have health benefits, if they actually *are* what they purport to be. |-| 
+|-| cobw2c8 || 88 || Seriously, this is supposed to be beautiful data? http://i.imgur.com/heZlyFv.png
+
+This sub just keeps getting more depressing.  |-| 
+|-| coc0c6l || 4 || So what about straight up vitamins?  I was told by my physician that I should take extra vitamin D.  So I take a vitamin "D" pill along with a Magnesium pill every morning.
+
+Is there a good chance that they aren't doing shit for me? |-| 
+|-| cobwqit || 18 || Most people actually don't meet the RDA values for some minerals. Couple that with the knowledge that RDA values aren't super meaningful and that we actually don't know optimal micronutrient intake that will net the highest quality of life means that making a statement like "people are getting enough vitamins from their diet" a silly claim. Maybe that they get enough vitamins to avoid acute deficiencies but nobody atm can claim that they get enough to minimize the risk of a cancer death or some other ailment.   |-| 
+|-| cobvnhr || 23 || That title doesn't even represent the article.  
+
+Folic acid deficiency *causes* spina bifida.
+
+Vitamin D deficiency *causes* rickets.
+
+Vitamin C deficiency *causes* scurvy.
+
+That's the science..that if you don't get enough of those vitamins in your diet, you will get those side effects.  A good healthy diet where you KNOW you are getting enough vitamins is preferable, of course.
+
+You just need to trust the manufacturer of the supplements you get.  BUT *of course* they aren't going to do any good if there is no vitamin anything in the pill at all. |-| 
+|-| cobz79c || 3 || Eh, it's hit or miss.
+
+Go take Dramamine for motion sickness, and then another time try Ginger capsules.
+
+Tell me if you liked being drowsy and sickness free, or just sickness free. |-| 
+|-| coc04lw || 3 || First of all, this isn't beautiful data.  There is a bar graph that goes up.  Most of the bars are blue the last few are red.  That is completely unremarkable data.
+
+Secondly, this is too vague to be interesting.  Dietary supplements includes everything from the whole range of vitamins to minerals, herbs, and supplemental oils.  In specific circumstances some supplements can be extremely beneficial, with Vitamin D being a particularly good example
+
+So why is this here?  It isn't beautiful or even aesthetically rich.  It isn't really data.  The problem is that this subreddit has degenerated into "numbers that give me an emotional reaction" which makes it pretty much useless.  Go back to r/politics or some other sewer with this crap. |-| 
+|-| coc07k1 || 3 || All at once, lets worship at the alter of the FDA and the AMA, because they have never shown incompetence or been wrong before.  Foolish citizen, that vitamin you are about to swallow is dangerous witchcraft and has not been sanctioned by the Ministry of Health.  All health and wellness comes from the government-approved prescription pads of the medical community.  Don't you know that doctors and the pharmaceutical industry have no profit motivation and always act solely in the best interest of your health? |-| 
+|-| cobzokn || 5 || Then there is this.  Physicians Health Study that came out this past January. "Potentially translating to prevention of approximately 68 000 cancers per year if all men were to use similar supplements,"  Referencing a Mulit vitamin/mineral.
+
+http://www.ncbi.nlm.nih.gov/pubmed/?term=25584933 |-| 
+|-| cobyd86 || 4 || Well it doesn't help that we are constantly being given contradictory information all the time. Like a few months ago when articles came out saying skipping breakfast is actually good for you, then a week later a bunch of articles came out saying the exact opposite. We aren't ignoring it. If anything, we are over anylyzing it, and mainly due to the fact that medicine is big business that is only concerned with profit margins as opposed to actually helping people. We, as Americans, are forced to take health care into our own hands because no one in the health care industry can be trusted because all they care about is getting your money. And there is no money made to be made giving people a cure. They only treat the symptoms and not the root issue. |-| 
+|-| cobravf || -13 || This makes me ashamed to be a gamer. Who the hell wants to watch this trash? Almost every thing on that graph is shit. Where are the games that take skill. Running back and forth in a lane playing "who can gank who first" is completely idiotic. Might as well play red light green light with your friends. 
+
+How do so many people like such terrible games
+
+At least Counter strike is on there thank Jesus  |-| 
+|-| coawvlg || 3 || My personal tactical interpretation. The 4-4-2 is substituted by the 4-1-4-1 and afterwards by the 4-2-3-1, and that's a sort of evolutionary sequence:
+The 4-4-2 system was the standard model in the 90s, and made of 4 defenders, 4 midfielders in a line and 2 strikers. In the 4-4-1-1 one of the forwards moves back and acts between the midfield line and the striker. The 4-2-3-1 is an additional evolution of the system, with the two wingers moving forward and acting on the line of the second striker, while the two central midfielders move a step back have mainly defensive and playmaking duties.
+
+ |-| 
+|-| cobo75o || 3 || Nice. East Timor doesn't make it?   |-| 
+|-| cob28h8 || 4 || Don'tyou watch  the Simpsons? It's not about making money it's about forging a new future in the Utopian vision of the glorious Elon Musk.  |-| 
+|-| coax94f || 4 || This is very misleading. Only about half of the states considered to be a part of the Bible Belt are represented on this map. Texas and North Carolina were among the lowest consumers, and many of the other Bible Belt states had comparable consumption to the rest of the country. Also, post the original chart next time. It was interactive. |-| 
+|-| cob0s68 || 3 || Data is showing the angle (horizontal axis) and angular velocity (vertical axis) of a chaotic pendulum (one governed by the Duffing equation). Each frame is a Poincaré plot -- the system is driven by a motor, and each time the motor reaches a particular point in its rotation, the angle and angular velocity of the pendulum at that time is plotted. The gif sweeps the range [0, 2pi) for the position of the motor.
+
+Data taken from a chaotic pendulum at my university using PASCO Capstone data capture software, and analysis was completed using Mathematica. |-| 
+|-| cob2fie || 3 || Maybe zoom out a little so you don't have to keep moving the camera? |-| 

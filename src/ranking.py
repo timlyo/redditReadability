@@ -15,12 +15,14 @@ def analyseFile(fileName):
 				fullLine = ""
 
 	with open(fileName + "-readability", "w") as file:
-		file.write("[score, readability],\n")
+		file.write('["Score", "Readability"],\n')
 		for line in lines:
 			score = int(line.replace("|-|", "").split("||")[1])
 			comment = line.replace("|-|", "").split("||")[2]
 			readability = getReadability(comment)
-			file.write("[" + str(score) + "," + str(readability) + "],\n")
+			if readability < -10:
+				continue
+			file.write("[" + str(score) + "," + "%0.2f" % readability + "],\n")
 
 
 def getReadability(comment):
