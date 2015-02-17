@@ -3,7 +3,7 @@ from redditParser import RedditParser
 from datetime import datetime as DateTime
 from manipulator import *
 from ranking import *
-from src.ranking import analyseFile
+from src.ranking import analyseFile, compileToFile
 
 mostSubscribed = [
 	"funny", "pics", "askreddit", "todayilearned", "worldnews", "science", "iama", "blog", "videos", "gaming"]
@@ -38,6 +38,9 @@ def main():
 
 	for subreddit in subredditList:
 		analyseFile("data/" + subreddit)
+
+	for subreddit in subredditList:
+		compileToFile(subredditList)
 
 	print("Finished, took " + str(DateTime.now() - startTime))
 

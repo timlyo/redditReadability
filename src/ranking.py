@@ -23,6 +23,18 @@ def analyseFile(fileName):
 			if readability < -10:
 				continue
 			file.write("[" + str(score) + "," + "%0.2f" % readability + "],\n")
+		file.write("],\n")
+
+
+def compileToFile(fileNames):
+	with open("projectReadabilityData.js", "w") as outputFile:
+		outputFile.write("var allData = [")
+		for file in sorted(fileNames):
+			with open("data/" + file + "-readability", "r") as inputFile:
+				for line in inputFile:
+					outputFile.write(line)
+				outputFile.write("\n")
+		outputFile.write("]")
 
 
 def getReadability(comment):
