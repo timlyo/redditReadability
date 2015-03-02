@@ -32,9 +32,9 @@ def main():
 	print("Analysing ", len(subredditList), " total")
 	print()
 
-	# redditParser = RedditParser(subredditList)
-	#
-	# processFileList(subredditList)
+	redditParser = RedditParser(subredditList)
+
+	processFileList(subredditList)
 
 	for subreddit in subredditList:
 		analyseFile("data/" + subreddit)

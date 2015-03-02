@@ -15,7 +15,7 @@ def analyseFile(fileName):
 				fullLine = ""
 
 	with open(fileName + "-readability", "w") as file:
-		file.write('["Score", "Readability"],\n')
+		file.write("[")
 		for line in lines:
 			score = int(line.replace("|-|", "").split("||")[1])
 			comment = line.replace("|-|", "").split("||")[2]
@@ -23,7 +23,7 @@ def analyseFile(fileName):
 			if readability < -10:
 				continue
 			file.write("[" + str(score) + "," + "%0.2f" % readability + "],\n")
-		file.write("],\n")
+		file.write("],\n\n")
 
 
 def compileToFile(fileNames):
@@ -32,9 +32,9 @@ def compileToFile(fileNames):
 		for file in sorted(fileNames):
 			with open("data/" + file + "-readability", "r") as inputFile:
 				for line in inputFile:
-					outputFile.write(line)
+					outputFile.write("\t" + line)
 				outputFile.write("\n")
-		outputFile.write("]")
+		outputFile.write("];")
 
 
 def getReadability(comment):
